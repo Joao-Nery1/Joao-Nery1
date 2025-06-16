@@ -20,7 +20,7 @@ Este repositório cobre as **primeiras três fases do projeto**, com estrutura m
   - Assinaturas
   - Pagamentos
   - Atividades dos Usuários
-  - Suporte (Tickets) *(Opcional)*  
+  - Suporte (Tickets)
 - **Saídas geradas:**
   - Diagrama Entidade-Relacionamento (ER)
   - Dicionário de Dados
@@ -128,7 +128,7 @@ This repository covers the **first three phases of the project**, with a modular
   - Subscriptions
   - Payments
   - User Activities
-  - Support (Tickets) *(Optional)*  
+  - Support (Tickets)
 - **Deliverables:**
   - Entity-Relationship Diagram (ERD)
   - Data Dictionary
