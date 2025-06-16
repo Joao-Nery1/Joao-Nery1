@@ -12,6 +12,10 @@ Tenho familiaridade com linguagens como **Python**, **SQL** e **C++**, aplicando
 
 Este repositório reúne projetos de análise de dados que percorrem todas as etapas do processo analítico: **extração**, **limpeza**, **modelagem**, **análise exploratória**, **visualizações interativas** e **criação de dashboards**.
 
+## 📚 Projetos
+
+- [📊 Análise de Vendas e Engajamento de uma Startup SaaS](./Projeto_SaaS_BI/README.md)
+
 As tecnologias utilizadas incluem:
 
 - 📈 **Microsoft Excel** (Power Query, Tabelas Dinâmicas, Fórmulas Avançadas)  
@@ -38,6 +42,10 @@ I'm familiar with programming languages such as **Python**, **SQL**, and **C++**
 ### 📂 About this repository
 
 This repository includes data analysis projects covering all steps of the analytical process: **data extraction**, **cleaning**, **modeling**, **exploratory analysis**, **interactive visualizations**, and **dashboard creation**.
+
+**## 📚 Projects
+
+- [📊 Análise de Vendas e Engajamento de uma Startup SaaS](./Projeto_SaaS_BI/README.md)**
 
 Technologies used:
 
