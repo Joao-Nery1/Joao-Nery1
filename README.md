@@ -45,7 +45,7 @@ This repository includes data analysis projects covering all steps of the analyt
 
 **## 📚 Projects
 
-- [📊 Análise de Vendas e Engajamento de uma Startup SaaS](./Projeto_SaaS_BI/README.md)**
+- [📊 Análise de Vendas e Engajamento de uma Startup SaaS](./Projeto_SaaS_BI/Docs/README.md)**
 
 Technologies used:
 
