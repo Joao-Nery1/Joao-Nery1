@@ -91,6 +91,12 @@ Este repositório cobre as **primeiras três fases do projeto**, com estrutura m
 
 ---
 
+## 📚 Ir Para o Projeto
+
+- [📊 Análise de Vendas e Engajamento de uma Startup SaaS](./Projeto_SaaS_BI)
+
+---
+
 ## 👨‍💻 Autor
 
 João Batista Nery  
