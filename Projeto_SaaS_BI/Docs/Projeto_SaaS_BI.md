@@ -1,5 +1,7 @@
 # 📊 Projeto de Business Intelligence - Análise de Vendas e Engajamento de uma Startup SaaS
 
+## 🇧🇷 Português
+
 ## 📝 Descrição do Projeto
 
 Este projeto simula o cenário real de uma startup de tecnologia no modelo **SaaS (Software as a Service)**, focada em oferecer uma plataforma digital por assinatura. O objetivo é desenvolver um ciclo completo de Business Intelligence, começando pela modelagem de dados, passando pela criação da base no SQL, até a construção de dashboards no **Power BI** e no **Excel**.
