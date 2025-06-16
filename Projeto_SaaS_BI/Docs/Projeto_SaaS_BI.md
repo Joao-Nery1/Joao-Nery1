@@ -95,7 +95,7 @@ Este repositório cobre as **primeiras três fases do projeto**, com estrutura m
 
 ## 📚 Ir Para o Projeto
 
-- [📊 Análise de Vendas e Engajamento de uma Startup SaaS](.)
+- [📊 Análise de Vendas e Engajamento de uma Startup SaaS](https://github.com/Joao-Nery1/Joao-Nery1/tree/main/Projeto_SaaS_BI)
 
 ---
 
@@ -205,7 +205,7 @@ This repository covers the **first three phases of the project**, with a modular
 
 ## 📚 Go to Project
 
-- [📊 Sales and Engagement Analysis for a SaaS Startup](.)
+- [📊 Sales and Engagement Analysis for a SaaS Startup](https://github.com/Joao-Nery1/Joao-Nery1/tree/main/Projeto_SaaS_BI)
 
 ---
 
