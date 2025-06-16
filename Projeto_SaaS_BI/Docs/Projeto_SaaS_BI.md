@@ -12,13 +12,13 @@ Este repositório cobre as **primeiras três fases do projeto**, com estrutura m
 
 ### 🏗️ 1. Modelagem de Dados (SQL Power Architect)
 
-- **Ferramenta usada:** SQL Power Architect
+- **Ferramenta usada:** SQL Power Architect  
 - **Entidades modeladas:**
   - Clientes
   - Assinaturas
   - Pagamentos
   - Atividades dos Usuários
-  - Suporte (Tickets) *(Opcional)*
+  - Suporte (Tickets) *(Opcional)*  
 - **Saídas geradas:**
   - Diagrama Entidade-Relacionamento (ER)
   - Dicionário de Dados
@@ -27,7 +27,7 @@ Este repositório cobre as **primeiras três fases do projeto**, com estrutura m
 
 ### 🛠️ 2. Criação do Banco de Dados (SQL)
 
-- **Banco escolhido:** *(MySQL / SQL Server / PostgreSQL – ajuste conforme o seu)*
+- **Banco escolhido:** SQL Server  
 - **Scripts desenvolvidos:**
   - Criação das tabelas
   - Inserção de dados fictícios (clientes, assinaturas, pagamentos, atividades)
@@ -84,20 +84,130 @@ Este repositório cobre as **primeiras três fases do projeto**, com estrutura m
 
 ## 🛠️ Tecnologias Utilizadas
 
-- SQL Power Architect
-- SQL Server
-- Power BI
-- Microsoft Excel
+- SQL Power Architect  
+- SQL Server  
+- Power BI  
+- Microsoft Excel  
 
 ---
 
 ## 📚 Ir Para o Projeto
 
-- [📊 Análise de Vendas e Engajamento de uma Startup SaaS](https://github.com/Joao-Nery1/Joao-Nery1/tree/078587a7120acf225d2b95a020854518b5dd69fd/Projeto_SaaS_BI)
+- [📊 Análise de Vendas e Engajamento de uma Startup SaaS](.)
 
 ---
 
 ## 👨‍💻 Autor
 
 João Batista Nery  
-[LinkedIn](www.linkedin.com/in/joaobatistanery)
+[LinkedIn](https://www.linkedin.com/in/joaobatistanery)
+
+---
+
+## 🇺🇸 English Version
+
+# 📊 Business Intelligence Project - Sales and Engagement Analysis for a SaaS Startup
+
+## 📝 Project Description
+
+This project simulates the real-world scenario of a technology startup operating under the **SaaS (Software as a Service)** model, focused on offering a subscription-based digital platform. The goal is to develop a complete **Business Intelligence cycle**, starting with data modeling, progressing to SQL database creation, and ending with dashboard construction using **Power BI** and **Excel**.
+
+This repository covers the **first three phases of the project**, with a modular structure for future expansions (Python, Machine Learning, etc.).
+
+---
+
+## ✅ Current Project Phases
+
+### 🏗️ 1. Data Modeling (SQL Power Architect)
+
+- **Tool used:** SQL Power Architect  
+- **Modeled entities:**
+  - Customers
+  - Subscriptions
+  - Payments
+  - User Activities
+  - Support (Tickets) *(Optional)*  
+- **Deliverables:**
+  - Entity-Relationship Diagram (ERD)
+  - Data Dictionary
+
+---
+
+### 🛠️ 2. Database Creation (SQL)
+
+- **Database chosen:** SQL Server  
+- **Scripts developed:**
+  - Table creation
+  - Insertion of fictional data (customers, subscriptions, payments, activities)
+  - SQL queries for initial KPIs:
+    - Monthly Recurring Revenue (MRR)
+    - Total Active Customers
+    - Churn Rate
+    - User Engagement
+
+---
+
+### 📈 3. Analysis and Dashboards (Power BI and Excel)
+
+- **Power BI:**
+  - Dashboard with main KPIs
+  - Revenue Analysis by Plan
+  - Customer and Revenue Evolution Over Time
+  - User Engagement Analysis
+
+- **Excel:**
+  - Pivot Tables with basic indicators
+  - Revenue and Customer Charts by Month
+  - KPI Export for Simple Reports
+
+---
+
+## 📂 Repository Folder Structure
+
+```
+/Projeto_SaaS_BI
+├── /SQL_Modelagem
+│ └── modelo_ER.pdf
+│ └── dicionario_dados.xlsx
+├── /SQL_Consultas
+│ └── scripts_criacao.sql
+│ └── dados_ficticios_inserts.sql
+│ └── consultas_KPIs.sql
+├── /PowerBI
+│ └── dashboard.pbix
+├── /Excel
+│ └── analise_kpis.xlsx
+├── /Docs
+│ └── README.md
+```
+
+
+---
+
+## 🚀 Next Steps (Future Phases)
+
+- 🔎 Python: Exploratory Data Analysis (EDA)
+- 📈 Machine Learning: Churn Prediction and Customer Segmentation
+- ⚙️ ETL Automation
+
+---
+
+## 🛠️ Technologies Used
+
+- SQL Power Architect  
+- SQL Server  
+- Power BI  
+- Microsoft Excel  
+
+---
+
+## 📚 Go to Project
+
+- [📊 Sales and Engagement Analysis for a SaaS Startup](.)
+
+---
+
+## 👨‍💻 Author
+
+João Batista Nery  
+[LinkedIn](https://www.linkedin.com/in/joaobatistanery)
