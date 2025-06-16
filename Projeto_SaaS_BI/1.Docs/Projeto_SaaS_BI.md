@@ -14,7 +14,7 @@ Este repositório cobre as **primeiras três fases do projeto**, com estrutura m
 
 ### 🏗️ 1. Modelagem de Dados (SQL Power Architect)
 
-- **Ferramenta usada:** SQL Power Architect  
+- **Ferramenta usada:** SQL Server (Database Diagrams)
 - **Entidades modeladas:**
   - Clientes
   - Assinaturas
