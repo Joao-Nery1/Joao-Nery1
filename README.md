@@ -25,9 +25,14 @@ As tecnologias utilizadas incluem:
 
 O objetivo principal é transformar dados brutos em **insights acionáveis**, apoiando decisões mais inteligentes e eficientes.
 
-### 🤝 Vamos trocar?
+## 🤝 Vamos trocar?
 
 Estou aberto a **conversas, feedbacks, colaborações** e novas conexões na área de dados. Fique à vontade para explorar, comentar ou entrar em contato!
+
+## 👨‍💻 Contato
+
+- [📎 LinkedIn](https://www.linkedin.com/in/joaobatistanery)
+- [📧 E-mail](mailto:joaobatistasilvanery@gmail.com)
 
 ---
 
@@ -56,6 +61,11 @@ Technologies used:
 
 The main goal is to turn raw data into **actionable insights** to support smarter and more efficient decisions.
 
-### 🤝 Let's connect!
+## 🤝 Let's connect!
 
 I'm open to **conversations, feedback, collaborations**, and new connections in the data field. Feel free to explore, reach out, or share ideas!
+
+### 👨‍💻 Contact
+
+- [📎 LinkedIn](https://www.linkedin.com/in/joaobatistanery)
+- [📧 E-mail](mailto:joaobatistasilvanery@gmail.com)
