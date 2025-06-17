@@ -1,4 +1,4 @@
--- 1. Popular a Dimensão de Datas (D_Date) - Gerar datas de 2022 até 2025
+-- 1. Popular a DimensÃ£o de Datas (D_Date) - Gerar datas de 2022 atÃ© 2025
 
 DECLARE @DataInicio DATE = '2022-01-01';
 DECLARE @DataFim DATE = '2025-12-31';
@@ -12,11 +12,11 @@ BEGIN
         @DataInicio,                                   -- Data completa
         YEAR(@DataInicio),                             -- Ano
         DATEPART(QUARTER, @DataInicio),                -- Trimestre
-        MONTH(@DataInicio),                            -- Mês
-        DAY(@DataInicio),                              -- Dia do mês
+        MONTH(@DataInicio),                            -- MÃªs
+        DAY(@DataInicio),                              -- Dia do mÃªs
         DATENAME(WEEKDAY, @DataInicio)                 -- Nome do dia da semana (Ex: Segunda-feira)
     );
-    -- Avança para o dia seguinte
+    -- AvanÃ§a para o dia seguinte
     SET @DataInicio = DATEADD(DAY, 1, @DataInicio);
 END;
 
@@ -29,12 +29,12 @@ BEGIN
     INSERT INTO D_Customer (customer_sk, customer_id, name, email, gender, birth_date, region, is_active)
     VALUES (
         @i,                                             -- Chave substituta
-        CONCAT('CUST', @i),                             -- ID fictício do cliente
-        CONCAT('Cliente_', @i),                         -- Nome fictício
-        CONCAT('cliente', @i, '@exemplo.com'),          -- Email fictício
-        CASE WHEN RAND() < 0.5 THEN 'Masculino' ELSE 'Feminino' END,  -- Gênero aleatório
-        DATEADD(DAY, FLOOR(RAND() * 36500), '1925-01-01'),            -- Data de nascimento simulada (até ~100 anos atrás, em dias)
-        CASE WHEN RAND() < 0.5 THEN 'Sudeste' ELSE 'Sul' END, -- Região aleatória
+        CONCAT('CUST', @i),                             -- ID fictÃ­cio do cliente
+        CONCAT('Cliente_', @i),                         -- Nome fictÃ­cio
+        CONCAT('cliente', @i, '@exemplo.com'),          -- Email fictÃ­cio
+        CASE WHEN RAND() < 0.5 THEN 'Masculino' ELSE 'Feminino' END,  -- GÃªnero aleatÃ³rio
+        DATEADD(DAY, FLOOR(RAND() * 36500), '1925-01-01'),            -- Data de nascimento simulada (atÃ© ~100 anos atrÃ¡s, em dias)
+        CASE WHEN RAND() < 0.5 THEN 'Sudeste' ELSE 'Sul' END, -- RegiÃ£o aleatÃ³ria
         CASE WHEN RAND() < 0.8 THEN 1 ELSE 0 END        -- Status de Ativo (80% ativos, 20% inativos)
     );
     SET @i = @i + 1;
@@ -50,16 +50,16 @@ BEGIN
     VALUES (
         @i,                                             -- Chave substituta
         CONCAT('ACT', @i),                              -- ID da atividade
-        CASE ABS(CHECKSUM(NEWID())) % 3                -- Tipo de atividade aleatório
+        CASE ABS(CHECKSUM(NEWID())) % 3                -- Tipo de atividade aleatÃ³rio
             WHEN 0 THEN 'Login'
-            WHEN 1 THEN 'Visualização'
+            WHEN 1 THEN 'VisualizaÃ§Ã£o'
             ELSE 'Compra'
         END,
-        CASE ABS(CHECKSUM(NEWID())) % 2                -- Tipo de dispositivo aleatório
+        CASE ABS(CHECKSUM(NEWID())) % 2                -- Tipo de dispositivo aleatÃ³rio
             WHEN 0 THEN 'Mobile'
             ELSE 'Desktop'
         END,
-        DATEADD(DAY, ABS(CHECKSUM(NEWID())) % 1095, '2022-01-01') -- Data aleatória entre 2022 e 2025
+        DATEADD(DAY, ABS(CHECKSUM(NEWID())) % 1095, '2022-01-01') -- Data aleatÃ³ria entre 2022 e 2025
     );
     SET @i = @i + 1;
 END;
@@ -74,8 +74,8 @@ BEGIN
     VALUES (
         @i,                                             -- Chave substituta
         CONCAT('SUB', @i),                              -- ID da assinatura
-        CASE WHEN RAND() < 0.5 THEN 'Basic' ELSE 'Premium' END,  -- Tipo de plano aleatório
-        DATEADD(DAY, ABS(CHECKSUM(NEWID())) % 900, '2022-01-01'), -- Data de início aleatória entre 2022-2024
+        CASE WHEN RAND() < 0.5 THEN 'Basic' ELSE 'Premium' END,  -- Tipo de plano aleatÃ³rio
+        DATEADD(DAY, ABS(CHECKSUM(NEWID())) % 900, '2022-01-01'), -- Data de inÃ­cio aleatÃ³ria entre 2022-2024
         NULL,                                           -- End date (pode ajustar depois se quiser)
         CASE WHEN RAND() < 0.3 THEN 1 ELSE 0 END        -- Status de cancelamento (30% canceladas)
     );
@@ -86,13 +86,13 @@ UPDATE D_Subscription
 SET end_date = DATEADD(
                    DAY,  -- Estamos adicionando dias ao start_date
                    
-                   -- Gera um número aleatório de dias:
+                   -- Gera um nÃºmero aleatÃ³rio de dias:
                    ABS(CHECKSUM(NEWID())) % DATEDIFF(DAY, start_date, '2025-12-31'), 
                    
-                   start_date  -- Soma os dias ao start_date, gerando uma data final depois do início
+                   start_date  -- Soma os dias ao start_date, gerando uma data final depois do inÃ­cio
                )
 WHERE end_date IS NULL;  
--- Filtro: só atualiza linhas onde o end_date está vazio (NULL)
+-- Filtro: sÃ³ atualiza linhas onde o end_date estÃ¡ vazio (NULL)
 
 
 -- 5. Popular Fatos de Pagamento (F_Payment) - Total de 10.000 registros
@@ -103,12 +103,12 @@ BEGIN
     INSERT INTO F_Payment (payment_sk, customer_sk, subscription_sk, date_sk, activity_sk, amount_paid, payment_status)
     VALUES (
         @i,                                             -- Chave substituta
-        (ABS(CHECKSUM(NEWID())) % 800) + 1,            -- Cliente aleatório entre 1 e 800
-        (ABS(CHECKSUM(NEWID())) % 1200) + 1,           -- Assinatura aleatória entre 1 e 1200
-        (SELECT TOP 1 date_sk FROM D_Date ORDER BY NEWID()), -- Data aleatória da tabela de datas
-        (ABS(CHECKSUM(NEWID())) % 2000) + 1,           -- Atividade aleatória entre 1 e 2000
+        (ABS(CHECKSUM(NEWID())) % 800) + 1,            -- Cliente aleatÃ³rio entre 1 e 800
+        (ABS(CHECKSUM(NEWID())) % 1200) + 1,           -- Assinatura aleatÃ³ria entre 1 e 1200
+        (SELECT TOP 1 date_sk FROM D_Date ORDER BY NEWID()), -- Data aleatÃ³ria da tabela de datas
+        (ABS(CHECKSUM(NEWID())) % 2000) + 1,           -- Atividade aleatÃ³ria entre 1 e 2000
         ROUND(RAND() * 500 + 20, 2),                   -- Valor pago (entre R$20 e R$520)
-        CASE ABS(CHECKSUM(NEWID())) % 3                -- Status de pagamento aleatório
+        CASE ABS(CHECKSUM(NEWID())) % 3                -- Status de pagamento aleatÃ³rio
             WHEN 0 THEN 'Pago'
             WHEN 1 THEN 'Pendente'
             ELSE 'Falhou'
