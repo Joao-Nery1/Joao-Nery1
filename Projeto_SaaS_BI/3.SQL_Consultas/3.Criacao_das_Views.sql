@@ -33,45 +33,47 @@ GROUP BY YEAR(D_Subscription.start_date), MONTH(D_Subscription.start_date);  -- 
 
 CREATE VIEW vw_Churn_Mensal AS
 SELECT
-    -- Ano e mês do cancelamento
+    -- Ano do cancelamento
     YEAR(D_Subscription.end_date) AS Ano,
+
+    -- Mês do cancelamento
     MONTH(D_Subscription.end_date) AS Mes,
 
-    -- Total de cancelamentos no mês
+    -- Quantidade de cancelamentos no mês
     COUNT(DISTINCT D_Subscription.subscription_sk) AS Cancelamentos,
 
     -- Total de clientes ativos no início do mês (base de clientes)
     (
-        SELECT COUNT(DISTINCT D_Subscription.subscription_sk)
-        FROM D_Subscription
-        WHERE D_Subscription.start_date <= DATEFROMPARTS(YEAR(D_Subscription.end_date), MONTH(D_Subscription.end_date), 1)
-          AND (D_Subscription.end_date IS NULL OR D_Subscription.end_date >= DATEFROMPARTS(YEAR(D_Subscription.end_date), MONTH(D_Subscription.end_date), 1))
+        SELECT COUNT(DISTINCT s.subscription_sk)       -- Conta quantos clientes estavam ativos no início do mês
+        FROM D_Subscription s
+        WHERE s.start_date <= DATEFROMPARTS(YEAR(D_Subscription.end_date), MONTH(D_Subscription.end_date), 1)  -- Clientes que começaram antes ou no início do mês
+          AND (s.end_date IS NULL OR s.end_date >= DATEFROMPARTS(YEAR(D_Subscription.end_date), MONTH(D_Subscription.end_date), 1))  -- Clientes que ainda estavam ativos no início do mês
     ) AS Base_Clientes_Mes,
 
     -- Cálculo da taxa de churn percentual
     CASE 
         WHEN (
-            SELECT COUNT(DISTINCT D_Subscription.subscription_sk)
-            FROM D_Subscription
-            WHERE D_Subscription.start_date <= DATEFROMPARTS(YEAR(D_Subscription.end_date), MONTH(D_Subscription.end_date), 1)
-              AND (D_Subscription.end_date IS NULL OR D_Subscription.end_date >= DATEFROMPARTS(YEAR(D_Subscription.end_date), MONTH(D_Subscription.end_date), 1))
+            SELECT COUNT(DISTINCT s.subscription_sk)    -- Verifica se a base de clientes do mês é maior que zero
+            FROM D_Subscription s
+            WHERE s.start_date <= DATEFROMPARTS(YEAR(D_Subscription.end_date), MONTH(D_Subscription.end_date), 1)
+              AND (s.end_date IS NULL OR s.end_date >= DATEFROMPARTS(YEAR(D_Subscription.end_date), MONTH(D_Subscription.end_date), 1))
         ) > 0
         THEN
             CAST(
-                COUNT(DISTINCT D_Subscription.subscription_sk) * 100.0 /
+                COUNT(DISTINCT D_Subscription.subscription_sk) * 100.0 /        -- Calcula a porcentagem de churn
                 (
-                    SELECT COUNT(DISTINCT D_Subscription.subscription_sk)
-                    FROM D_Subscription
-                    WHERE D_Subscription.start_date <= DATEFROMPARTS(YEAR(D_Subscription.end_date), MONTH(D_Subscription.end_date), 1)
-                      AND (D_Subscription.end_date IS NULL OR D_Subscription.end_date >= DATEFROMPARTS(YEAR(D_Subscription.end_date), MONTH(D_Subscription.end_date), 1))
+                    SELECT COUNT(DISTINCT s.subscription_sk)                    -- Divide pelo total da base de clientes do mês
+                    FROM D_Subscription s
+                    WHERE s.start_date <= DATEFROMPARTS(YEAR(D_Subscription.end_date), MONTH(D_Subscription.end_date), 1)
+                      AND (s.end_date IS NULL OR s.end_date >= DATEFROMPARTS(YEAR(D_Subscription.end_date), MONTH(D_Subscription.end_date), 1))
                 ) AS DECIMAL(5,2)
             )
-        ELSE 0
+        ELSE 0  -- Se a base for zero, retorna 0 para evitar divisão por zero
     END AS Churn_Rate_Percentual
 
 FROM D_Subscription
-WHERE D_Subscription.is_cancelled = 1
-GROUP BY YEAR(D_Subscription.end_date), MONTH(D_Subscription.end_date);
+WHERE D_Subscription.is_cancelled = 1  -- Considera apenas os cancelados
+GROUP BY YEAR(D_Subscription.end_date), MONTH(D_Subscription.end_date);  -- Agrupa por ano e mês do cancelamento
 
 
 -- VIEW 4: Engajamento Mensal por Cliente (Atividades por Mês)
