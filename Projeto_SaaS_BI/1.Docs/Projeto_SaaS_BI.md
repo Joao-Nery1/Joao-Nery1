@@ -4,7 +4,7 @@
 
 ## 📝 Descrição do Projeto
 
-Este projeto simula o cenário real de uma startup de tecnologia no modelo **SaaS (Software as a Service)**, focada em oferecer uma plataforma digital por assinatura. O objetivo é desenvolver um ciclo completo de Business Intelligence, começando pela modelagem de dados, passando pela criação da base no SQL, até a construção de dashboards no **Power BI** e no **Excel**.
+Este projeto simula o cenário real de uma startup de tecnologia no modelo **SaaS (Software as a Service)**, focada em oferecer uma plataforma digital por assinatura. O objetivo é desenvolver um ciclo completo de Business Intelligence, começando pela modelagem de dados, passando pela criação da base no SQL, até a construção de dashboards no **Power BI**.
 
 Este repositório cobre as **primeiras três fases do projeto**, com estrutura modular para futuras expansões (Python, Machine Learning, etc).
 
@@ -41,7 +41,7 @@ Este repositório cobre as **primeiras três fases do projeto**, com estrutura m
 
 ---
 
-### 📈 3. Análises e Dashboards (Power BI e Excel)
+### 📈 3. Análises e Dashboards (Power BI)
 
 - **Power BI:**
   - Dashboard com KPIs principais
@@ -103,7 +103,7 @@ João Batista Nery
 
 ## 📝 Project Description
 
-This project simulates the real-world scenario of a technology startup operating under the **SaaS (Software as a Service)** model, focused on offering a subscription-based digital platform. The goal is to develop a complete **Business Intelligence cycle**, starting with data modeling, progressing to SQL database creation, and ending with dashboard construction using **Power BI** and **Excel**.
+This project simulates the real-world scenario of a technology startup operating under the **SaaS (Software as a Service)** model, focused on offering a subscription-based digital platform. The goal is to develop a complete **Business Intelligence cycle**, starting with data modeling, progressing to SQL database creation, and ending with dashboard construction using **Power BI**.
 
 This repository covers the **first three phases of the project**, with a modular structure for future expansions (Python, Machine Learning, etc.).
 
@@ -140,7 +140,7 @@ This repository covers the **first three phases of the project**, with a modular
 
 ---
 
-### 📈 3. Analysis and Dashboards (Power BI and Excel)
+### 📈 3. Analysis and Dashboards (Power BI)
 
 - **Power BI:**
   - Dashboard with main KPIs
