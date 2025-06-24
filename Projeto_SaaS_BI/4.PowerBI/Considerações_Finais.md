@@ -12,6 +12,8 @@ Este documento apresenta uma visão consolidada do desempenho da empresa entre o
 
 ## 🗓️ Ano 2022
 
+[Relatório de 2022](https://ibb.co/cSBnPbXX)
+
 - **Faturamento**: R$ 462,8 mil  
 - **Clientes Pagantes**: 1.690  
 - **Churn Final**: 0,98%  
