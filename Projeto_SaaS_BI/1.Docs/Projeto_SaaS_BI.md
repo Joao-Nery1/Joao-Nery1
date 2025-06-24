@@ -49,11 +49,6 @@ Este repositório cobre as **primeiras três fases do projeto**, com estrutura m
   - Evolução de Clientes e Receita ao longo do tempo
   - Análise de Engajamento de Usuários
 
-- **Excel:**
-  - Tabelas Dinâmicas com indicadores básicos
-  - Gráficos de Receita e Clientes por mês
-  - Exportação de KPIs para relatórios simples
-
 ---
 
 ## 📂 Estrutura de Pastas do Repositório
@@ -78,7 +73,6 @@ Este repositório cobre as **primeiras três fases do projeto**, com estrutura m
 
 - 🔎 Python: Análise Exploratória de Dados (EDA)
 - 📈 Machine Learning: Predição de Churn e Segmentação de Clientes
-- ⚙️ Automação de ETL
 
 ---
 
@@ -154,11 +148,6 @@ This repository covers the **first three phases of the project**, with a modular
   - Customer and Revenue Evolution Over Time
   - User Engagement Analysis
 
-- **Excel:**
-  - Pivot Tables with basic indicators
-  - Revenue and Customer Charts by Month
-  - KPI Export for Simple Reports
-
 ---
 
 ## 📂 Repository Folder Structure
@@ -185,7 +174,6 @@ This repository covers the **first three phases of the project**, with a modular
 
 - 🔎 Python: Exploratory Data Analysis (EDA)
 - 📈 Machine Learning: Churn Prediction and Customer Segmentation
-- ⚙️ ETL Automation
 
 ---
 
