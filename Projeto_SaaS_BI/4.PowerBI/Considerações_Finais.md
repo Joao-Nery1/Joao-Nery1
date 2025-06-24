@@ -12,7 +12,7 @@ Este documento apresenta uma visão consolidada do desempenho da empresa entre o
 
 ## 🗓️ Ano 2022
 
-[Relatório de 2022](https://ibb.co/cSBnPbXX)
+[Clique aqui para acessar o relatório de 2022.](https://ibb.co/cSBnPbXX)
 
 - **Faturamento**: R$ 462,8 mil  
 - **Clientes Pagantes**: 1.690  
@@ -30,6 +30,8 @@ Este documento apresenta uma visão consolidada do desempenho da empresa entre o
 
 ## 🗓️ Ano 2023
 
+[Clique aqui para acessar o relatório de 2023.](https://ibb.co/21kCTbjf)
+
 - **Faturamento**: R$ 453,9 mil  
 - **Clientes Pagantes**: 1.655  
 - **Cancelamentos**: 120 (triplo do ano anterior)  
@@ -46,6 +48,8 @@ Este documento apresenta uma visão consolidada do desempenho da empresa entre o
 
 ## 🗓️ Ano 2024
 
+[Clique aqui para acessar o relatório de 2024.](https://ibb.co/3YN67SFS)
+
 - **Faturamento**: R$ 458,1 mil  
 - **Clientes Pagantes**: 1.672  
 - **Cancelamentos**: 247  
@@ -61,6 +65,10 @@ Este documento apresenta uma visão consolidada do desempenho da empresa entre o
 ---
 
 ## 🗓️ Ano 2025
+
+[Clique aqui para acessar o relatório de 2025.](https://ibb.co/gLtNjwff)
+
+[Tooltip referente ao desempenho do mês de Dezembro de 2025.](https://ibb.co/2Yhyqp6B)
 
 - **Faturamento**: R$ 466,5 mil (maior da série)  
 - **Clientes Pagantes**: 1.738 (recorde)  
