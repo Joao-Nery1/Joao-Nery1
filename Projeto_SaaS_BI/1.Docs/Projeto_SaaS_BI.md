@@ -68,8 +68,6 @@ Este repositório cobre as **primeiras três fases do projeto**, com estrutura m
 │ └── consultas_KPIs.sql
 ├── /PowerBI
 │ └── dashboard.pbix
-├── /Excel
-│ └── analise_kpis.xlsx
 ├── /Docs
 │ └── README.md
 ```
@@ -89,7 +87,6 @@ Este repositório cobre as **primeiras três fases do projeto**, com estrutura m
 - SQL Power Architect  
 - SQL Server  
 - Power BI  
-- Microsoft Excel  
 
 ---
 
@@ -177,8 +174,6 @@ This repository covers the **first three phases of the project**, with a modular
 │ └── consultas_KPIs.sql
 ├── /PowerBI
 │ └── dashboard.pbix
-├── /Excel
-│ └── analise_kpis.xlsx
 ├── /Docs
 │ └── README.md
 ```
@@ -199,7 +194,6 @@ This repository covers the **first three phases of the project**, with a modular
 - SQL Power Architect  
 - SQL Server  
 - Power BI  
-- Microsoft Excel  
 
 ---
 
