@@ -54,17 +54,20 @@ Este repositório cobre as **primeiras três fases do projeto**, com estrutura m
 ## 📂 Estrutura de Pastas do Repositório
 ```
 /Projeto_SaaS_BI
-├── /SQL_Modelagem
-│ └── modelo_ER.pdf
-│ └── dicionario_dados.xlsx
-├── /SQL_Consultas
-│ └── scripts_criacao.sql
-│ └── dados_ficticios_inserts.sql
-│ └── consultas_KPIs.sql
-├── /PowerBI
-│ └── dashboard.pbix
-├── /Docs
-│ └── README.md
+├── /1.Docs
+│ └── Projeto_Saas_BI.md
+├── /2.SQL_Modelagem
+│ └── 1.Diagrama_Entidade_Relacionamento.png
+│ └── 2.Codigo_Dicionario_de_Dados.sql
+│ └── 3.Dicionario_de_Dados.png
+├── /3.SQL_Consultas
+│ └── 1.Criação do Bando de Dados e Tabelas.sql
+│ └── 2.Alimentacao_das_Tabelas.sql
+│ └── 3.Criacao_das_Views.sql
+├── /4.PowerBI
+│ └── 1.Projeto_SaaS_BI.pbix
+│ └── 2.Considerações_Finais.md
+
 ```
 
 ---
@@ -154,18 +157,22 @@ This repository covers the **first three phases of the project**, with a modular
 
 ```
 /Projeto_SaaS_BI
-├── /SQL_Modelagem
-│ └── modelo_ER.pdf
-│ └── dicionario_dados.xlsx
-├── /SQL_Consultas
-│ └── scripts_criacao.sql
-│ └── dados_ficticios_inserts.sql
-│ └── consultas_KPIs.sql
-├── /PowerBI
-│ └── dashboard.pbix
-├── /Docs
-│ └── README.md
+├── /1.Docs
+│ └── Projeto_Saas_BI.md
+├── /2.SQL_Modelagem
+│ └── 1.Diagrama_Entidade_Relacionamento.png
+│ └── 2.Codigo_Dicionario_de_Dados.sql
+│ └── 3.Dicionario_de_Dados.png
+├── /3.SQL_Consultas
+│ └── 1.Criação do Bando de Dados e Tabelas.sql
+│ └── 2.Alimentacao_das_Tabelas.sql
+│ └── 3.Criacao_das_Views.sql
+├── /4.PowerBI
+│ └── 1.Projeto_SaaS_BI.pbix
+│ └── 2.Considerações_Finais.md
+
 ```
+
 
 
 ---
