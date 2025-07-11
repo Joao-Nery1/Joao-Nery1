@@ -4,7 +4,7 @@
 
 ### 👋 Sobre mim
 
-Olá! Sou engenheiro de Controle e Automação formado pela Universidade Federal de Lavras (UFLA) e atualmente curso pós-graduação em *Analytics e Business Intelligence* pela PUC Minas. Tenho como foco o desenvolvimento de soluções **data-driven**, unindo análise de dados, modelagem, automação de processos e visualizações interativas com ferramentas como **Power BI** e **Excel Avançado**.
+Olá! Sou engenheiro de Controle e Automação formado pela Universidade Federal de Lavras (UFLA) e atualmente curso pós-graduação em *Analytics e Business Intelligence* pela PUC Minas. Tenho como foco o desenvolvimento de soluções **data-driven**, unindo análise de dados, modelagem, automação de processos e visualizações interativas com ferramentas como **Power BI**, **Tableau** e **Excel Avançado**.
 
 Tenho familiaridade com linguagens como **Python**, **SQL** e **C++**, aplicando conceitos de **inteligência de negócios (BI)**, **indicadores de desempenho (KPIs)** e **eficiência operacional**. Busco constantemente oportunidades para atuar em projetos que gerem valor por meio dos dados e da tecnologia, sempre com uma visão estratégica voltada para a tomada de decisão.
 
@@ -21,6 +21,7 @@ As tecnologias utilizadas incluem:
 - 📈 **Microsoft Excel** (Power Query, Tabelas Dinâmicas, Fórmulas Avançadas)  
 - 🗄️ **SQL Server** (Consultas, Joins, Views, Procedures)  
 - 📊 **Power BI** (Modelagem de dados, DAX, Dashboards interativos)  
+- 🎨 Tableau (Desenvolvimento de dashboards, Visualizações interativas, Storytelling)
 - 🐍 **Python** (Pandas, Matplotlib, Seaborn, Jupyter Notebooks)
 
 O objetivo principal é transformar dados brutos em **insights acionáveis**, apoiando decisões mais inteligentes e eficientes.
@@ -40,7 +41,7 @@ Estou aberto a **conversas, feedbacks, colaborações** e novas conexões na ár
 
 ### 👋 About me
 
-Hi! I'm a Control and Automation Engineer, graduated from the Federal University of Lavras (UFLA), and currently pursuing a post-graduate degree in *Analytics and Business Intelligence* at PUC Minas. My focus is on developing **data-driven solutions** by combining data analysis, modeling, process automation, and interactive visualizations using tools like **Power BI** and advanced **Excel**.
+Hi! I'm a Control and Automation Engineer, graduated from the Federal University of Lavras (UFLA), and currently pursuing a post-graduate degree in *Analytics and Business Intelligence* at PUC Minas. My focus is on developing **data-driven solutions** by combining data analysis, modeling, process automation, and interactive visualizations using tools like **Power BI**, **Tableau** and advanced **Excel**.
 
 I'm familiar with programming languages such as **Python**, **SQL**, and **C++**, applying concepts of **business intelligence (BI)**, **key performance indicators (KPIs)**, and **operational efficiency**. I'm always looking for opportunities to work on data analysis and visualization projects, contributing strategically to data-informed decision-making and value generation through technology.
 
@@ -56,7 +57,8 @@ Technologies used:
 
 - 📈 **Microsoft Excel** (Power Query, Pivot Tables, Advanced Formulas)  
 - 🗄️ **SQL Server** (Queries, Joins, Views, Procedures)  
-- 📊 **Power BI** (Data modeling, DAX, Interactive dashboards)  
+- 📊 **Power BI** (Data modeling, DAX, Interactive dashboards)
+- 🎨 Tableau (Dashboard development, Interactive visualizations, Storytelling)
 - 🐍 **Python** (Pandas, Matplotlib, Seaborn, Jupyter Notebooks)
 
 The main goal is to turn raw data into **actionable insights** to support smarter and more efficient decisions.
