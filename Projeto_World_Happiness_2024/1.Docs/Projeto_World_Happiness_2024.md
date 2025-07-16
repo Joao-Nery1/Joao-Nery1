@@ -42,7 +42,7 @@ O ciclo de BI aqui é focado na **análise exploratória e na visualização de 
 /Projeto_World_Happiness_BI
 ├── /1.Docs
 │   └── 
-├── /2.CSV_Consulta
+├── /2.Consulta_csv_Kaggle
 │   └── 
 ├── /3.Tableau
 │   └── 
@@ -125,7 +125,7 @@ The BI cycle here is centered on **exploratory analysis and data visualization**
 /Projeto_World_Happiness_BI
 ├── /1.Docs
 │   └── 
-├── /2.CSV_Consulta
+├── /2.Consulta_csv_Kaggle
 │   └── 
 ├── /3.Tableau
 │   └── 
