@@ -69,14 +69,14 @@ O ciclo de BI aqui é focado na **análise exploratória e na visualização de 
 
 ## 📚 Ir Para o Projeto
 
-- [📊 Dashboard - Análise da Felicidade Global 2024](https://#SEU-LINK-PARA-O-PROJETO-AQUI)
+- [📊 Análise da Felicidade Global 2024](https://github.com/Joao-Nery1/Joao-Nery1/tree/main/Projeto_World_Happiness_2024)
 
 ---
 
 ## 👨‍💻 Autor
 
-João Batista Nery
-[LinkedIn](www.linkedin.com/in/joaobatistanery)
+João Batista Nery  
+[LinkedIn](https://www.linkedin.com/in/joaobatistanery)
 
 ---
 ---
@@ -151,11 +151,11 @@ The BI cycle here is centered on **exploratory analysis and data visualization**
 
 ## 📚 Go to Project
 
-- [📊 Dashboard - Global Happiness Analysis 2024](https://#YOUR-PROJECT-LINK-HERE)
+- [📊 Global Happiness Analysis 2024](https://github.com/Joao-Nery1/Joao-Nery1/tree/main/Projeto_World_Happiness_2024)
 
 ---
 
 ## 👨‍💻 Author
 
-João Batista Nery
-[LinkedIn](www.linkedin.com/in/joaobatistanery)
+João Batista Nery  
+[LinkedIn](https://www.linkedin.com/in/joaobatistanery)
