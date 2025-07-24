@@ -25,6 +25,7 @@ As tecnologias utilizadas incluem:
 - 📊 **Power BI** (Modelagem de dados, DAX, Dashboards interativos)  
 - 🎨 Tableau (Desenvolvimento de dashboards, Visualizações interativas, Storytelling)
 - 🐍 **Python** (Pandas, Matplotlib, Seaborn, Jupyter Notebooks)
+- 🔄 **Pentaho Data Integration (PDI)** (Jobs, Transformações, Table Inputs, Tratamento de Dados, Automatização de ETL)
 
 O objetivo principal é transformar dados brutos em **insights acionáveis**, apoiando decisões mais inteligentes e eficientes.
 
@@ -64,6 +65,7 @@ Technologies used:
 - 📊 **Power BI** (Data modeling, DAX, Interactive dashboards)
 - 🎨 Tableau (Dashboard development, Interactive visualizations, Storytelling)
 - 🐍 **Python** (Pandas, Matplotlib, Seaborn, Jupyter Notebooks)
+- 🔄 **Pentaho Data Integration (PDI)** (Jobs, Transformations, Table Inputs, Data Cleansing, ETL Automation)
 
 The main goal is to turn raw data into **actionable insights** to support smarter and more efficient decisions.
 
