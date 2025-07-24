@@ -15,7 +15,7 @@ Este repositório reúne projetos de análise de dados que percorrem todas as et
 ## 📚 Projetos
 
 - [📊 Análise de Vendas e Engajamento de uma Startup SaaS](./Projeto_SaaS_BI/1.Docs/Projeto_SaaS_BI.md)
-- [📊 Global Happiness Analysis 2024](https://github.com/Joao-Nery1/Joao-Nery1/tree/main/Projeto_World_Happiness_2024/1.Docs/Projeto_World_Happiness_2024.md)
+- [📊 Análise da Felicidade Global 2024](https://github.com/Joao-Nery1/Joao-Nery1/tree/main/Projeto_World_Happiness_2024/1.Docs/Projeto_World_Happiness_2024.md)
 - [📊 Análise da Felicidade Global 2024](https://github.com/Joao-Nery1/Joao-Nery1/tree/main/Projeto_ETL_DW_Loja/1.Docs/Projeto_ETL_DW_LojaEsporte.md)
 
 As tecnologias utilizadas incluem:
