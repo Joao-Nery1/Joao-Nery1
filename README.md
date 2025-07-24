@@ -16,6 +16,7 @@ Este repositório reúne projetos de análise de dados que percorrem todas as et
 
 - [📊 Análise de Vendas e Engajamento de uma Startup SaaS](./Projeto_SaaS_BI/1.Docs/Projeto_SaaS_BI.md)
 - [📊 Global Happiness Analysis 2024](https://github.com/Joao-Nery1/Joao-Nery1/tree/main/Projeto_World_Happiness_2024/1.Docs/Projeto_World_Happiness_2024.md)
+- [📊 Business Intelligence ETL Project - Sports Store](https://github.com/Joao-Nery1/Joao-Nery1/tree/main/Projeto_ETL_DW_Loja/Proejto_ETL_DW_LojaEsporte.md)
 
 As tecnologias utilizadas incluem:
 
@@ -54,6 +55,7 @@ This repository includes data analysis projects covering all steps of the analyt
 
 - [📊 Análise de Vendas e Engajamento de uma Startup SaaS](./Projeto_SaaS_BI/1.Docs/Projeto_SaaS_BI.md)
 - [📊 Global Happiness Analysis 2024](https://github.com/Joao-Nery1/Joao-Nery1/tree/main/Projeto_World_Happiness_2024/1.Docs/Projeto_World_Happiness_2024.md)
+- [📊 Business Intelligence ETL Project - Sports Store](https://github.com/Joao-Nery1/Joao-Nery1/tree/main/Projeto_ETL_DW_Loja/Porjeto_ETL_DW_LojaEsporte.md)
 
 Technologies used:
 
