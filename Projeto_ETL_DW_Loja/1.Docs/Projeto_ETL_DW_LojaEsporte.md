@@ -1,4 +1,4 @@
-# 🏬 Projeto de Business Intelligence - Loja Esportiva
+# 🏬 Projeto de ETL Business Intelligence - Loja Esportiva
 
 ## 🇧🇷 Português
 
@@ -20,7 +20,6 @@ O objetivo principal é demonstrar as práticas recomendadas de modelagem dimens
 - **Relacionamentos:** Normalização até a 3ª Forma Normal, com chaves estrangeiras bem definidas.
 - **Povoamento:** Dados de exemplo inseridos para simulação de vendas, produtos, e pagamentos.
 
-📎 Diagrama Relacional: `Diagrama_Entidade_Relacionamento.png`
 
 ---
 
@@ -33,7 +32,6 @@ O objetivo principal é demonstrar as práticas recomendadas de modelagem dimens
   - `TB_STG_CLIENTE`, `TB_STG_PRODUTO`, `TB_STG_PEDIDO`, `TB_STG_ITEM_PEDIDO`, `TB_STG_CATEGORIA_PRODUTO`, `TB_STG_TIPO_CLIENTE`
 - **Transformações Desenvolvidas:** Extração e inserção dos dados OLTP.
 
-📎 Diagrama STG: `Diagrama_Entidade_Relacionamento_STG.png`
 
 ---
 
@@ -46,7 +44,6 @@ O objetivo principal é demonstrar as práticas recomendadas de modelagem dimens
   - **Dimensões:** `TB_DIM_CLIENTE`, `TB_DIM_PRODUTO`, `TB_DIM_CATEGORIA_PRODUTO`, `TB_DIM_TIPO_CLIENTE`, `TB_DIM_ESTADO`, `TB_DIM_MES`
 - **Versões e Vigência:** Controle de versão em dimensões historificadas (SCD).
 
-📎 Diagrama DW: `Diagrama_Entidade_Relacionamento_DW.png`
 
 ---
 
@@ -61,19 +58,14 @@ O objetivo principal é demonstrar as práticas recomendadas de modelagem dimens
 
 ## 📂 Estrutura de Pastas do Repositório
 
-/Projeto_Loja_Esportiva_BI
-├── /1.Modelagem_OLTP
-│ └── Diagrama_Entidade_Relacionamento.png
-├── /2.STG
-│ └── Diagrama_Entidade_Relacionamento_STG.png
-│ └── JOB_STG.kjb
-├── /3.Data_Warehouse
-│ └── Diagrama_Entidade_Relacionamento_DW.png
-│ └── JOB_CARGA_DIM_FATO.kjb
-├── /4.Jobs_Completos
-│ └── JOB_CARGA_FRIA.kjb
-│ └── JOB_INCREMENTAL_MENSAL_PEDIDO.kjb
-
+```
+/Projeto_ETL_DW_Loja
+├── /1.Docs
+├── /2.Modelo_Relacional_SQL
+├── /3.Staging_Area_PDI
+├── /4.Modelo_Dimensional_DW_PDI
+├── /5.Jobs_Pentaho_Data_Integration
+```
 
 ---
 
@@ -96,7 +88,7 @@ O objetivo principal é demonstrar as práticas recomendadas de modelagem dimens
 
 ## 📚 Acesse o Projeto
 
-- [🔗 Link para o repositório no GitHub](https://github.com/seu_usuario/Projeto_Loja_Esportiva_BI)
+- [📊 Projeto de ETL Business Intelligence - Loja Esportiva](https://github.com/Joao-Nery1/Joao-Nery1/tree/main/Projeto_ETL_DW_Loja)
 
 ---
 
@@ -111,7 +103,7 @@ João Batista Nery
 
 ## 🇺🇸 English Version
 
-# 🏬 Business Intelligence Project - Sports Store
+# 🏬 Business Intelligence ETL Project - Sports Store
 
 ## 📝 Project Description
 
@@ -131,7 +123,6 @@ The main goal is to demonstrate best practices in dimensional modeling, ETL proc
 - **Relationships:** Normalized up to 3NF with foreign keys.
 - **Population:** Example data inserted to simulate transactions and records.
 
-📎 Relational Diagram: `Diagrama_Entidade_Relacionamento.png`
 
 ---
 
@@ -144,8 +135,6 @@ The main goal is to demonstrate best practices in dimensional modeling, ETL proc
   - `TB_STG_CLIENTE`, `TB_STG_PRODUTO`, `TB_STG_PEDIDO`, `TB_STG_ITEM_PEDIDO`, `TB_STG_CATEGORIA_PRODUTO`, `TB_STG_TIPO_CLIENTE`
 - **Transformations:** Basic data extraction and loading from OLTP.
 
-📎 STG Diagram: `Diagrama_Entidade_Relacionamento_STG.png`
-
 ---
 
 ### 🏛️ 3. Data Warehouse (DW)
@@ -157,7 +146,6 @@ The main goal is to demonstrate best practices in dimensional modeling, ETL proc
   - **Dimensions:** `TB_DIM_CLIENTE`, `TB_DIM_PRODUTO`, `TB_DIM_CATEGORIA_PRODUTO`, `TB_DIM_TIPO_CLIENTE`, `TB_DIM_ESTADO`, `TB_DIM_MES`
 - **Versioning:** Slowly Changing Dimensions (SCD) handled in dimensions.
 
-📎 DW Diagram: `Diagrama_Entidade_Relacionamento_DW.png`
 
 ---
 
@@ -170,20 +158,16 @@ The main goal is to demonstrate best practices in dimensional modeling, ETL proc
   - `JOB_CARGA_FRIA.kjb`: Complete cold load job.
   - `JOB_INCREMENTAL_MENSAL_PEDIDO.kjb`: Example of incremental monthly load.
 
+## 📂 Repository Folder Structure
 
-/Projeto_Loja_Esportiva_BI
-├── /1.OLTP_Modeling
-│ └── Diagrama_Entidade_Relacionamento.png
-├── /2.STG
-│ └── Diagrama_Entidade_Relacionamento_STG.png
-│ └── JOB_STG.kjb
-├── /3.Data_Warehouse
-│ └── Diagrama_Entidade_Relacionamento_DW.png
-│ └── JOB_CARGA_DIM_FATO.kjb
-├── /4.Full_Jobs
-│ └── JOB_CARGA_FRIA.kjb
-│ └── JOB_INCREMENTAL_MENSAL_PEDIDO.kjb
-
+```
+/Projeto_ETL_DW_Loja
+├── /1.Docs
+├── /2.Modelo_Relacional_SQL
+├── /3.Staging_Area_PDI
+├── /4.Modelo_Dimensional_DW_PDI
+├── /5.Jobs_Pentaho_Data_Integration
+```
 
 ---
 
@@ -206,7 +190,8 @@ The main goal is to demonstrate best practices in dimensional modeling, ETL proc
 
 ## 📚 Go to Project
 
-- [🔗 GitHub Repository Link](https://github.com/seu_usuario/Projeto_Loja_Esportiva_BI)
+- [📊 Business Intelligence ETL Project - Sports Store](https://github.com/Joao-Nery1/Joao-Nery1/tree/main/Projeto_ETL_DW_Loja)
+
 
 ---
 
