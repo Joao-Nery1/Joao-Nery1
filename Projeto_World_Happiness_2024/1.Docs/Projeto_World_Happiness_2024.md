@@ -26,27 +26,24 @@ O ciclo de BI aqui é focado na **análise exploratória e na visualização de 
 
 - **Ferramenta Utilizada:** Tableau Public / Tableau Desktop
 - **Dashboard Desenvolvido:** Um dashboard interativo com duas páginas principais.
-  - **Página 1: Panorama Global da Felicidade**
+  - **Página 1: O Mapa da Felicidade: Uma Visão Geral do Bem-Estar no Mundo**
     - Mapa mundial interativo com as pontuações de felicidade.
     - Rankings dos países mais e menos felizes.
-    - Gráfico dinâmico para decompor os fatores que contribuem para a felicidade de um país selecionado.
-  - **Página 2: Análise Profunda: Gerações e Emoções**
-    - Análise comparativa da felicidade entre diferentes faixas etárias (tema principal do relatório de 2024).
-    - Análise do perfil emocional das nações, cruzando emoções positivas e negativas.
-
+  - **Página 2: O Que Constrói a Felicidade? Uma Análise Profunda dos Fatores de Influência**
+    - Análise comparativa da felicidade correlacionada com diversos fatores, tais como a Expectativa de Vida, Apoio Social, Generodidade, PIB, Poder de Escolha e Percepção de Corrupção.
 ---
 
 ## 📂 Estrutura de Pastas do Repositório
 
  ```
-/Projeto_World_Happiness_BI
+/Projeto_World_Happiness_2024
 ├── /1.Docs
-│   └── 
-├── /2.Consulta_csv_Kaggle
-│   └── 
+│   └── Projeto_World_Happiness_2024.md
+├── /2.Consulta_Kaggle_csv
+│   └── World-happiness-report-2024.csv
 ├── /3.Tableau
-│   └── 
-│   └── 
+│   └── 1.Projeto_WH_2024_Tableau.twb
+│   └── 2.Considerações_Finais.md
 
   ```
 
@@ -109,28 +106,25 @@ The BI cycle here is centered on **exploratory analysis and data visualization**
 
 - **Tool Used:** Tableau Public / Tableau Desktop
 - **Dashboard Developed:** An interactive dashboard with two main pages.
-  - **Page 1: Global Happiness Overview**
+  - **Page 1: The Map of Happiness: An Overview of Well-being in the World**
     - Interactive world map with happiness scores.
     - Rankings of the happiest and least happy countries.
-    - Dynamic chart to break down the factors contributing to the happiness of a selected country.
-  - **Page 2: Deep Dive: Generations and Emotions**
-    - Comparative analysis of happiness across different age groups (the main theme of the 2024 report).
-    - Analysis of the emotional profile of nations, plotting positive and negative emotions.
+  - **Page 2: What Builds Happiness? An In-depth Analysis of Influencing Factors**
+    - Comparative analysis of happiness correlated with several factors, such as Life Expectancy, Social Support, Generosity, GDP, Freedom to Make Life Choices, and Perception of Corruption.
 
 ---
 
 ## 📂 Repository Folder Structure
 
  ```
-/Projeto_World_Happiness_BI
+/Projeto_World_Happiness_2024
 ├── /1.Docs
-│   └── 
-├── /2.Consulta_csv_Kaggle
-│   └── 
+│   └── Projeto_World_Happiness_2024.md
+├── /2.Consulta_Kaggle_csv
+│   └── World-happiness-report-2024.csv
 ├── /3.Tableau
-│   └── 
-│   └── 
-
+│   └── 1.Projeto_WH_2024_Tableau.twb
+│   └── 2.Considerações_Finais.md
   ```
 
 ---
