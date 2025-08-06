@@ -81,7 +81,6 @@ Este repositório cobre as **primeiras três fases do projeto**, com estrutura m
 
 ## 🛠️ Tecnologias Utilizadas
 
-- SQL Power Architect  
 - SQL Server  
 - Power BI  
 
@@ -186,7 +185,6 @@ This repository covers the **first three phases of the project**, with a modular
 
 ## 🛠️ Technologies Used
 
-- SQL Power Architect  
 - SQL Server  
 - Power BI  
 
