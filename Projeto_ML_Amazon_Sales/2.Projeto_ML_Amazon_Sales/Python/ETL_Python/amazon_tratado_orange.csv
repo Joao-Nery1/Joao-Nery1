@@ -1,0 +1,1464 @@
+discounted_price,actual_price,discount_percentage,rating,Classificacao de Vendas,tamanho_nome,tamanho_descricao,categoria_principal
+399.0,1099.0,0.64,4.2,Sucesso Moderado,162,960,Computers&Accessories
+199.0,349.0,0.43,4.0,Sucesso Moderado,193,605,Computers&Accessories
+199.0,1899.0,0.9,3.9,Sucesso Moderado,136,1091,Computers&Accessories
+329.0,699.0,0.53,4.2,Sucesso Moderado,199,699,Computers&Accessories
+154.0,399.0,0.61,4.2,Sucesso Moderado,110,574,Computers&Accessories
+149.0,1000.0,0.85,3.9,Sucesso Moderado,193,820,Computers&Accessories
+176.63,499.0,0.65,4.1,Sucesso Moderado,111,851,Computers&Accessories
+229.0,299.0,0.23,4.3,Sucesso Moderado,38,261,Computers&Accessories
+499.0,999.0,0.5,4.2,Viral/Sucesso de Vendas,195,646,Computers&Accessories
+199.0,299.0,0.33,4.0,Sucesso Moderado,183,580,Computers&Accessories
+154.0,339.0,0.55,4.3,Sucesso Moderado,126,462,Computers&Accessories
+299.0,799.0,0.63,4.2,Sucesso Moderado,80,734,Computers&Accessories
+219.0,700.0,0.69,4.4,Viral/Sucesso de Vendas,73,543,Electronics
+350.0,899.0,0.61,4.2,Sucesso Moderado,166,853,Computers&Accessories
+159.0,399.0,0.6,4.1,Sucesso Moderado,103,574,Computers&Accessories
+349.0,399.0,0.13,4.4,Sucesso Moderado,54,109,Computers&Accessories
+13999.0,24999.0,0.44,4.2,Sucesso Moderado,79,1067,Electronics
+249.0,399.0,0.38,4.0,Sucesso Moderado,185,571,Computers&Accessories
+199.0,499.0,0.6,4.1,Sucesso Moderado,107,597,Computers&Accessories
+13490.0,21990.0,0.39,4.3,Sucesso Moderado,71,934,Electronics
+970.0,1799.0,0.46,4.5,Fracasso/Nicho,154,367,Computers&Accessories
+279.0,499.0,0.44,3.7,Sucesso Moderado,90,923,Electronics
+13490.0,22900.0,0.41,4.3,Sucesso Moderado,99,1067,Electronics
+59.0,199.0,0.7,4.0,Sucesso Moderado,43,566,Computers&Accessories
+11499.0,19990.0,0.42,4.3,Sucesso Moderado,84,1374,Electronics
+199.0,699.0,0.72,4.2,Sucesso Moderado,147,694,Electronics
+14999.0,19999.0,0.25,4.2,Sucesso Moderado,77,1181,Electronics
+299.0,399.0,0.25,4.0,Sucesso Moderado,116,707,Computers&Accessories
+970.0,1999.0,0.51,4.4,Fracasso/Nicho,159,366,Computers&Accessories
+299.0,999.0,0.7,4.3,Sucesso Moderado,66,633,Computers&Accessories
+199.0,750.0,0.73,4.5,Sucesso Moderado,115,673,Computers&Accessories
+179.0,499.0,0.64,4.0,Sucesso Moderado,187,401,Computers&Accessories
+389.0,1099.0,0.65,4.3,Fracasso/Nicho,188,773,Computers&Accessories
+599.0,599.0,0.0,4.3,Fracasso/Nicho,63,123,Computers&Accessories
+199.0,999.0,0.8,3.9,Sucesso Moderado,197,918,Computers&Accessories
+99.0,666.66,0.85,3.9,Sucesso Moderado,171,790,Computers&Accessories
+899.0,1900.0,0.53,4.4,Sucesso Moderado,127,857,Computers&Accessories
+199.0,999.0,0.8,4.0,Fracasso/Nicho,194,1491,Computers&Accessories
+32999.0,45999.0,0.28,4.2,Sucesso Moderado,86,972,Electronics
+970.0,1999.0,0.51,4.2,Fracasso/Nicho,170,288,Computers&Accessories
+209.0,695.0,0.7,4.5,Viral/Sucesso de Vendas,106,405,Computers&Accessories
+19999.0,34999.0,0.43,4.3,Sucesso Moderado,67,1272,Electronics
+399.0,1099.0,0.64,4.2,Sucesso Moderado,120,761,Computers&Accessories
+999.0,1599.0,0.38,4.3,Sucesso Moderado,194,708,Computers&Accessories
+59.0,199.0,0.7,4.0,Sucesso Moderado,178,497,Computers&Accessories
+333.0,999.0,0.67,3.3,Sucesso Moderado,150,783,Computers&Accessories
+507.0,1208.0,0.58,4.1,Sucesso Moderado,57,386,Computers&Accessories
+309.0,475.0,0.35,4.4,Viral/Sucesso de Vendas,83,672,Electronics
+399.0,999.0,0.6,3.6,Fracasso/Nicho,205,800,Electronics
+199.0,395.0,0.5,4.2,Sucesso Moderado,135,373,Computers&Accessories
+1199.0,2199.0,0.45,4.4,Sucesso Moderado,206,819,Computers&Accessories
+179.0,500.0,0.64,4.2,Sucesso Moderado,105,407,Computers&Accessories
+799.0,2100.0,0.62,4.3,Sucesso Moderado,138,138,Computers&Accessories
+6999.0,12999.0,0.46,4.2,Sucesso Moderado,67,939,Electronics
+199.0,349.0,0.43,4.1,Fracasso/Nicho,113,481,Computers&Accessories
+230.0,499.0,0.54,3.7,Sucesso Moderado,25,86,Electronics
+649.0,1399.0,0.54,4.2,Viral/Sucesso de Vendas,200,667,Computers&Accessories
+15999.0,21999.0,0.27,4.2,Sucesso Moderado,79,1003,Electronics
+348.0,1499.0,0.77,4.2,Fracasso/Nicho,162,671,Computers&Accessories
+154.0,349.0,0.56,4.3,Sucesso Moderado,96,588,Computers&Accessories
+179.0,799.0,0.78,3.7,Sucesso Moderado,92,108,Electronics
+32990.0,47900.0,0.31,4.3,Sucesso Moderado,93,1163,Electronics
+139.0,999.0,0.86,4.0,Sucesso Moderado,79,537,Computers&Accessories
+329.0,845.0,0.61,4.2,Sucesso Moderado,84,699,Computers&Accessories
+13999.0,24999.0,0.44,4.2,Sucesso Moderado,91,1483,Electronics
+309.0,1400.0,0.78,4.4,Viral/Sucesso de Vendas,58,743,Electronics
+263.0,699.0,0.62,4.1,Fracasso/Nicho,128,1218,Computers&Accessories
+7999.0,14990.0,0.47,4.3,Fracasso/Nicho,63,871,Electronics
+1599.0,2999.0,0.47,4.2,Sucesso Moderado,99,103,Electronics
+219.0,700.0,0.69,4.3,Sucesso Moderado,102,675,Computers&Accessories
+349.0,899.0,0.61,4.5,Fracasso/Nicho,242,1312,Computers&Accessories
+349.0,599.0,0.42,4.1,Fracasso/Nicho,185,1055,Computers&Accessories
+26999.0,42999.0,0.37,4.2,Sucesso Moderado,82,1332,Electronics
+115.0,499.0,0.77,4.0,Sucesso Moderado,171,313,Computers&Accessories
+399.0,999.0,0.6,4.1,Sucesso Moderado,183,653,Computers&Accessories
+199.0,499.0,0.6,4.1,Fracasso/Nicho,186,391,Computers&Accessories
+179.0,399.0,0.55,4.0,Sucesso Moderado,172,792,Computers&Accessories
+10901.0,30990.0,0.65,4.1,Fracasso/Nicho,77,984,Electronics
+209.0,499.0,0.58,3.9,Fracasso/Nicho,155,1201,Computers&Accessories
+1434.0,3999.0,0.64,4.0,Fracasso/Nicho,16,848,Electronics
+399.0,1099.0,0.64,4.2,Sucesso Moderado,90,967,Computers&Accessories
+139.0,249.0,0.44,4.0,Sucesso Moderado,166,557,Computers&Accessories
+7299.0,19125.0,0.62,3.4,Fracasso/Nicho,70,1088,Electronics
+299.0,799.0,0.63,4.4,Sucesso Moderado,77,722,Computers&Accessories
+325.0,1299.0,0.75,4.2,Sucesso Moderado,200,1186,Computers&Accessories
+29999.0,39999.0,0.25,4.2,Sucesso Moderado,86,1171,Electronics
+27999.0,40990.0,0.32,4.3,Sucesso Moderado,88,1482,Electronics
+30990.0,52900.0,0.41,4.3,Sucesso Moderado,89,954,Electronics
+199.0,999.0,0.8,4.5,Fracasso/Nicho,206,1181,Computers&Accessories
+649.0,1999.0,0.68,4.2,Sucesso Moderado,124,761,Computers&Accessories
+269.0,800.0,0.66,3.6,Sucesso Moderado,197,425,Computers&Accessories
+24999.0,31999.0,0.22,4.2,Sucesso Moderado,79,1003,Electronics
+299.0,699.0,0.57,4.2,Sucesso Moderado,190,699,Computers&Accessories
+199.0,999.0,0.8,4.1,Fracasso/Nicho,73,756,Computers&Accessories
+18990.0,40990.0,0.54,4.2,Sucesso Moderado,79,979,Electronics
+290.0,349.0,0.17,3.7,Sucesso Moderado,137,214,Computers&Accessories
+249.0,799.0,0.69,3.8,Sucesso Moderado,162,357,Electronics
+345.0,999.0,0.65,3.7,Sucesso Moderado,130,413,Computers&Accessories
+1099.0,1899.0,0.42,4.5,Sucesso Moderado,78,426,Computers&Accessories
+719.0,1499.0,0.52,4.1,Sucesso Moderado,220,1634,Computers&Accessories
+349.0,1499.0,0.77,4.3,Sucesso Moderado,119,743,Electronics
+849.0,1809.0,0.53,4.3,Sucesso Moderado,139,138,Computers&Accessories
+299.0,899.0,0.67,4.0,Sucesso Moderado,163,266,Electronics
+21999.0,29999.0,0.27,4.2,Sucesso Moderado,127,1068,Electronics
+349.0,999.0,0.65,4.2,Sucesso Moderado,144,677,Computers&Accessories
+399.0,999.0,0.6,4.3,Sucesso Moderado,189,1445,Computers&Accessories
+449.0,1299.0,0.65,4.2,Sucesso Moderado,134,956,Computers&Accessories
+299.0,999.0,0.7,4.3,Fracasso/Nicho,101,745,Computers&Accessories
+37999.0,65000.0,0.42,4.3,Sucesso Moderado,78,1359,Electronics
+99.0,800.0,0.88,3.9,Sucesso Moderado,173,764,Computers&Accessories
+7390.0,20000.0,0.63,4.1,Sucesso Moderado,70,738,Electronics
+273.1,999.0,0.73,4.3,Sucesso Moderado,66,645,Computers&Accessories
+15990.0,23990.0,0.33,4.3,Sucesso Moderado,70,1247,Electronics
+399.0,999.0,0.6,4.1,Sucesso Moderado,178,652,Computers&Accessories
+399.0,1999.0,0.8,4.5,Fracasso/Nicho,174,622,Electronics
+210.0,399.0,0.47,4.1,Sucesso Moderado,128,642,Computers&Accessories
+1299.0,1999.0,0.35,3.6,Fracasso/Nicho,116,123,Electronics
+347.0,999.0,0.65,3.5,Sucesso Moderado,199,1018,Computers&Accessories
+149.0,999.0,0.85,4.0,Sucesso Moderado,104,346,Computers&Accessories
+228.0,899.0,0.75,3.8,Fracasso/Nicho,127,60,Computers&Accessories
+1599.0,1999.0,0.2,4.4,Sucesso Moderado,146,98,Computers&Accessories
+1499.0,3999.0,0.63,3.7,Fracasso/Nicho,138,594,Electronics
+8499.0,15999.0,0.47,4.3,Fracasso/Nicho,91,1003,Electronics
+20990.0,44990.0,0.53,4.1,Sucesso Moderado,84,1283,Electronics
+32999.0,44999.0,0.27,4.2,Sucesso Moderado,80,1206,Electronics
+799.0,1700.0,0.53,4.1,Sucesso Moderado,66,261,Electronics
+229.0,595.0,0.62,4.3,Sucesso Moderado,70,217,Electronics
+9999.0,27990.0,0.64,4.2,Sucesso Moderado,62,969,Electronics
+349.0,599.0,0.42,4.2,Fracasso/Nicho,161,540,Electronics
+489.0,1200.0,0.59,4.4,Sucesso Moderado,86,591,Electronics
+23999.0,34990.0,0.31,4.3,Sucesso Moderado,88,1482,Electronics
+399.0,999.0,0.6,4.3,Sucesso Moderado,148,1452,Computers&Accessories
+349.0,1299.0,0.73,4.0,Sucesso Moderado,152,9,Electronics
+179.0,299.0,0.4,3.9,Fracasso/Nicho,95,51,Computers&Accessories
+689.0,1500.0,0.54,4.2,Sucesso Moderado,139,138,Computers&Accessories
+30990.0,49990.0,0.38,4.3,Sucesso Moderado,74,1138,Electronics
+249.0,931.0,0.73,3.9,Sucesso Moderado,168,817,Computers&Accessories
+999.0,2399.0,0.58,4.6,Sucesso Moderado,200,869,Electronics
+399.0,399.0,0.0,3.9,Sucesso Moderado,83,149,Electronics
+349.0,699.0,0.5,4.3,Sucesso Moderado,87,477,Computers&Accessories
+399.0,1099.0,0.64,4.1,Sucesso Moderado,156,1302,Computers&Accessories
+1699.0,2999.0,0.43,4.4,Sucesso Moderado,166,907,Computers&Accessories
+655.0,1099.0,0.4,3.2,Fracasso/Nicho,165,757,Electronics
+749.0,1339.0,0.44,4.2,Viral/Sucesso de Vendas,165,607,Computers&Accessories
+9999.0,12999.0,0.23,4.2,Sucesso Moderado,76,675,Electronics
+195.0,499.0,0.61,3.7,Sucesso Moderado,89,35,Electronics
+999.0,2100.0,0.52,4.5,Sucesso Moderado,120,138,Computers&Accessories
+499.0,899.0,0.44,4.2,Fracasso/Nicho,173,696,Computers&Accessories
+416.0,599.0,0.31,4.2,Sucesso Moderado,145,411,Electronics
+368.0,699.0,0.47,4.2,Fracasso/Nicho,131,471,Computers&Accessories
+29990.0,65000.0,0.54,4.1,Fracasso/Nicho,78,1235,Electronics
+339.0,1099.0,0.69,4.3,Fracasso/Nicho,170,773,Computers&Accessories
+15490.0,20900.0,0.26,4.3,Sucesso Moderado,97,1258,Electronics
+499.0,1299.0,0.62,4.3,Sucesso Moderado,100,47,Computers&Accessories
+249.0,399.0,0.38,3.4,Sucesso Moderado,92,330,Computers&Accessories
+399.0,799.0,0.5,4.3,Fracasso/Nicho,117,479,Electronics
+1499.0,1999.0,0.25,4.4,Sucesso Moderado,120,1273,Computers&Accessories
+9490.0,15990.0,0.41,3.9,Sucesso Moderado,175,577,Electronics
+637.0,1499.0,0.58,4.1,Fracasso/Nicho,158,957,Electronics
+399.0,899.0,0.56,3.9,Fracasso/Nicho,192,1101,Electronics
+1089.0,1600.0,0.32,4.0,Sucesso Moderado,88,555,Electronics
+339.0,999.0,0.66,4.3,Sucesso Moderado,180,1028,Computers&Accessories
+149.0,499.0,0.7,4.0,Sucesso Moderado,163,312,Computers&Accessories
+149.0,399.0,0.63,3.9,Fracasso/Nicho,58,507,Computers&Accessories
+599.0,849.0,0.29,4.5,Fracasso/Nicho,152,504,Computers&Accessories
+299.0,1199.0,0.75,3.9,Sucesso Moderado,132,474,Electronics
+399.0,1299.0,0.69,4.2,Sucesso Moderado,146,815,Computers&Accessories
+339.0,1999.0,0.83,4.0,Fracasso/Nicho,160,176,Electronics
+12499.0,22990.0,0.46,4.3,Sucesso Moderado,84,1231,Electronics
+249.0,399.0,0.38,4.0,Sucesso Moderado,57,595,Computers&Accessories
+1399.0,2499.0,0.44,4.4,Sucesso Moderado,204,513,Computers&Accessories
+32999.0,47990.0,0.31,4.3,Sucesso Moderado,88,1482,Electronics
+149.0,399.0,0.63,4.0,Sucesso Moderado,170,858,Computers&Accessories
+325.0,999.0,0.67,4.3,Sucesso Moderado,201,1328,Computers&Accessories
+399.0,1999.0,0.8,5.0,Fracasso/Nicho,175,905,Computers&Accessories
+199.0,499.0,0.6,3.7,Fracasso/Nicho,189,1341,Computers&Accessories
+88.0,299.0,0.71,4.0,Sucesso Moderado,186,771,Computers&Accessories
+399.0,1099.0,0.64,4.1,Sucesso Moderado,221,1201,Computers&Accessories
+57.89,199.0,0.71,4.0,Sucesso Moderado,198,676,Computers&Accessories
+799.0,1999.0,0.6,3.3,Fracasso/Nicho,112,854,Electronics
+205.0,499.0,0.59,3.8,Fracasso/Nicho,140,192,Electronics
+299.0,699.0,0.57,4.1,Sucesso Moderado,126,512,Computers&Accessories
+849.0,999.0,0.15,4.1,Sucesso Moderado,86,391,Computers&Accessories
+949.0,1999.0,0.53,4.4,Sucesso Moderado,106,569,Computers&Accessories
+499.0,1200.0,0.58,4.3,Sucesso Moderado,95,869,Computers&Accessories
+299.0,485.0,0.38,4.3,Sucesso Moderado,76,541,Computers&Accessories
+949.0,1999.0,0.53,4.4,Sucesso Moderado,106,530,Computers&Accessories
+379.0,1099.0,0.66,4.3,Sucesso Moderado,148,1445,Computers&Accessories
+8990.0,18990.0,0.53,3.9,Fracasso/Nicho,101,1164,Electronics
+486.0,1999.0,0.76,4.2,Sucesso Moderado,145,462,Electronics
+5699.0,11000.0,0.48,4.2,Sucesso Moderado,65,895,Electronics
+709.0,1999.0,0.65,4.1,Viral/Sucesso de Vendas,80,798,Computers&Accessories
+47990.0,70900.0,0.32,4.3,Sucesso Moderado,93,1163,Electronics
+299.0,1199.0,0.75,3.7,Fracasso/Nicho,91,537,Electronics
+320.0,599.0,0.47,4.1,Fracasso/Nicho,141,355,Computers&Accessories
+139.0,549.0,0.75,3.9,Fracasso/Nicho,167,425,Computers&Accessories
+129.0,249.0,0.48,4.0,Sucesso Moderado,196,114,Computers&Accessories
+24999.0,35999.0,0.31,4.2,Sucesso Moderado,79,1068,Electronics
+999.0,1699.0,0.41,4.4,Sucesso Moderado,115,24,Computers&Accessories
+225.0,499.0,0.55,4.1,Fracasso/Nicho,71,138,Computers&Accessories
+547.0,2999.0,0.82,4.3,Fracasso/Nicho,114,1172,Electronics
+259.0,699.0,0.63,3.8,Sucesso Moderado,82,332,Computers&Accessories
+239.0,699.0,0.66,4.4,Sucesso Moderado,78,648,Electronics
+349.0,999.0,0.65,4.0,Fracasso/Nicho,132,239,Electronics
+467.0,599.0,0.22,4.4,Sucesso Moderado,124,940,Electronics
+449.0,599.0,0.25,4.0,Sucesso Moderado,146,517,Computers&Accessories
+11990.0,31990.0,0.63,4.2,Fracasso/Nicho,76,984,Electronics
+350.0,599.0,0.42,3.9,Sucesso Moderado,61,639,Computers&Accessories
+252.0,999.0,0.75,3.7,Sucesso Moderado,146,841,Computers&Accessories
+204.0,599.0,0.66,3.6,Fracasso/Nicho,46,681,Electronics
+6490.0,9990.0,0.35,4.0,Fracasso/Nicho,192,1736,Electronics
+235.0,599.0,0.61,3.5,Fracasso/Nicho,168,614,Electronics
+299.0,800.0,0.63,4.5,Sucesso Moderado,124,646,Computers&Accessories
+799.0,1999.0,0.6,4.2,Sucesso Moderado,84,564,Computers&Accessories
+299.0,999.0,0.7,3.8,Fracasso/Nicho,103,388,Electronics
+6999.0,16990.0,0.59,3.8,Fracasso/Nicho,109,1031,Electronics
+42999.0,59999.0,0.28,4.1,Sucesso Moderado,75,982,Electronics
+173.0,999.0,0.83,4.3,Sucesso Moderado,81,24,Electronics
+209.0,600.0,0.65,4.4,Sucesso Moderado,32,860,Electronics
+848.99,1490.0,0.43,3.9,Fracasso/Nicho,200,662,Computers&Accessories
+649.0,1999.0,0.68,4.2,Sucesso Moderado,118,972,Computers&Accessories
+299.0,899.0,0.67,3.8,Fracasso/Nicho,89,253,Electronics
+399.0,799.0,0.5,4.1,Sucesso Moderado,199,1917,Electronics
+249.0,499.0,0.5,4.1,Sucesso Moderado,131,1210,Computers&Accessories
+1249.0,2299.0,0.46,4.3,Sucesso Moderado,71,158,Electronics
+213.0,499.0,0.57,3.7,Fracasso/Nicho,97,223,Electronics
+209.0,499.0,0.58,4.0,Fracasso/Nicho,91,274,Electronics
+598.0,4999.0,0.88,4.2,Fracasso/Nicho,138,872,Electronics
+799.0,1749.0,0.54,4.1,Sucesso Moderado,91,103,Computers&Accessories
+159.0,595.0,0.73,4.3,Sucesso Moderado,57,198,Computers&Accessories
+499.0,1100.0,0.55,4.4,Sucesso Moderado,78,402,Computers&Accessories
+31999.0,49999.0,0.36,4.3,Sucesso Moderado,80,1156,Electronics
+32990.0,56790.0,0.42,4.3,Fracasso/Nicho,121,648,Electronics
+299.0,1199.0,0.75,3.5,Fracasso/Nicho,180,433,Electronics
+128.31,549.0,0.77,3.9,Fracasso/Nicho,160,425,Computers&Accessories
+599.0,849.0,0.29,4.5,Fracasso/Nicho,152,504,Computers&Accessories
+399.0,899.0,0.56,3.4,Fracasso/Nicho,243,641,Electronics
+449.0,1099.0,0.59,4.0,Fracasso/Nicho,193,1133,Computers&Accessories
+254.0,799.0,0.68,4.0,Sucesso Moderado,198,1661,Computers&Accessories
+399.0,795.0,0.5,4.4,Sucesso Moderado,45,452,Electronics
+179.0,399.0,0.55,4.0,Sucesso Moderado,172,792,Computers&Accessories
+339.0,999.0,0.66,4.3,Sucesso Moderado,184,1028,Computers&Accessories
+399.0,999.0,0.6,4.0,Sucesso Moderado,120,1305,Electronics
+199.0,399.0,0.5,4.2,Sucesso Moderado,183,1025,Electronics
+349.0,1999.0,0.83,3.8,Fracasso/Nicho,88,858,Electronics
+299.0,798.0,0.63,4.4,Sucesso Moderado,39,702,Computers&Accessories
+89.0,800.0,0.89,3.9,Sucesso Moderado,150,781,Computers&Accessories
+549.0,995.0,0.45,4.2,Sucesso Moderado,110,700,Computers&Accessories
+129.0,1000.0,0.87,3.9,Fracasso/Nicho,197,678,Computers&Accessories
+77990.0,139900.0,0.44,4.7,Sucesso Moderado,80,1143,Electronics
+349.0,799.0,0.56,3.6,Fracasso/Nicho,156,412,Electronics
+499.0,899.0,0.44,3.7,Fracasso/Nicho,156,734,Electronics
+299.0,799.0,0.63,4.2,Sucesso Moderado,91,556,Computers&Accessories
+182.0,599.0,0.7,4.0,Sucesso Moderado,199,667,Computers&Accessories
+96.0,399.0,0.76,3.6,Sucesso Moderado,74,343,Electronics
+54990.0,85000.0,0.35,4.3,Sucesso Moderado,78,1359,Electronics
+439.0,758.0,0.42,4.2,Sucesso Moderado,187,1287,Electronics
+299.0,999.0,0.7,4.3,Sucesso Moderado,179,1123,Computers&Accessories
+299.0,799.0,0.63,4.2,Sucesso Moderado,52,721,Computers&Accessories
+789.0,1999.0,0.61,4.2,Sucesso Moderado,97,785,Computers&Accessories
+299.0,700.0,0.57,4.4,Sucesso Moderado,70,762,Electronics
+325.0,1099.0,0.7,4.2,Sucesso Moderado,101,810,Computers&Accessories
+1299.0,1999.0,0.35,4.4,Sucesso Moderado,131,73,Computers&Accessories
+790.0,1999.0,0.6,3.0,Fracasso/Nicho,147,524,Electronics
+4699.0,4699.0,0.0,4.5,Fracasso/Nicho,24,67,Electronics
+18999.0,24990.0,0.24,4.3,Sucesso Moderado,84,1247,Electronics
+199.0,999.0,0.8,4.2,Fracasso/Nicho,63,181,Computers&Accessories
+269.0,650.0,0.59,4.4,Sucesso Moderado,104,597,Electronics
+1990.0,3100.0,0.36,4.0,Fracasso/Nicho,183,1448,Electronics
+2299.0,3999.0,0.43,3.8,Fracasso/Nicho,142,822,Electronics
+35999.0,49990.0,0.28,4.3,Sucesso Moderado,89,1277,Electronics
+349.0,999.0,0.65,4.2,Fracasso/Nicho,125,719,Electronics
+719.0,1499.0,0.52,4.1,Sucesso Moderado,216,1606,Computers&Accessories
+8999.0,18999.0,0.53,4.0,Sucesso Moderado,66,1018,Electronics
+917.0,2299.0,0.6,4.2,Sucesso Moderado,100,406,Electronics
+399.0,999.0,0.6,3.3,Fracasso/Nicho,130,230,Electronics
+45999.0,69900.0,0.34,4.3,Sucesso Moderado,89,1118,Electronics
+119.0,299.0,0.6,3.8,Fracasso/Nicho,77,396,Computers&Accessories
+21999.0,29999.0,0.27,4.2,Sucesso Moderado,82,1123,Electronics
+299.0,599.0,0.5,3.7,Fracasso/Nicho,62,301,Electronics
+21990.0,34990.0,0.37,4.3,Sucesso Moderado,81,1386,Electronics
+417.44,670.0,0.38,3.9,Fracasso/Nicho,165,664,Computers&Accessories
+47990.0,79990.0,0.4,4.3,Sucesso Moderado,74,1138,Electronics
+215.0,499.0,0.57,3.5,Fracasso/Nicho,39,55,Electronics
+99.0,800.0,0.88,3.9,Sucesso Moderado,164,764,Computers&Accessories
+18999.0,35000.0,0.46,4.0,Sucesso Moderado,70,1098,Electronics
+249.0,999.0,0.75,4.3,Fracasso/Nicho,117,630,Computers&Accessories
+7999.0,15999.0,0.5,3.8,Sucesso Moderado,63,570,Electronics
+649.0,1600.0,0.59,4.3,Sucesso Moderado,112,968,Computers&Accessories
+1289.0,2499.0,0.48,3.3,Fracasso/Nicho,16,860,Electronics
+609.0,1500.0,0.59,4.5,Sucesso Moderado,86,543,Electronics
+32990.0,54990.0,0.4,4.1,Sucesso Moderado,89,1321,Electronics
+599.0,1999.0,0.7,4.2,Fracasso/Nicho,227,1681,Electronics
+349.0,899.0,0.61,4.1,Sucesso Moderado,82,684,Computers&Accessories
+29999.0,50999.0,0.41,4.4,Sucesso Moderado,66,1087,Electronics
+199.0,399.0,0.5,4.2,Sucesso Moderado,183,1025,Electronics
+349.0,699.0,0.5,3.9,Fracasso/Nicho,154,604,Electronics
+1850.0,4500.0,0.59,4.0,Fracasso/Nicho,114,861,Electronics
+13990.0,28900.0,0.52,4.5,Fracasso/Nicho,198,1342,Electronics
+129.0,449.0,0.71,3.7,Fracasso/Nicho,85,714,Computers&Accessories
+379.0,999.0,0.62,4.2,Sucesso Moderado,101,594,Electronics
+185.0,499.0,0.63,4.2,Fracasso/Nicho,87,121,Electronics
+218.0,999.0,0.78,4.2,Fracasso/Nicho,152,984,Computers&Accessories
+199.0,999.0,0.8,4.3,Fracasso/Nicho,145,228,Computers&Accessories
+499.0,900.0,0.45,4.4,Sucesso Moderado,88,460,Electronics
+26999.0,42999.0,0.37,4.2,Sucesso Moderado,104,1409,Electronics
+893.0,1052.0,0.15,4.3,Fracasso/Nicho,156,1201,Electronics
+10990.0,19990.0,0.45,3.7,Fracasso/Nicho,86,547,Electronics
+379.0,1099.0,0.66,4.3,Sucesso Moderado,199,1202,Computers&Accessories
+16999.0,25999.0,0.35,4.2,Sucesso Moderado,78,1230,Electronics
+699.0,1899.0,0.63,4.4,Fracasso/Nicho,190,1990,Electronics
+2699.0,3500.0,0.23,3.5,Fracasso/Nicho,77,734,Electronics
+129.0,599.0,0.78,4.1,Fracasso/Nicho,125,342,Computers&Accessories
+389.0,999.0,0.61,4.3,Fracasso/Nicho,164,1221,Computers&Accessories
+246.0,600.0,0.59,4.2,Fracasso/Nicho,111,814,Electronics
+299.0,799.0,0.63,4.0,Fracasso/Nicho,195,588,Computers&Accessories
+247.0,399.0,0.38,3.9,Fracasso/Nicho,183,302,Electronics
+1369.0,2999.0,0.54,3.3,Fracasso/Nicho,150,1085,Electronics
+199.0,499.0,0.6,3.8,Fracasso/Nicho,166,291,Electronics
+299.0,599.0,0.5,4.0,Fracasso/Nicho,66,1054,Electronics
+14999.0,14999.0,0.0,4.3,Sucesso Moderado,76,753,Electronics
+299.0,699.0,0.57,3.9,Sucesso Moderado,92,332,Computers&Accessories
+24990.0,51990.0,0.52,4.2,Sucesso Moderado,80,911,Electronics
+61999.0,69999.0,0.11,4.1,Sucesso Moderado,75,1032,Electronics
+24499.0,50000.0,0.51,3.9,Sucesso Moderado,79,1857,Electronics
+10499.0,19499.0,0.46,4.2,Sucesso Moderado,84,884,Electronics
+349.0,999.0,0.65,4.3,Fracasso/Nicho,172,1332,Computers&Accessories
+197.0,499.0,0.61,3.8,Fracasso/Nicho,36,443,Electronics
+1299.0,2499.0,0.48,4.3,Fracasso/Nicho,137,707,Electronics
+1519.0,1899.0,0.2,4.4,Sucesso Moderado,201,1082,Computers&Accessories
+46999.0,69999.0,0.33,4.3,Sucesso Moderado,82,1154,Electronics
+299.0,799.0,0.63,4.3,Sucesso Moderado,189,626,Computers&Accessories
+1799.0,19999.0,0.91,4.2,Sucesso Moderado,153,1139,Electronics
+1998.0,9999.0,0.8,4.3,Sucesso Moderado,144,2012,Electronics
+1999.0,7990.0,0.75,3.8,Sucesso Moderado,200,949,Electronics
+2049.0,2199.0,0.07,4.3,Viral/Sucesso de Vendas,135,228,Electronics
+6499.0,8999.0,0.28,4.0,Sucesso Moderado,127,348,Electronics
+28999.0,28999.0,0.0,4.3,Sucesso Moderado,53,938,Electronics
+28999.0,28999.0,0.0,4.3,Sucesso Moderado,56,667,Electronics
+6499.0,8999.0,0.28,4.0,Sucesso Moderado,122,348,Electronics
+6499.0,8999.0,0.28,4.0,Sucesso Moderado,123,348,Electronics
+569.0,1000.0,0.43,4.4,Sucesso Moderado,85,272,Electronics
+1898.0,4999.0,0.62,4.1,Sucesso Moderado,193,848,Electronics
+1299.0,1599.0,0.19,4.0,Viral/Sucesso de Vendas,75,315,Electronics
+1499.0,6990.0,0.79,3.9,Sucesso Moderado,191,759,Electronics
+599.0,999.0,0.4,4.1,Viral/Sucesso de Vendas,135,613,Electronics
+9499.0,11999.0,0.21,4.2,Fracasso/Nicho,120,450,Electronics
+599.0,2499.0,0.76,3.9,Sucesso Moderado,199,657,Electronics
+8999.0,11999.0,0.25,4.0,Sucesso Moderado,150,435,Electronics
+349.0,1299.0,0.73,4.0,Sucesso Moderado,122,1091,Electronics
+349.0,999.0,0.65,4.1,Viral/Sucesso de Vendas,62,1222,Electronics
+959.0,1800.0,0.47,4.4,Sucesso Moderado,86,272,Electronics
+9499.0,11999.0,0.21,4.2,Fracasso/Nicho,122,450,Electronics
+1499.0,2499.0,0.4,4.3,Sucesso Moderado,161,123,Electronics
+1149.0,2199.0,0.48,4.3,Viral/Sucesso de Vendas,110,119,Electronics
+349.0,999.0,0.65,3.9,Sucesso Moderado,96,600,Electronics
+1219.0,1699.0,0.28,4.4,Sucesso Moderado,58,848,Electronics
+1599.0,3999.0,0.6,4.0,Sucesso Moderado,189,1074,Electronics
+1499.0,7999.0,0.81,4.2,Sucesso Moderado,130,1757,Electronics
+18499.0,25999.0,0.29,4.1,Sucesso Moderado,150,609,Electronics
+369.0,700.0,0.47,4.4,Sucesso Moderado,48,324,Electronics
+12999.0,17999.0,0.28,4.1,Sucesso Moderado,99,567,Electronics
+1799.0,19999.0,0.91,4.2,Sucesso Moderado,153,1139,Electronics
+2199.0,9999.0,0.78,4.2,Sucesso Moderado,178,2329,Electronics
+16999.0,24999.0,0.32,4.1,Sucesso Moderado,149,512,Electronics
+16499.0,20999.0,0.21,4.0,Sucesso Moderado,126,1107,Electronics
+1799.0,19999.0,0.91,4.2,Sucesso Moderado,153,1139,Electronics
+399.0,1099.0,0.64,4.2,Sucesso Moderado,162,960,Computers&Accessories
+8499.0,10999.0,0.23,4.1,Viral/Sucesso de Vendas,92,377,Electronics
+6499.0,8499.0,0.24,4.1,Viral/Sucesso de Vendas,107,504,Electronics
+1799.0,19999.0,0.91,4.2,Sucesso Moderado,153,1139,Electronics
+8999.0,11999.0,0.25,4.0,Sucesso Moderado,144,435,Electronics
+139.0,495.0,0.72,4.3,Sucesso Moderado,45,101,Electronics
+3999.0,16999.0,0.76,4.3,Sucesso Moderado,173,2455,Electronics
+2998.0,5999.0,0.5,4.1,Sucesso Moderado,184,993,Electronics
+199.0,349.0,0.43,4.0,Sucesso Moderado,193,605,Computers&Accessories
+15499.0,18999.0,0.18,4.1,Sucesso Moderado,181,933,Electronics
+199.0,999.0,0.8,3.9,Sucesso Moderado,136,990,Computers&Accessories
+1799.0,19999.0,0.91,4.2,Sucesso Moderado,153,1139,Electronics
+8999.0,11999.0,0.25,4.0,Sucesso Moderado,146,435,Electronics
+873.0,1699.0,0.49,4.4,Sucesso Moderado,180,384,Electronics
+12999.0,15999.0,0.19,4.2,Sucesso Moderado,123,599,Electronics
+539.0,1599.0,0.66,3.8,Sucesso Moderado,198,780,Electronics
+1999.0,9999.0,0.8,4.3,Sucesso Moderado,144,2016,Electronics
+15490.0,20990.0,0.26,4.2,Sucesso Moderado,96,599,Electronics
+19999.0,24999.0,0.2,3.9,Sucesso Moderado,158,629,Electronics
+1075.0,1699.0,0.37,4.4,Sucesso Moderado,76,808,Electronics
+399.0,699.0,0.43,4.0,Sucesso Moderado,59,400,Electronics
+1999.0,3990.0,0.5,4.0,Sucesso Moderado,173,1064,Electronics
+1999.0,7990.0,0.75,3.8,Sucesso Moderado,195,949,Electronics
+329.0,699.0,0.53,4.2,Sucesso Moderado,199,699,Computers&Accessories
+154.0,399.0,0.61,4.2,Sucesso Moderado,110,574,Computers&Accessories
+28999.0,34999.0,0.17,4.4,Sucesso Moderado,88,509,Electronics
+2299.0,7990.0,0.71,4.2,Sucesso Moderado,194,976,Electronics
+399.0,1999.0,0.8,4.0,Sucesso Moderado,197,594,Electronics
+1149.0,3999.0,0.71,4.3,Viral/Sucesso de Vendas,110,420,Electronics
+529.0,1499.0,0.65,4.1,Sucesso Moderado,194,905,Electronics
+13999.0,19499.0,0.28,4.1,Sucesso Moderado,102,542,Electronics
+379.0,999.0,0.62,4.1,Viral/Sucesso de Vendas,63,1296,Electronics
+13999.0,19999.0,0.3,4.1,Sucesso Moderado,148,614,Electronics
+3999.0,9999.0,0.6,4.4,Fracasso/Nicho,170,1058,Electronics
+149.0,1000.0,0.85,3.9,Sucesso Moderado,193,820,Computers&Accessories
+99.0,499.0,0.8,4.3,Sucesso Moderado,200,1071,Electronics
+4790.0,15990.0,0.7,4.0,Sucesso Moderado,111,657,Electronics
+33999.0,33999.0,0.0,4.3,Sucesso Moderado,54,666,Electronics
+99.0,999.0,0.9,4.0,Sucesso Moderado,174,772,Computers&Accessories
+299.0,1900.0,0.84,3.6,Sucesso Moderado,155,533,Electronics
+10999.0,14999.0,0.27,4.1,Sucesso Moderado,97,566,Electronics
+34999.0,38999.0,0.1,4.2,Sucesso Moderado,68,751,Electronics
+16999.0,24999.0,0.32,4.1,Sucesso Moderado,149,512,Electronics
+199.0,499.0,0.6,4.1,Sucesso Moderado,136,631,Electronics
+999.0,1599.0,0.38,4.0,Sucesso Moderado,197,852,Electronics
+1299.0,1599.0,0.19,4.0,Viral/Sucesso de Vendas,71,315,Electronics
+599.0,1800.0,0.67,3.5,Sucesso Moderado,196,597,Electronics
+599.0,1899.0,0.68,4.3,Viral/Sucesso de Vendas,108,420,Electronics
+1799.0,2499.0,0.28,4.1,Sucesso Moderado,180,832,Electronics
+176.63,499.0,0.65,4.1,Sucesso Moderado,111,851,Computers&Accessories
+10999.0,14999.0,0.27,4.1,Sucesso Moderado,100,566,Electronics
+2999.0,7990.0,0.62,4.1,Sucesso Moderado,191,976,Electronics
+1999.0,7990.0,0.75,3.8,Sucesso Moderado,199,949,Electronics
+229.0,299.0,0.23,4.3,Sucesso Moderado,38,261,Computers&Accessories
+199.0,299.0,0.33,4.0,Sucesso Moderado,183,580,Computers&Accessories
+649.0,999.0,0.35,4.2,Sucesso Moderado,65,29,Electronics
+13999.0,19499.0,0.28,4.1,Sucesso Moderado,102,542,Electronics
+119.0,299.0,0.6,4.1,Sucesso Moderado,196,1547,Electronics
+12999.0,17999.0,0.28,4.1,Sucesso Moderado,130,519,Electronics
+154.0,339.0,0.55,4.3,Sucesso Moderado,126,642,Computers&Accessories
+20999.0,26999.0,0.22,3.9,Sucesso Moderado,158,554,Electronics
+249.0,649.0,0.62,4.0,Sucesso Moderado,177,1228,Electronics
+99.0,171.0,0.42,4.5,Sucesso Moderado,85,89,Electronics
+489.0,1999.0,0.76,4.0,Sucesso Moderado,182,1338,Electronics
+369.0,1600.0,0.77,4.0,Sucesso Moderado,54,516,Electronics
+15499.0,20999.0,0.26,4.1,Sucesso Moderado,148,537,Electronics
+15499.0,18999.0,0.18,4.1,Sucesso Moderado,180,933,Electronics
+22999.0,28999.0,0.21,3.9,Sucesso Moderado,158,441,Electronics
+599.0,1490.0,0.6,4.1,Viral/Sucesso de Vendas,64,1054,Electronics
+134.0,699.0,0.81,4.1,Sucesso Moderado,66,597,Electronics
+7499.0,7999.0,0.06,4.0,Sucesso Moderado,97,560,Electronics
+1149.0,2199.0,0.48,4.3,Viral/Sucesso de Vendas,125,194,Electronics
+1324.0,1699.0,0.22,4.0,Viral/Sucesso de Vendas,108,417,Electronics
+13999.0,19999.0,0.3,4.1,Sucesso Moderado,148,537,Electronics
+299.0,799.0,0.63,4.2,Sucesso Moderado,80,734,Computers&Accessories
+999.0,1599.0,0.38,4.0,Sucesso Moderado,197,853,Electronics
+12999.0,17999.0,0.28,4.1,Sucesso Moderado,103,567,Electronics
+15490.0,20990.0,0.26,4.2,Sucesso Moderado,93,649,Electronics
+999.0,2899.0,0.66,4.6,Sucesso Moderado,84,371,Electronics
+1599.0,4999.0,0.68,4.0,Sucesso Moderado,136,599,Electronics
+1324.0,1699.0,0.22,4.0,Viral/Sucesso de Vendas,113,417,Electronics
+20999.0,29990.0,0.3,4.3,Sucesso Moderado,135,702,Electronics
+999.0,1999.0,0.5,4.3,Sucesso Moderado,62,273,Electronics
+12490.0,15990.0,0.22,4.2,Sucesso Moderado,92,987,Electronics
+17999.0,21990.0,0.18,4.0,Sucesso Moderado,126,1101,Electronics
+350.0,899.0,0.61,4.2,Sucesso Moderado,166,853,Computers&Accessories
+1399.0,1630.0,0.14,4.0,Sucesso Moderado,127,439,Electronics
+159.0,399.0,0.6,4.1,Sucesso Moderado,103,574,Computers&Accessories
+1499.0,6990.0,0.79,3.9,Sucesso Moderado,162,759,Electronics
+1999.0,7990.0,0.75,3.8,Sucesso Moderado,197,949,Electronics
+999.0,2899.0,0.66,4.7,Sucesso Moderado,96,386,Electronics
+2099.0,5999.0,0.65,4.3,Sucesso Moderado,199,1812,Electronics
+337.0,699.0,0.52,4.2,Sucesso Moderado,133,947,Electronics
+2999.0,7990.0,0.62,4.1,Fracasso/Nicho,200,1161,Electronics
+1299.0,5999.0,0.78,3.3,Sucesso Moderado,197,1170,Electronics
+349.0,399.0,0.13,4.4,Sucesso Moderado,54,109,Computers&Accessories
+16499.0,20990.0,0.21,4.0,Sucesso Moderado,124,1101,Electronics
+499.0,499.0,0.0,4.2,Sucesso Moderado,96,81,Electronics
+970.0,1799.0,0.46,4.5,Fracasso/Nicho,154,367,Computers&Accessories
+999.0,2899.0,0.66,4.6,Sucesso Moderado,92,397,Electronics
+10499.0,13499.0,0.22,4.2,Fracasso/Nicho,121,450,Electronics
+249.0,399.0,0.38,4.0,Sucesso Moderado,185,571,Computers&Accessories
+251.0,999.0,0.75,3.7,Sucesso Moderado,160,1205,Electronics
+199.0,499.0,0.6,4.1,Sucesso Moderado,107,597,Computers&Accessories
+6499.0,7999.0,0.19,4.1,Viral/Sucesso de Vendas,108,418,Electronics
+2999.0,9999.0,0.7,4.2,Sucesso Moderado,179,2646,Electronics
+279.0,1499.0,0.81,4.2,Sucesso Moderado,119,418,Electronics
+269.0,1499.0,0.82,4.5,Sucesso Moderado,119,750,Electronics
+8999.0,13499.0,0.33,3.8,Sucesso Moderado,100,847,Electronics
+59.0,199.0,0.7,4.0,Sucesso Moderado,43,566,Computers&Accessories
+599.0,1299.0,0.54,4.1,Viral/Sucesso de Vendas,158,277,Electronics
+349.0,999.0,0.65,3.8,Sucesso Moderado,167,1110,Electronics
+13999.0,19499.0,0.28,4.1,Sucesso Moderado,102,542,Electronics
+349.0,999.0,0.65,3.8,Sucesso Moderado,168,1083,Electronics
+499.0,599.0,0.17,4.2,Sucesso Moderado,66,286,Electronics
+2199.0,9999.0,0.78,4.2,Sucesso Moderado,178,2317,Electronics
+95.0,499.0,0.81,4.2,Sucesso Moderado,142,885,Electronics
+139.0,249.0,0.44,4.0,Sucesso Moderado,185,557,Computers&Accessories
+4499.0,7999.0,0.44,3.5,Fracasso/Nicho,182,892,Electronics
+89.0,599.0,0.85,4.3,Sucesso Moderado,69,856,Electronics
+15499.0,20999.0,0.26,4.1,Sucesso Moderado,148,537,Electronics
+13999.0,15999.0,0.13,3.9,Sucesso Moderado,124,482,Electronics
+1999.0,4999.0,0.6,3.9,Sucesso Moderado,184,817,Electronics
+1399.0,5999.0,0.77,3.3,Sucesso Moderado,199,1393,Electronics
+599.0,999.0,0.4,4.0,Sucesso Moderado,70,624,Electronics
+199.0,1099.0,0.82,4.0,Sucesso Moderado,186,851,Electronics
+1799.0,6990.0,0.74,4.0,Sucesso Moderado,199,846,Electronics
+1499.0,6990.0,0.79,3.9,Sucesso Moderado,178,759,Electronics
+20999.0,29990.0,0.3,4.3,Sucesso Moderado,137,702,Electronics
+12999.0,13499.0,0.04,4.1,Sucesso Moderado,60,758,Electronics
+16999.0,20999.0,0.19,4.1,Sucesso Moderado,179,615,Electronics
+19999.0,27990.0,0.29,4.3,Sucesso Moderado,135,775,Electronics
+12999.0,18999.0,0.32,4.1,Sucesso Moderado,131,519,Electronics
+2999.0,5999.0,0.5,4.1,Sucesso Moderado,185,911,Electronics
+299.0,999.0,0.7,4.3,Sucesso Moderado,66,633,Computers&Accessories
+970.0,1999.0,0.51,4.4,Fracasso/Nicho,159,366,Computers&Accessories
+329.0,999.0,0.67,4.2,Sucesso Moderado,171,974,Electronics
+1299.0,5999.0,0.78,3.3,Sucesso Moderado,197,1229,Electronics
+1989.0,3500.0,0.43,4.4,Sucesso Moderado,86,272,Electronics
+1999.0,9999.0,0.8,4.3,Sucesso Moderado,144,2016,Electronics
+12999.0,18999.0,0.32,4.1,Sucesso Moderado,132,519,Electronics
+1499.0,4999.0,0.7,4.0,Sucesso Moderado,102,589,Electronics
+16999.0,20999.0,0.19,4.1,Sucesso Moderado,184,578,Electronics
+1999.0,8499.0,0.76,4.3,Fracasso/Nicho,197,1252,Electronics
+4999.0,6999.0,0.29,3.8,Fracasso/Nicho,195,1429,Electronics
+99.0,666.66,0.85,3.9,Sucesso Moderado,171,790,Computers&Accessories
+2499.0,5999.0,0.58,3.7,Fracasso/Nicho,183,780,Electronics
+1399.0,1630.0,0.14,4.0,Sucesso Moderado,127,437,Electronics
+1499.0,9999.0,0.85,4.2,Sucesso Moderado,135,1649,Electronics
+899.0,1900.0,0.53,4.4,Sucesso Moderado,127,857,Computers&Accessories
+249.0,599.0,0.58,3.9,Sucesso Moderado,178,588,Electronics
+299.0,1199.0,0.75,4.5,Fracasso/Nicho,142,313,Electronics
+79.0,499.0,0.84,4.2,Sucesso Moderado,142,698,Electronics
+13999.0,15999.0,0.13,3.9,Sucesso Moderado,130,482,Electronics
+949.0,999.0,0.05,4.2,Sucesso Moderado,61,103,Electronics
+99.0,499.0,0.8,4.1,Sucesso Moderado,171,1067,Electronics
+2499.0,7990.0,0.69,4.1,Fracasso/Nicho,199,1297,Electronics
+689.0,1999.0,0.66,4.3,Sucesso Moderado,192,1139,Electronics
+499.0,1899.0,0.74,4.1,Sucesso Moderado,187,1155,Electronics
+299.0,999.0,0.7,4.3,Sucesso Moderado,159,1584,Electronics
+209.0,499.0,0.58,3.6,Fracasso/Nicho,160,1356,Electronics
+8499.0,12999.0,0.35,4.1,Sucesso Moderado,91,370,Electronics
+2179.0,3999.0,0.46,4.0,Sucesso Moderado,182,447,Electronics
+16999.0,20999.0,0.19,4.1,Sucesso Moderado,182,606,Electronics
+44999.0,49999.0,0.1,4.3,Sucesso Moderado,56,963,Electronics
+2599.0,2999.0,0.13,3.9,Sucesso Moderado,23,437,Electronics
+2799.0,6499.0,0.57,4.1,Sucesso Moderado,176,1126,Electronics
+1399.0,2990.0,0.53,4.1,Sucesso Moderado,119,683,Electronics
+649.0,2400.0,0.73,4.4,Sucesso Moderado,48,287,Electronics
+799.0,3990.0,0.8,3.8,Fracasso/Nicho,178,1045,Electronics
+149.0,149.0,0.0,4.3,Sucesso Moderado,125,1163,Computers&Accessories
+799.0,2100.0,0.62,4.3,Sucesso Moderado,138,138,Computers&Accessories
+3799.0,5299.0,0.28,3.5,Sucesso Moderado,106,488,Electronics
+199.0,1899.0,0.9,4.0,Sucesso Moderado,134,790,Electronics
+23999.0,32999.0,0.27,3.9,Sucesso Moderado,153,473,Electronics
+29990.0,39990.0,0.25,4.3,Sucesso Moderado,97,1161,Electronics
+281.0,1999.0,0.86,2.8,Fracasso/Nicho,98,1158,Electronics
+7998.0,11999.0,0.33,3.8,Fracasso/Nicho,40,180,Electronics
+249.0,999.0,0.75,4.5,Fracasso/Nicho,117,412,Electronics
+299.0,599.0,0.5,4.3,Sucesso Moderado,156,444,Electronics
+499.0,1899.0,0.74,4.1,Fracasso/Nicho,162,1289,Electronics
+899.0,3499.0,0.74,3.0,Fracasso/Nicho,166,1143,Electronics
+1599.0,3499.0,0.54,4.0,Sucesso Moderado,74,343,Electronics
+120.0,999.0,0.88,3.9,Sucesso Moderado,167,860,Electronics
+3999.0,6999.0,0.43,4.1,Sucesso Moderado,185,826,Electronics
+12999.0,18999.0,0.32,4.1,Sucesso Moderado,131,519,Electronics
+1599.0,2599.0,0.38,4.3,Sucesso Moderado,108,339,Electronics
+699.0,1199.0,0.42,4.0,Sucesso Moderado,212,1396,Electronics
+99.0,999.0,0.9,4.4,Fracasso/Nicho,124,1398,Electronics
+7915.0,9999.0,0.21,4.3,Sucesso Moderado,50,83,Electronics
+1499.0,7999.0,0.81,4.2,Sucesso Moderado,134,1648,Electronics
+1055.0,1249.0,0.16,3.8,Sucesso Moderado,128,122,Electronics
+150.0,599.0,0.75,4.3,Fracasso/Nicho,152,413,Electronics
+219.0,700.0,0.69,4.3,Sucesso Moderado,102,675,Computers&Accessories
+474.0,1799.0,0.74,4.3,Sucesso Moderado,123,404,Electronics
+115.0,499.0,0.77,4.0,Sucesso Moderado,171,313,Computers&Accessories
+239.0,599.0,0.6,3.9,Sucesso Moderado,200,612,Electronics
+7499.0,9499.0,0.21,4.1,Viral/Sucesso de Vendas,107,418,Electronics
+265.0,999.0,0.73,3.7,Fracasso/Nicho,105,693,Electronics
+37990.0,74999.0,0.49,4.2,Sucesso Moderado,107,1029,Electronics
+199.0,499.0,0.6,4.1,Fracasso/Nicho,186,391,Computers&Accessories
+179.0,399.0,0.55,4.0,Sucesso Moderado,172,792,Computers&Accessories
+1799.0,3999.0,0.55,4.6,Fracasso/Nicho,198,1614,Electronics
+8499.0,11999.0,0.29,3.9,Fracasso/Nicho,39,180,Electronics
+1999.0,3999.0,0.5,4.0,Sucesso Moderado,193,1074,Electronics
+3999.0,17999.0,0.78,4.3,Sucesso Moderado,173,2458,Electronics
+219.0,499.0,0.56,4.4,Fracasso/Nicho,62,339,Electronics
+599.0,1399.0,0.57,4.1,Sucesso Moderado,180,1377,Electronics
+2499.0,2999.0,0.17,4.1,Sucesso Moderado,198,1196,Electronics
+89.0,499.0,0.82,4.1,Sucesso Moderado,150,1077,Electronics
+2999.0,11999.0,0.75,4.4,Fracasso/Nicho,153,887,Electronics
+314.0,1499.0,0.79,4.5,Sucesso Moderado,138,762,Electronics
+13999.0,19499.0,0.28,4.1,Sucesso Moderado,106,542,Electronics
+139.0,499.0,0.72,4.2,Sucesso Moderado,167,925,Electronics
+2599.0,6999.0,0.63,4.5,Sucesso Moderado,204,2029,Electronics
+365.0,999.0,0.63,4.1,Viral/Sucesso de Vendas,59,1296,Electronics
+1499.0,4490.0,0.67,3.9,Viral/Sucesso de Vendas,190,1080,Electronics
+1998.0,9999.0,0.8,4.3,Sucesso Moderado,144,2012,Electronics
+1799.0,7990.0,0.77,3.8,Sucesso Moderado,200,949,Electronics
+289.0,650.0,0.56,4.3,Viral/Sucesso de Vendas,41,634,Computers&Accessories
+599.0,895.0,0.33,4.4,Sucesso Moderado,139,1016,Computers&Accessories
+217.0,237.0,0.08,3.8,Sucesso Moderado,109,524,Computers&Accessories
+1299.0,2990.0,0.57,3.8,Viral/Sucesso de Vendas,180,964,Electronics
+263.0,699.0,0.62,3.5,Fracasso/Nicho,146,1462,Computers&Accessories
+569.0,1000.0,0.43,4.4,Sucesso Moderado,85,272,Electronics
+1999.0,4999.0,0.6,4.1,Sucesso Moderado,193,848,Electronics
+1399.0,3990.0,0.65,4.1,Viral/Sucesso de Vendas,143,905,Electronics
+349.0,1499.0,0.77,4.3,Sucesso Moderado,174,820,Computers&Accessories
+149.0,399.0,0.63,3.5,Sucesso Moderado,113,412,Electronics
+599.0,999.0,0.4,4.1,Viral/Sucesso de Vendas,135,613,Electronics
+1220.0,3990.0,0.69,4.1,Viral/Sucesso de Vendas,164,708,Electronics
+1499.0,6990.0,0.79,3.9,Sucesso Moderado,191,759,Electronics
+499.0,999.0,0.5,3.9,Sucesso Moderado,116,759,Electronics
+99.0,999.0,0.9,4.1,Sucesso Moderado,139,1398,Computers&Accessories
+349.0,1299.0,0.73,4.0,Sucesso Moderado,122,1091,Electronics
+475.0,1500.0,0.68,4.2,Sucesso Moderado,38,987,Computers&Accessories
+269.0,649.0,0.59,4.3,Sucesso Moderado,135,346,Computers&Accessories
+299.0,599.0,0.5,4.1,Sucesso Moderado,127,1148,Computers&Accessories
+1599.0,3999.0,0.6,4.0,Sucesso Moderado,189,1074,Electronics
+1499.0,7999.0,0.81,4.2,Sucesso Moderado,130,1757,Electronics
+329.0,999.0,0.67,3.9,Sucesso Moderado,103,674,Electronics
+549.0,1799.0,0.69,4.3,Sucesso Moderado,99,150,Computers&Accessories
+2199.0,9999.0,0.78,4.2,Sucesso Moderado,178,2329,Electronics
+299.0,650.0,0.54,4.5,Sucesso Moderado,89,316,Computers&Accessories
+798.0,1995.0,0.6,4.0,Sucesso Moderado,95,596,MusicalInstruments
+399.0,1099.0,0.64,4.2,Sucesso Moderado,162,960,Computers&Accessories
+266.0,315.0,0.16,4.5,Sucesso Moderado,41,486,Electronics
+50.0,50.0,0.0,4.3,Sucesso Moderado,200,98,OfficeProducts
+130.0,165.0,0.21,3.9,Sucesso Moderado,195,212,Home&Kitchen
+449.0,1290.0,0.65,4.1,Sucesso Moderado,64,855,Electronics
+3999.0,16999.0,0.76,4.3,Sucesso Moderado,173,2455,Electronics
+399.0,1290.0,0.69,4.2,Fracasso/Nicho,91,433,Electronics
+1399.0,2498.0,0.44,4.2,Sucesso Moderado,149,303,Computers&Accessories
+199.0,349.0,0.43,4.0,Sucesso Moderado,193,605,Computers&Accessories
+199.0,999.0,0.8,3.9,Sucesso Moderado,136,1091,Computers&Accessories
+2998.0,5999.0,0.5,4.1,Sucesso Moderado,184,993,Electronics
+4098.0,4999.0,0.18,4.5,Sucesso Moderado,132,483,Computers&Accessories
+499.0,1999.0,0.75,3.7,Sucesso Moderado,163,1094,Electronics
+299.0,449.0,0.33,3.5,Sucesso Moderado,142,266,Computers&Accessories
+329.0,699.0,0.53,4.2,Sucesso Moderado,199,699,Computers&Accessories
+699.0,999.0,0.3,3.5,Sucesso Moderado,90,671,Computers&Accessories
+799.0,3990.0,0.8,4.3,Sucesso Moderado,154,1653,Electronics
+1399.0,5499.0,0.75,3.9,Sucesso Moderado,183,837,Electronics
+154.0,399.0,0.61,4.2,Sucesso Moderado,110,574,Computers&Accessories
+519.0,1350.0,0.62,4.3,Sucesso Moderado,54,590,Computers&Accessories
+2299.0,7990.0,0.71,4.2,Sucesso Moderado,194,976,Electronics
+399.0,1999.0,0.8,4.0,Sucesso Moderado,197,594,Electronics
+1499.0,3990.0,0.62,4.1,Viral/Sucesso de Vendas,146,1054,Electronics
+1295.0,1295.0,0.0,4.5,Sucesso Moderado,60,477,OfficeProducts
+1889.0,5499.0,0.66,4.2,Sucesso Moderado,186,524,Computers&Accessories
+455.0,1490.0,0.69,4.1,Viral/Sucesso de Vendas,56,980,Electronics
+399.0,995.0,0.6,3.9,Sucesso Moderado,157,1931,Electronics
+1059.0,3999.0,0.74,4.3,Viral/Sucesso de Vendas,110,420,Electronics
+149.0,1000.0,0.85,3.9,Sucesso Moderado,193,820,Computers&Accessories
+717.0,761.0,0.06,4.0,Sucesso Moderado,35,264,Computers&Accessories
+99.0,999.0,0.9,4.0,Sucesso Moderado,174,772,Computers&Accessories
+39.0,299.0,0.87,3.5,Sucesso Moderado,101,328,Computers&Accessories
+889.0,2500.0,0.64,4.3,Sucesso Moderado,46,276,Computers&Accessories
+1199.0,4999.0,0.76,3.8,Sucesso Moderado,186,263,Electronics
+569.0,1299.0,0.56,4.4,Sucesso Moderado,137,164,Computers&Accessories
+1499.0,8999.0,0.83,3.7,Sucesso Moderado,197,1159,Electronics
+149.0,180.0,0.17,4.4,Fracasso/Nicho,48,223,Electronics
+399.0,549.0,0.27,4.4,Sucesso Moderado,75,943,Computers&Accessories
+191.0,225.0,0.15,4.4,Sucesso Moderado,181,867,Home&Kitchen
+129.0,999.0,0.87,4.2,Fracasso/Nicho,166,249,Computers&Accessories
+199.0,599.0,0.67,4.5,Sucesso Moderado,195,493,Computers&Accessories
+999.0,4499.0,0.78,3.8,Sucesso Moderado,176,579,Electronics
+899.0,4499.0,0.8,3.8,Viral/Sucesso de Vendas,135,1006,Electronics
+1799.0,2499.0,0.28,4.1,Sucesso Moderado,180,832,Electronics
+176.63,499.0,0.65,4.1,Sucesso Moderado,111,851,Computers&Accessories
+522.0,550.0,0.05,4.4,Sucesso Moderado,101,418,OfficeProducts
+799.0,1999.0,0.6,3.8,Sucesso Moderado,169,1589,Electronics
+681.0,1199.0,0.43,4.2,Sucesso Moderado,165,665,Computers&Accessories
+1199.0,3490.0,0.66,4.1,Sucesso Moderado,203,1424,Computers&Accessories
+2499.0,4999.0,0.5,4.4,Sucesso Moderado,186,807,Computers&Accessories
+1799.0,4999.0,0.64,4.1,Sucesso Moderado,164,598,Electronics
+429.0,599.0,0.28,4.1,Viral/Sucesso de Vendas,107,854,Electronics
+100.0,499.0,0.8,3.5,Sucesso Moderado,103,26,Computers&Accessories
+329.0,399.0,0.18,3.6,Sucesso Moderado,120,512,Computers&Accessories
+229.0,299.0,0.23,4.3,Sucesso Moderado,38,261,Computers&Accessories
+139.0,299.0,0.54,3.8,Sucesso Moderado,109,377,Computers&Accessories
+1199.0,2499.0,0.52,4.0,Sucesso Moderado,138,956,Electronics
+1049.0,2299.0,0.54,3.9,Sucesso Moderado,198,329,Electronics
+119.0,299.0,0.6,4.1,Sucesso Moderado,196,1547,Electronics
+154.0,339.0,0.55,4.3,Sucesso Moderado,126,462,Computers&Accessories
+225.0,250.0,0.1,4.4,Sucesso Moderado,54,105,Electronics
+656.0,1499.0,0.56,4.3,Sucesso Moderado,189,1387,Computers&Accessories
+1109.0,2800.0,0.6,4.3,Sucesso Moderado,96,545,Computers&Accessories
+2999.0,7990.0,0.62,4.1,Sucesso Moderado,191,976,Electronics
+169.0,299.0,0.43,4.4,Sucesso Moderado,197,979,Computers&Accessories
+309.0,404.0,0.24,4.4,Sucesso Moderado,110,325,Computers&Accessories
+599.0,1399.0,0.57,3.8,Sucesso Moderado,100,1007,Electronics
+299.0,599.0,0.5,3.8,Sucesso Moderado,200,996,Computers&Accessories
+449.0,999.0,0.55,4.0,Sucesso Moderado,200,567,Computers&Accessories
+799.0,1295.0,0.38,4.4,Sucesso Moderado,174,1009,Computers&Accessories
+219.0,700.0,0.69,4.4,Viral/Sucesso de Vendas,73,543,Electronics
+157.0,160.0,0.02,4.5,Sucesso Moderado,78,320,OfficeProducts
+369.0,1600.0,0.77,4.0,Sucesso Moderado,54,461,Electronics
+599.0,899.0,0.33,4.0,Sucesso Moderado,200,798,Computers&Accessories
+479.0,599.0,0.2,4.3,Sucesso Moderado,48,508,Electronics
+350.0,899.0,0.61,4.2,Sucesso Moderado,166,853,Computers&Accessories
+1598.0,2990.0,0.47,3.8,Sucesso Moderado,186,977,Electronics
+599.0,899.0,0.33,4.3,Sucesso Moderado,194,577,Computers&Accessories
+159.0,399.0,0.6,4.1,Sucesso Moderado,103,574,Computers&Accessories
+1299.0,3000.0,0.57,4.3,Sucesso Moderado,91,583,Computers&Accessories
+1599.0,4999.0,0.68,4.0,Sucesso Moderado,136,599,Electronics
+294.0,4999.0,0.94,4.3,Sucesso Moderado,192,2000,Computers&Accessories
+828.0,861.0,0.04,4.2,Sucesso Moderado,35,109,Computers&Accessories
+745.0,795.0,0.06,4.0,Sucesso Moderado,52,1043,Electronics
+1549.0,2495.0,0.38,4.4,Sucesso Moderado,223,676,Electronics
+349.0,399.0,0.13,4.4,Sucesso Moderado,54,134,Computers&Accessories
+970.0,1799.0,0.46,4.5,Fracasso/Nicho,154,367,Computers&Accessories
+1469.0,2499.0,0.41,4.2,Viral/Sucesso de Vendas,187,472,Computers&Accessories
+198.0,800.0,0.75,4.1,Sucesso Moderado,75,555,OfficeProducts
+549.0,549.0,0.0,4.5,Sucesso Moderado,80,445,Electronics
+2999.0,9999.0,0.7,4.2,Sucesso Moderado,179,2646,Electronics
+12000.0,29999.0,0.6,4.3,Sucesso Moderado,76,572,Electronics
+1299.0,3499.0,0.63,3.9,Sucesso Moderado,145,643,Electronics
+269.0,315.0,0.15,4.5,Sucesso Moderado,42,486,Electronics
+799.0,1499.0,0.47,4.1,Sucesso Moderado,141,338,Electronics
+6299.0,13750.0,0.54,4.2,Sucesso Moderado,198,321,Computers&Accessories
+59.0,59.0,0.0,3.8,Sucesso Moderado,91,124,Computers&Accessories
+571.0,999.0,0.43,4.3,Sucesso Moderado,108,453,Electronics
+549.0,999.0,0.45,3.9,Sucesso Moderado,136,565,Electronics
+2099.0,5999.0,0.65,4.3,Sucesso Moderado,199,1812,Electronics
+13490.0,21990.0,0.39,4.3,Sucesso Moderado,71,934,Electronics
+448.0,699.0,0.36,3.9,Sucesso Moderado,97,164,Computers&Accessories
+1499.0,2999.0,0.5,3.7,Sucesso Moderado,198,829,Electronics
+299.0,499.0,0.4,4.2,Sucesso Moderado,196,902,Electronics
+579.0,1400.0,0.59,4.3,Viral/Sucesso de Vendas,54,768,Computers&Accessories
+2499.0,3299.0,0.24,4.2,Sucesso Moderado,191,952,Electronics
+1199.0,5999.0,0.8,3.9,Sucesso Moderado,150,760,Electronics
+399.0,499.0,0.2,4.3,Sucesso Moderado,60,470,Electronics
+279.0,499.0,0.44,3.7,Sucesso Moderado,90,923,Electronics
+13490.0,22900.0,0.41,4.3,Sucesso Moderado,99,1067,Electronics
+279.0,375.0,0.26,4.3,Sucesso Moderado,106,702,Computers&Accessories
+2499.0,4999.0,0.5,3.9,Sucesso Moderado,184,847,Electronics
+137.0,160.0,0.14,4.4,Sucesso Moderado,86,320,OfficeProducts
+59.0,199.0,0.7,4.0,Sucesso Moderado,43,566,Computers&Accessories
+299.0,499.0,0.4,4.5,Sucesso Moderado,187,661,Computers&Accessories
+1799.0,3999.0,0.55,3.9,Sucesso Moderado,192,667,Electronics
+1999.0,2999.0,0.33,4.3,Sucesso Moderado,132,357,Electronics
+199.0,699.0,0.72,4.2,Sucesso Moderado,147,694,Electronics
+399.0,1499.0,0.73,4.1,Sucesso Moderado,111,734,Computers&Accessories
+1699.0,3999.0,0.58,4.2,Sucesso Moderado,159,750,Computers&Accessories
+699.0,995.0,0.3,4.5,Sucesso Moderado,130,783,Computers&Accessories
+95.0,499.0,0.81,4.2,Sucesso Moderado,142,885,Electronics
+1149.0,1699.0,0.32,4.2,Viral/Sucesso de Vendas,168,1118,Computers&Accessories
+1495.0,1995.0,0.25,4.3,Sucesso Moderado,155,721,Computers&Accessories
+849.0,4999.0,0.83,4.0,Sucesso Moderado,200,1366,Computers&Accessories
+440.0,440.0,0.0,4.5,Sucesso Moderado,59,573,OfficeProducts
+349.0,999.0,0.65,3.8,Sucesso Moderado,167,1110,Electronics
+599.0,3999.0,0.85,3.9,Sucesso Moderado,71,517,Computers&Accessories
+149.0,399.0,0.63,4.0,Sucesso Moderado,203,1537,Computers&Accessories
+289.0,999.0,0.71,4.1,Fracasso/Nicho,123,628,Computers&Accessories
+179.0,499.0,0.64,3.4,Sucesso Moderado,86,123,Computers&Accessories
+1499.0,4999.0,0.7,4.0,Sucesso Moderado,200,784,Electronics
+399.0,699.0,0.43,3.4,Sucesso Moderado,156,128,Electronics
+599.0,799.0,0.25,4.3,Sucesso Moderado,92,589,Computers&Accessories
+949.0,2000.0,0.53,3.9,Sucesso Moderado,146,459,Computers&Accessories
+2499.0,9999.0,0.75,4.1,Sucesso Moderado,178,1971,Electronics
+159.0,180.0,0.12,4.3,Fracasso/Nicho,44,185,Electronics
+1329.0,2900.0,0.54,4.5,Sucesso Moderado,106,507,Electronics
+570.0,999.0,0.43,4.2,Sucesso Moderado,85,481,Computers&Accessories
+899.0,1999.0,0.55,4.1,Sucesso Moderado,161,400,Electronics
+449.0,999.0,0.55,4.4,Sucesso Moderado,177,674,Computers&Accessories
+549.0,999.0,0.45,4.3,Sucesso Moderado,192,1871,Computers&Accessories
+1529.0,2399.0,0.36,4.3,Sucesso Moderado,182,872,Computers&Accessories
+100.0,100.0,0.0,4.3,Sucesso Moderado,29,63,OfficeProducts
+299.0,1499.0,0.8,4.2,Fracasso/Nicho,182,617,Computers&Accessories
+1295.0,1795.0,0.28,4.1,Sucesso Moderado,170,833,Computers&Accessories
+699.0,999.0,0.3,4.1,Viral/Sucesso de Vendas,56,524,Electronics
+252.0,315.0,0.2,4.5,Sucesso Moderado,61,74,OfficeProducts
+190.0,220.0,0.14,4.4,Sucesso Moderado,46,65,Electronics
+1299.0,1599.0,0.19,4.3,Sucesso Moderado,78,317,Computers&Accessories
+729.0,1650.0,0.56,4.3,Sucesso Moderado,67,556,Computers&Accessories
+480.0,600.0,0.2,4.3,Sucesso Moderado,38,520,OfficeProducts
+1799.0,6990.0,0.74,4.0,Sucesso Moderado,199,846,Electronics
+999.0,2499.0,0.6,4.3,Sucesso Moderado,132,1936,Computers&Accessories
+299.0,399.0,0.25,4.0,Sucesso Moderado,116,707,Computers&Accessories
+238.0,699.0,0.66,4.4,Sucesso Moderado,198,1068,Computers&Accessories
+1349.0,2198.0,0.39,4.0,Sucesso Moderado,139,448,Computers&Accessories
+299.0,999.0,0.7,4.3,Sucesso Moderado,66,633,Computers&Accessories
+199.0,499.0,0.6,3.3,Sucesso Moderado,104,629,Computers&Accessories
+1999.0,9999.0,0.8,3.7,Sucesso Moderado,193,263,Electronics
+99.0,499.0,0.8,4.1,Sucesso Moderado,177,1071,Electronics
+499.0,1000.0,0.5,5.0,Fracasso/Nicho,162,619,Computers&Accessories
+1792.0,3500.0,0.49,4.5,Sucesso Moderado,84,589,Computers&Accessories
+3299.0,4100.0,0.2,3.9,Sucesso Moderado,136,612,Computers&Accessories
+125.0,180.0,0.31,4.4,Sucesso Moderado,66,58,OfficeProducts
+399.0,1190.0,0.66,4.1,Sucesso Moderado,169,299,Computers&Accessories
+1199.0,7999.0,0.85,3.6,Sucesso Moderado,197,1366,Electronics
+235.0,1599.0,0.85,3.8,Sucesso Moderado,127,1707,Computers&Accessories
+549.0,1999.0,0.73,3.6,Sucesso Moderado,110,667,Computers&Accessories
+89.0,99.0,0.1,4.2,Fracasso/Nicho,165,572,Computers&Accessories
+970.0,1999.0,0.51,4.4,Fracasso/Nicho,159,366,Computers&Accessories
+1299.0,2999.0,0.57,3.8,Sucesso Moderado,183,761,Electronics
+230.0,999.0,0.77,4.2,Sucesso Moderado,128,515,Computers&Accessories
+119.0,499.0,0.76,4.3,Sucesso Moderado,193,862,Electronics
+449.0,800.0,0.44,4.4,Sucesso Moderado,98,374,Electronics
+1699.0,3495.0,0.51,4.1,Sucesso Moderado,178,711,Electronics
+561.0,720.0,0.22,4.4,Sucesso Moderado,76,320,OfficeProducts
+289.0,590.0,0.51,4.4,Sucesso Moderado,197,478,Computers&Accessories
+599.0,1999.0,0.7,4.4,Sucesso Moderado,176,1655,Computers&Accessories
+5599.0,7350.0,0.24,4.4,Sucesso Moderado,196,410,Computers&Accessories
+1990.0,2595.0,0.23,4.3,Sucesso Moderado,198,763,Computers&Accessories
+499.0,799.0,0.38,4.3,Sucesso Moderado,90,480,Computers&Accessories
+449.0,999.0,0.55,4.3,Sucesso Moderado,177,674,Computers&Accessories
+999.0,1999.0,0.5,4.2,Sucesso Moderado,106,341,Computers&Accessories
+69.0,299.0,0.77,4.3,Fracasso/Nicho,185,899,Computers&Accessories
+899.0,1499.0,0.4,4.2,Sucesso Moderado,163,650,Computers&Accessories
+478.0,699.0,0.32,3.8,Sucesso Moderado,66,980,MusicalInstruments
+1399.0,2490.0,0.44,4.3,Sucesso Moderado,111,237,Computers&Accessories
+199.0,750.0,0.73,4.5,Sucesso Moderado,115,673,Computers&Accessories
+149.0,499.0,0.7,4.1,Sucesso Moderado,186,647,Computers&Accessories
+1799.0,4990.0,0.64,4.2,Sucesso Moderado,100,613,Electronics
+425.0,999.0,0.57,4.0,Sucesso Moderado,147,606,HomeImprovement
+999.0,2490.0,0.6,4.1,Sucesso Moderado,104,675,Electronics
+378.0,999.0,0.62,4.1,Sucesso Moderado,250,79,Computers&Accessories
+99.0,99.0,0.0,4.3,Fracasso/Nicho,163,289,OfficeProducts
+1499.0,2999.0,0.5,4.5,Sucesso Moderado,174,619,Computers&Accessories
+1815.0,3100.0,0.41,4.5,Sucesso Moderado,72,842,Computers&Accessories
+67.0,75.0,0.11,4.1,Sucesso Moderado,81,369,OfficeProducts
+1889.0,2699.0,0.3,4.3,Sucesso Moderado,64,963,Computers&Accessories
+499.0,1499.0,0.67,3.6,Sucesso Moderado,177,353,Electronics
+499.0,999.0,0.5,4.4,Sucesso Moderado,127,829,Computers&Accessories
+5799.0,7999.0,0.28,4.5,Sucesso Moderado,171,831,Computers&Accessories
+499.0,799.0,0.38,3.9,Sucesso Moderado,91,294,Electronics
+249.0,600.0,0.59,4.0,Sucesso Moderado,168,1087,Computers&Accessories
+179.0,499.0,0.64,4.0,Sucesso Moderado,187,401,Computers&Accessories
+4449.0,5734.0,0.22,4.4,Sucesso Moderado,136,546,Computers&Accessories
+299.0,550.0,0.46,4.6,Sucesso Moderado,51,448,Computers&Accessories
+629.0,1390.0,0.55,4.4,Sucesso Moderado,195,1021,Computers&Accessories
+2595.0,3295.0,0.21,4.4,Sucesso Moderado,174,1547,Computers&Accessories
+389.0,1099.0,0.65,4.3,Fracasso/Nicho,188,773,Computers&Accessories
+1799.0,2911.0,0.38,4.3,Sucesso Moderado,221,1041,Computers&Accessories
+90.0,175.0,0.49,4.4,Sucesso Moderado,130,150,OfficeProducts
+599.0,599.0,0.0,4.0,Sucesso Moderado,105,1554,Computers&Accessories
+1999.0,7999.0,0.75,4.2,Sucesso Moderado,198,1372,Electronics
+2099.0,3250.0,0.35,3.8,Sucesso Moderado,76,843,Computers&Accessories
+179.0,499.0,0.64,4.1,Sucesso Moderado,87,689,Computers&Accessories
+1345.0,2295.0,0.41,4.2,Sucesso Moderado,174,1208,Computers&Accessories
+349.0,995.0,0.65,4.2,Sucesso Moderado,207,248,Electronics
+287.0,499.0,0.42,4.4,Sucesso Moderado,200,1718,Computers&Accessories
+599.0,599.0,0.0,4.3,Fracasso/Nicho,63,123,Computers&Accessories
+349.0,450.0,0.22,4.1,Sucesso Moderado,75,201,Computers&Accessories
+879.0,1109.0,0.21,4.4,Sucesso Moderado,49,597,Electronics
+199.0,999.0,0.8,3.9,Sucesso Moderado,197,918,Computers&Accessories
+250.0,250.0,0.0,3.9,Sucesso Moderado,99,793,Electronics
+199.0,499.0,0.6,3.6,Sucesso Moderado,198,1008,Electronics
+899.0,1900.0,0.53,4.4,Sucesso Moderado,127,857,Computers&Accessories
+199.0,999.0,0.8,4.0,Fracasso/Nicho,194,1491,Computers&Accessories
+149.0,999.0,0.85,3.5,Sucesso Moderado,80,221,Computers&Accessories
+469.0,1499.0,0.69,4.1,Fracasso/Nicho,246,1599,Computers&Accessories
+1187.0,1929.0,0.38,4.1,Sucesso Moderado,213,2105,Computers&Accessories
+849.0,1499.0,0.43,4.0,Sucesso Moderado,75,847,Computers&Accessories
+328.0,399.0,0.18,4.1,Sucesso Moderado,155,500,Computers&Accessories
+269.0,699.0,0.62,4.0,Fracasso/Nicho,182,338,Computers&Accessories
+299.0,400.0,0.25,3.8,Sucesso Moderado,56,896,Electronics
+549.0,1499.0,0.63,4.3,Sucesso Moderado,122,750,Computers&Accessories
+114.0,120.0,0.05,4.2,Sucesso Moderado,84,318,OfficeProducts
+120.0,120.0,0.0,4.1,Sucesso Moderado,46,197,OfficeProducts
+970.0,1999.0,0.51,4.2,Fracasso/Nicho,170,288,Computers&Accessories
+209.0,695.0,0.7,4.5,Viral/Sucesso de Vendas,106,405,Computers&Accessories
+1490.0,2295.0,0.35,4.6,Sucesso Moderado,148,1288,Computers&Accessories
+99.0,99.0,0.0,4.3,Sucesso Moderado,47,107,Home&Kitchen
+149.0,249.0,0.4,4.0,Sucesso Moderado,100,378,Computers&Accessories
+575.0,2799.0,0.79,4.2,Sucesso Moderado,85,1257,Computers&Accessories
+333.0,999.0,0.67,3.3,Sucesso Moderado,150,783,Computers&Accessories
+178.0,210.0,0.15,4.3,Sucesso Moderado,54,234,OfficeProducts
+1599.0,3490.0,0.54,3.7,Fracasso/Nicho,196,978,Electronics
+499.0,1299.0,0.62,3.9,Sucesso Moderado,104,538,Electronics
+199.0,499.0,0.6,4.3,Sucesso Moderado,69,322,Computers&Accessories
+2499.0,5999.0,0.58,4.1,Sucesso Moderado,178,1151,Electronics
+199.0,999.0,0.8,4.2,Fracasso/Nicho,87,552,Computers&Accessories
+939.0,1800.0,0.48,4.5,Viral/Sucesso de Vendas,107,281,Electronics
+2499.0,9999.0,0.75,4.0,Sucesso Moderado,196,2591,Electronics
+1439.0,2890.0,0.5,4.5,Sucesso Moderado,184,1081,Computers&Accessories
+1099.0,5999.0,0.82,3.5,Sucesso Moderado,182,263,Electronics
+157.0,160.0,0.02,4.5,Sucesso Moderado,74,316,OfficeProducts
+999.0,1599.0,0.38,4.3,Sucesso Moderado,194,708,Computers&Accessories
+115.0,999.0,0.88,3.3,Sucesso Moderado,176,285,Computers&Accessories
+175.0,499.0,0.65,4.1,Fracasso/Nicho,195,648,Computers&Accessories
+1999.0,4700.0,0.57,3.8,Sucesso Moderado,199,1239,Electronics
+3999.0,4332.96,0.08,3.5,Sucesso Moderado,177,581,Computers&Accessories
+899.0,1800.0,0.5,4.1,Sucesso Moderado,127,927,Computers&Accessories
+299.0,990.0,0.7,4.5,Sucesso Moderado,88,1133,Computers&Accessories
+3303.0,4699.0,0.3,4.4,Sucesso Moderado,163,702,Computers&Accessories
+1890.0,5490.0,0.66,4.1,Sucesso Moderado,191,1544,Computers&Accessories
+90.0,100.0,0.1,4.3,Sucesso Moderado,31,64,OfficeProducts
+1599.0,2790.0,0.43,3.6,Sucesso Moderado,196,552,Electronics
+599.0,999.0,0.4,4.0,Sucesso Moderado,101,233,Computers&Accessories
+507.0,1208.0,0.58,4.1,Sucesso Moderado,57,386,Computers&Accessories
+425.0,899.0,0.53,4.5,Sucesso Moderado,181,1475,Computers&Accessories
+1499.0,3999.0,0.63,4.2,Sucesso Moderado,173,400,Electronics
+549.0,2499.0,0.78,4.3,Sucesso Moderado,163,862,Computers&Accessories
+199.0,395.0,0.5,4.2,Sucesso Moderado,135,373,Computers&Accessories
+1295.0,1645.0,0.21,4.6,Sucesso Moderado,155,1364,Computers&Accessories
+310.0,310.0,0.0,4.5,Sucesso Moderado,53,39,Home&Kitchen
+149.0,149.0,0.0,4.3,Sucesso Moderado,125,1163,Computers&Accessories
+1149.0,1499.0,0.23,4.1,Sucesso Moderado,144,27,Computers&Accessories
+499.0,1299.0,0.62,4.5,Fracasso/Nicho,169,1496,Computers&Accessories
+999.0,4199.0,0.76,3.5,Sucesso Moderado,193,958,Electronics
+1709.0,4000.0,0.57,4.4,Sucesso Moderado,104,505,Computers&Accessories
+250.0,250.0,0.0,4.2,Sucesso Moderado,173,122,OfficeProducts
+1199.0,2199.0,0.45,4.4,Sucesso Moderado,206,819,Computers&Accessories
+90.0,100.0,0.1,4.4,Sucesso Moderado,168,93,Home&Kitchen
+2025.0,5999.0,0.66,4.2,Sucesso Moderado,199,1197,Electronics
+1495.0,1995.0,0.25,4.5,Sucesso Moderado,170,814,Computers&Accessories
+799.0,2100.0,0.62,4.3,Sucesso Moderado,138,138,Computers&Accessories
+899.0,1199.0,0.25,3.8,Sucesso Moderado,121,498,Electronics
+349.0,999.0,0.65,3.9,Fracasso/Nicho,120,802,Computers&Accessories
+900.0,2499.0,0.64,4.0,Sucesso Moderado,73,421,Electronics
+2490.0,3990.0,0.38,4.1,Sucesso Moderado,195,1289,Electronics
+116.0,200.0,0.42,4.4,Fracasso/Nicho,85,381,Electronics
+200.0,230.0,0.13,4.4,Sucesso Moderado,56,142,Home&Kitchen
+1249.0,2796.0,0.55,4.4,Sucesso Moderado,108,333,Computers&Accessories
+649.0,999.0,0.35,3.5,Sucesso Moderado,160,322,Computers&Accessories
+2649.0,3499.0,0.24,4.5,Sucesso Moderado,166,1096,Computers&Accessories
+199.0,349.0,0.43,4.1,Fracasso/Nicho,113,481,Computers&Accessories
+596.0,723.0,0.18,4.4,Sucesso Moderado,25,473,Computers&Accessories
+2499.0,5999.0,0.58,4.1,Sucesso Moderado,163,537,Electronics
+4999.0,12499.0,0.6,4.2,Sucesso Moderado,148,719,Electronics
+399.0,1290.0,0.69,4.2,Sucesso Moderado,63,835,Electronics
+116.0,200.0,0.42,4.3,Fracasso/Nicho,85,381,Electronics
+4499.0,5999.0,0.25,4.3,Sucesso Moderado,175,184,Electronics
+330.0,499.0,0.34,3.7,Sucesso Moderado,102,211,Computers&Accessories
+649.0,2499.0,0.74,3.9,Sucesso Moderado,144,763,Electronics
+1234.0,1599.0,0.23,4.5,Sucesso Moderado,196,713,Computers&Accessories
+1399.0,2990.0,0.53,4.1,Sucesso Moderado,119,683,Electronics
+272.0,320.0,0.15,4.0,Sucesso Moderado,57,481,OfficeProducts
+99.0,999.0,0.9,3.8,Fracasso/Nicho,127,399,Electronics
+3498.0,3875.0,0.1,3.4,Sucesso Moderado,87,1555,Computers&Accessories
+10099.0,19110.0,0.47,4.3,Sucesso Moderado,142,462,Computers&Accessories
+449.0,999.0,0.55,4.3,Sucesso Moderado,177,674,Computers&Accessories
+150.0,150.0,0.0,4.3,Sucesso Moderado,55,146,Toys&Games
+348.0,1499.0,0.77,4.2,Fracasso/Nicho,162,671,Computers&Accessories
+1199.0,2999.0,0.6,4.1,Sucesso Moderado,193,647,Computers&Accessories
+397.0,899.0,0.56,4.0,Sucesso Moderado,151,870,Computers&Accessories
+154.0,349.0,0.56,4.3,Sucesso Moderado,96,588,Computers&Accessories
+699.0,1490.0,0.53,4.0,Sucesso Moderado,109,529,Computers&Accessories
+1679.0,1999.0,0.16,4.1,Sucesso Moderado,146,502,Electronics
+354.0,1500.0,0.76,4.0,Sucesso Moderado,197,1657,Computers&Accessories
+1199.0,5499.0,0.78,3.8,Sucesso Moderado,195,575,Computers&Accessories
+379.0,1499.0,0.75,4.2,Sucesso Moderado,161,137,Computers&Accessories
+499.0,775.0,0.36,4.3,Fracasso/Nicho,123,1433,Computers&Accessories
+10389.0,32000.0,0.68,4.4,Sucesso Moderado,196,667,Computers&Accessories
+649.0,1300.0,0.5,4.1,Sucesso Moderado,141,392,Computers&Accessories
+1199.0,1999.0,0.4,4.5,Sucesso Moderado,184,314,Computers&Accessories
+139.0,999.0,0.86,4.0,Sucesso Moderado,79,537,Computers&Accessories
+889.0,1999.0,0.56,4.2,Sucesso Moderado,192,1275,Electronics
+1409.0,2199.0,0.36,3.9,Fracasso/Nicho,152,764,Computers&Accessories
+549.0,1999.0,0.73,4.3,Sucesso Moderado,133,862,Computers&Accessories
+749.0,1799.0,0.58,4.0,Sucesso Moderado,72,688,Computers&Accessories
+329.0,845.0,0.61,4.2,Sucesso Moderado,84,699,Computers&Accessories
+379.0,1099.0,0.66,4.3,Sucesso Moderado,177,1204,Computers&Accessories
+5998.0,7999.0,0.25,4.2,Sucesso Moderado,186,740,Electronics
+299.0,1499.0,0.8,4.2,Sucesso Moderado,211,938,Computers&Accessories
+379.0,1499.0,0.75,4.1,Fracasso/Nicho,98,665,Computers&Accessories
+1399.0,2999.0,0.53,4.3,Sucesso Moderado,138,1096,OfficeProducts
+699.0,1299.0,0.46,4.3,Sucesso Moderado,194,1568,Electronics
+300.0,300.0,0.0,4.2,Fracasso/Nicho,98,256,OfficeProducts
+999.0,1995.0,0.5,4.5,Sucesso Moderado,171,902,Computers&Accessories
+535.0,535.0,0.0,4.4,Sucesso Moderado,81,617,OfficeProducts
+13999.0,24999.0,0.44,4.2,Sucesso Moderado,91,1483,Electronics
+269.0,1099.0,0.76,4.1,Sucesso Moderado,187,904,Computers&Accessories
+341.0,450.0,0.24,4.3,Sucesso Moderado,110,461,OfficeProducts
+2499.0,3999.0,0.38,4.4,Sucesso Moderado,145,462,Computers&Accessories
+349.0,599.0,0.42,4.1,Fracasso/Nicho,185,1055,Computers&Accessories
+5899.0,7005.0,0.16,3.6,Sucesso Moderado,102,938,Computers&Accessories
+699.0,1199.0,0.42,4.0,Sucesso Moderado,212,1396,Electronics
+1565.0,2999.0,0.48,4.0,Sucesso Moderado,200,1610,Computers&Accessories
+326.0,799.0,0.59,4.4,Sucesso Moderado,161,1577,Electronics
+120.0,999.0,0.88,3.9,Sucesso Moderado,167,860,Electronics
+657.0,999.0,0.34,4.3,Sucesso Moderado,144,792,Computers&Accessories
+1995.0,2895.0,0.31,4.6,Sucesso Moderado,129,780,Computers&Accessories
+1500.0,1500.0,0.0,4.4,Sucesso Moderado,103,680,Electronics
+2640.0,3195.0,0.17,4.5,Sucesso Moderado,180,1278,Computers&Accessories
+5299.0,6355.0,0.17,3.9,Sucesso Moderado,78,1215,Computers&Accessories
+263.0,699.0,0.62,4.1,Fracasso/Nicho,128,1218,Computers&Accessories
+1990.0,2999.0,0.34,4.3,Sucesso Moderado,137,860,Computers&Accessories
+1289.0,1499.0,0.14,4.5,Sucesso Moderado,98,332,Electronics
+165.0,165.0,0.0,4.5,Sucesso Moderado,69,395,OfficeProducts
+1699.0,3499.0,0.51,3.6,Sucesso Moderado,141,795,Computers&Accessories
+2299.0,7500.0,0.69,4.1,Sucesso Moderado,198,1938,Electronics
+219.0,700.0,0.69,4.3,Sucesso Moderado,102,675,Computers&Accessories
+39.0,39.0,0.0,3.8,Sucesso Moderado,83,474,Computers&Accessories
+26999.0,37999.0,0.29,4.6,Sucesso Moderado,171,357,Computers&Accessories
+1490.0,1990.0,0.25,4.1,Sucesso Moderado,100,442,Electronics
+398.0,1949.0,0.8,4.0,Fracasso/Nicho,105,1275,Computers&Accessories
+349.0,899.0,0.61,4.5,Fracasso/Nicho,242,1312,Computers&Accessories
+770.0,1547.0,0.5,4.3,Sucesso Moderado,83,588,Computers&Accessories
+279.0,1299.0,0.79,4.0,Sucesso Moderado,163,1036,Electronics
+249.0,599.0,0.58,4.5,Sucesso Moderado,199,636,HomeImprovement
+115.0,499.0,0.77,4.0,Sucesso Moderado,171,313,Computers&Accessories
+230.0,230.0,0.0,4.5,Sucesso Moderado,54,293,Home&Kitchen
+399.0,999.0,0.6,4.1,Sucesso Moderado,183,653,Computers&Accessories
+599.0,700.0,0.14,4.3,Sucesso Moderado,197,529,Computers&Accessories
+598.0,1150.0,0.48,4.1,Sucesso Moderado,167,574,Computers&Accessories
+399.0,1499.0,0.73,4.0,Fracasso/Nicho,163,785,Computers&Accessories
+499.0,1299.0,0.62,4.1,Sucesso Moderado,198,1645,Computers&Accessories
+199.0,499.0,0.6,4.1,Fracasso/Nicho,186,391,Computers&Accessories
+579.0,1090.0,0.47,4.4,Sucesso Moderado,200,1121,Computers&Accessories
+179.0,399.0,0.55,4.0,Sucesso Moderado,172,792,Computers&Accessories
+90.0,100.0,0.1,4.1,Sucesso Moderado,53,625,OfficeProducts
+899.0,1999.0,0.55,4.4,Sucesso Moderado,182,373,Computers&Accessories
+1149.0,1800.0,0.36,4.3,Sucesso Moderado,178,365,Computers&Accessories
+249.0,499.0,0.5,4.2,Sucesso Moderado,79,304,Computers&Accessories
+39.0,39.0,0.0,3.6,Sucesso Moderado,71,474,Computers&Accessories
+1599.0,3599.0,0.56,4.2,Sucesso Moderado,56,622,Computers&Accessories
+1199.0,3990.0,0.7,4.2,Sucesso Moderado,156,812,Electronics
+209.0,499.0,0.58,3.9,Fracasso/Nicho,155,1201,Computers&Accessories
+1099.0,1499.0,0.27,4.2,Sucesso Moderado,255,1686,Computers&Accessories
+120.0,120.0,0.0,4.5,Sucesso Moderado,71,317,OfficeProducts
+1519.0,3499.0,0.57,4.3,Fracasso/Nicho,162,489,Computers&Accessories
+420.0,420.0,0.0,4.2,Sucesso Moderado,65,119,OfficeProducts
+225.0,225.0,0.0,4.1,Sucesso Moderado,45,69,OfficeProducts
+199.0,799.0,0.75,4.1,Sucesso Moderado,84,750,Computers&Accessories
+1799.0,3999.0,0.55,4.6,Fracasso/Nicho,198,1614,Electronics
+8349.0,9625.0,0.13,3.8,Sucesso Moderado,130,1637,Computers&Accessories
+3307.0,6100.0,0.46,4.3,Sucesso Moderado,76,271,Computers&Accessories
+325.0,1299.0,0.75,4.2,Sucesso Moderado,200,1186,Computers&Accessories
+449.0,1300.0,0.65,4.2,Sucesso Moderado,40,361,Computers&Accessories
+380.0,400.0,0.05,4.4,Sucesso Moderado,40,269,Electronics
+499.0,1399.0,0.64,3.9,Sucesso Moderado,223,1256,Computers&Accessories
+37247.0,59890.0,0.38,4.0,Fracasso/Nicho,175,854,Computers&Accessories
+849.0,2490.0,0.66,4.2,Sucesso Moderado,59,576,Electronics
+799.0,1999.0,0.6,3.7,Fracasso/Nicho,198,249,Electronics
+2599.0,6999.0,0.63,4.5,Sucesso Moderado,204,2029,Electronics
+199.0,999.0,0.8,4.5,Fracasso/Nicho,206,1181,Computers&Accessories
+269.0,800.0,0.66,3.6,Sucesso Moderado,197,425,Computers&Accessories
+298.0,999.0,0.7,4.3,Sucesso Moderado,154,263,Computers&Accessories
+1499.0,2999.0,0.5,4.1,Sucesso Moderado,142,460,Electronics
+649.0,1245.0,0.48,3.9,Viral/Sucesso de Vendas,186,1081,Home&Kitchen
+1199.0,1695.0,0.29,3.6,Sucesso Moderado,76,407,Home&Kitchen
+1199.0,2000.0,0.4,4.0,Sucesso Moderado,143,1185,Home&Kitchen
+455.0,999.0,0.54,4.1,Sucesso Moderado,95,1393,Home&Kitchen
+199.0,1999.0,0.9,3.7,Sucesso Moderado,156,682,Home&Kitchen
+293.0,499.0,0.41,3.9,Sucesso Moderado,101,496,Home&Kitchen
+199.0,495.0,0.6,4.1,Viral/Sucesso de Vendas,153,553,Home&Kitchen
+749.0,1245.0,0.4,3.9,Sucesso Moderado,41,650,Home&Kitchen
+1399.0,1549.0,0.1,3.9,Sucesso Moderado,40,441,Home&Kitchen
+749.0,1445.0,0.48,3.9,Sucesso Moderado,65,756,Home&Kitchen
+1699.0,3193.0,0.47,3.8,Sucesso Moderado,63,775,Home&Kitchen
+1043.0,1345.0,0.22,3.8,Sucesso Moderado,59,601,Home&Kitchen
+499.0,999.0,0.5,4.1,Sucesso Moderado,121,616,Home&Kitchen
+1464.0,1650.0,0.11,4.1,Sucesso Moderado,42,393,Home&Kitchen
+249.0,499.0,0.5,3.3,Sucesso Moderado,88,765,Home&Kitchen
+625.0,1400.0,0.55,4.2,Sucesso Moderado,100,54,Home&Kitchen
+1290.0,2500.0,0.48,4.0,Sucesso Moderado,134,938,Home&Kitchen
+3600.0,6190.0,0.42,4.3,Sucesso Moderado,52,454,Home&Kitchen
+6549.0,13999.0,0.53,4.0,Sucesso Moderado,101,542,Home&Kitchen
+1625.0,2995.0,0.46,4.5,Sucesso Moderado,153,235,Home&Kitchen
+2599.0,5890.0,0.56,4.1,Sucesso Moderado,68,212,Home&Kitchen
+1199.0,2000.0,0.4,4.0,Sucesso Moderado,190,56,Home&Kitchen
+5499.0,13150.0,0.58,4.2,Sucesso Moderado,199,223,Home&Kitchen
+1299.0,3500.0,0.63,3.8,Sucesso Moderado,153,594,Home&Kitchen
+599.0,785.0,0.24,4.2,Sucesso Moderado,118,360,Home&Kitchen
+1999.0,3210.0,0.38,4.2,Sucesso Moderado,66,1154,Home&Kitchen
+549.0,1000.0,0.45,3.6,Sucesso Moderado,156,446,Home&Kitchen
+999.0,2000.0,0.5,3.8,Sucesso Moderado,150,381,Home&Kitchen
+398.0,1999.0,0.8,4.1,Fracasso/Nicho,141,1021,Home&Kitchen
+539.0,720.0,0.25,4.1,Sucesso Moderado,51,285,Home&Kitchen
+699.0,1595.0,0.56,4.1,Sucesso Moderado,181,1311,Home&Kitchen
+2148.0,3645.0,0.41,4.1,Sucesso Moderado,68,466,Home&Kitchen
+3599.0,7950.0,0.55,4.2,Fracasso/Nicho,122,879,Home&Kitchen
+351.0,999.0,0.65,4.0,Sucesso Moderado,95,698,Home&Kitchen
+1614.0,1745.0,0.08,4.3,Sucesso Moderado,53,764,Home&Kitchen
+719.0,1295.0,0.44,4.2,Sucesso Moderado,45,290,Home&Kitchen
+678.0,1499.0,0.55,4.2,Fracasso/Nicho,130,524,Home&Kitchen
+809.0,1545.0,0.48,3.7,Fracasso/Nicho,185,1105,Home&Kitchen
+1969.0,5000.0,0.61,4.1,Sucesso Moderado,76,238,Home&Kitchen
+1490.0,1695.0,0.12,4.4,Sucesso Moderado,140,453,Home&Kitchen
+2499.0,3945.0,0.37,3.8,Sucesso Moderado,44,262,Home&Kitchen
+1665.0,2099.0,0.21,4.0,Sucesso Moderado,99,334,Home&Kitchen
+3229.0,5295.0,0.39,4.2,Sucesso Moderado,119,125,Home&Kitchen
+1799.0,3595.0,0.5,3.8,Sucesso Moderado,106,742,Home&Kitchen
+1260.0,1699.0,0.26,4.2,Sucesso Moderado,86,355,Home&Kitchen
+749.0,1129.0,0.34,4.0,Sucesso Moderado,64,476,Home&Kitchen
+3499.0,5795.0,0.4,3.9,Sucesso Moderado,54,1024,Home&Kitchen
+379.0,999.0,0.62,4.3,Sucesso Moderado,114,853,Home&Kitchen
+1099.0,2400.0,0.54,3.8,Fracasso/Nicho,160,334,Home&Kitchen
+749.0,1299.0,0.42,4.0,Fracasso/Nicho,66,640,Home&Kitchen
+1299.0,1299.0,0.0,4.2,Sucesso Moderado,39,343,Home&Kitchen
+549.0,1090.0,0.5,4.2,Sucesso Moderado,80,541,Home&Kitchen
+899.0,2000.0,0.55,3.6,Fracasso/Nicho,178,757,Home&Kitchen
+1321.0,1545.0,0.14,4.3,Sucesso Moderado,56,334,Home&Kitchen
+1099.0,1999.0,0.45,4.0,Fracasso/Nicho,197,2139,Home&Kitchen
+775.0,875.0,0.11,4.2,Sucesso Moderado,100,257,Home&Kitchen
+6299.0,15270.0,0.59,4.1,Sucesso Moderado,198,319,Home&Kitchen
+3190.0,4195.0,0.24,4.0,Sucesso Moderado,176,418,Home&Kitchen
+799.0,1989.0,0.6,4.3,Fracasso/Nicho,165,552,Home&Kitchen
+2699.0,5000.0,0.46,4.0,Sucesso Moderado,196,1079,Home&Kitchen
+599.0,990.0,0.39,3.9,Sucesso Moderado,76,521,Home&Kitchen
+749.0,1111.0,0.33,4.2,Sucesso Moderado,59,296,Home&Kitchen
+6199.0,10400.0,0.4,4.1,Sucesso Moderado,101,519,Home&Kitchen
+1819.0,2490.0,0.27,4.4,Sucesso Moderado,55,138,Home&Kitchen
+1199.0,1900.0,0.37,4.0,Sucesso Moderado,192,480,Home&Kitchen
+3249.0,6295.0,0.48,3.8,Sucesso Moderado,41,291,Home&Kitchen
+349.0,999.0,0.65,4.0,Sucesso Moderado,119,309,Home&Kitchen
+1049.0,1699.0,0.38,3.1,Fracasso/Nicho,133,564,Home&Kitchen
+799.0,1500.0,0.47,4.3,Sucesso Moderado,195,846,Home&Kitchen
+4999.0,9650.0,0.48,4.2,Sucesso Moderado,198,266,Home&Kitchen
+6999.0,10590.0,0.34,4.4,Sucesso Moderado,48,677,Home&Kitchen
+799.0,1999.0,0.6,4.1,Sucesso Moderado,173,1244,Home&Kitchen
+89.0,89.0,0.0,4.2,Sucesso Moderado,179,731,Home&Kitchen
+1400.0,2485.0,0.44,4.1,Sucesso Moderado,75,492,Home&Kitchen
+355.0,899.0,0.61,4.1,Sucesso Moderado,120,840,Home&Kitchen
+2169.0,3279.0,0.34,4.1,Sucesso Moderado,78,638,Home&Kitchen
+2799.0,3799.0,0.26,3.9,Sucesso Moderado,164,796,Home&Kitchen
+899.0,1249.0,0.28,3.9,Sucesso Moderado,181,1271,Home&Kitchen
+2499.0,5000.0,0.5,3.8,Sucesso Moderado,69,316,Home&Kitchen
+3599.0,7299.0,0.51,4.0,Sucesso Moderado,49,532,Home&Kitchen
+499.0,625.0,0.2,4.2,Sucesso Moderado,99,264,Home&Kitchen
+653.0,1020.0,0.36,4.1,Sucesso Moderado,48,220,Home&Kitchen
+4789.0,8990.0,0.47,4.3,Sucesso Moderado,166,630,Home&Kitchen
+1409.0,1639.0,0.14,3.7,Fracasso/Nicho,77,725,Home&Kitchen
+753.0,899.0,0.16,4.2,Sucesso Moderado,48,525,Home&Kitchen
+353.0,1199.0,0.71,4.3,Fracasso/Nicho,113,585,Home&Kitchen
+1099.0,1899.0,0.42,4.3,Sucesso Moderado,176,662,Home&Kitchen
+8799.0,11595.0,0.24,4.4,Sucesso Moderado,153,500,Home&Kitchen
+1345.0,1750.0,0.23,3.8,Sucesso Moderado,179,1122,Home&Kitchen
+2095.0,2095.0,0.0,4.5,Sucesso Moderado,74,114,Home&Kitchen
+1498.0,2300.0,0.35,3.8,Fracasso/Nicho,73,647,Home&Kitchen
+2199.0,2990.0,0.26,3.8,Sucesso Moderado,72,228,Home&Kitchen
+3699.0,4295.0,0.14,4.1,Sucesso Moderado,53,1118,Home&Kitchen
+177.0,199.0,0.11,4.1,Sucesso Moderado,182,584,Home&Kitchen
+1149.0,2499.0,0.54,3.8,Sucesso Moderado,182,506,Home&Kitchen
+244.0,499.0,0.51,3.3,Fracasso/Nicho,21,180,Home&Kitchen
+1959.0,2400.0,0.18,4.0,Fracasso/Nicho,129,106,Home&Kitchen
+319.0,749.0,0.57,4.6,Fracasso/Nicho,85,602,Home&Kitchen
+1499.0,1775.0,0.16,3.9,Sucesso Moderado,176,161,Home&Kitchen
+469.0,1599.0,0.71,3.7,Fracasso/Nicho,105,1391,Home&Kitchen
+1099.0,1795.0,0.39,4.2,Sucesso Moderado,104,262,Home&Kitchen
+9590.0,15999.0,0.4,4.1,Sucesso Moderado,135,582,Home&Kitchen
+999.0,1490.0,0.33,4.1,Sucesso Moderado,157,1044,Home&Kitchen
+1299.0,1999.0,0.35,3.8,Fracasso/Nicho,191,403,Home&Kitchen
+292.0,499.0,0.41,4.1,Sucesso Moderado,114,325,Home&Kitchen
+160.0,299.0,0.46,4.6,Sucesso Moderado,99,80,Home&Kitchen
+600.0,600.0,0.0,4.1,Sucesso Moderado,73,569,Home&Kitchen
+1130.0,1130.0,0.0,4.2,Sucesso Moderado,73,569,Home&Kitchen
+3249.0,6295.0,0.48,3.9,Sucesso Moderado,95,981,Home&Kitchen
+3599.0,9455.0,0.62,4.1,Sucesso Moderado,142,1419,Home&Kitchen
+368.0,699.0,0.47,4.1,Sucesso Moderado,34,823,Home&Kitchen
+3199.0,4999.0,0.36,4.0,Sucesso Moderado,50,906,Home&Kitchen
+1599.0,2900.0,0.45,3.7,Fracasso/Nicho,200,459,Home&Kitchen
+1999.0,2499.0,0.2,4.1,Sucesso Moderado,192,965,Home&Kitchen
+616.0,1190.0,0.48,4.1,Sucesso Moderado,80,293,Home&Kitchen
+1499.0,2100.0,0.29,4.1,Sucesso Moderado,118,569,Home&Kitchen
+199.0,499.0,0.6,3.3,Fracasso/Nicho,171,665,Home&Kitchen
+610.0,825.0,0.26,4.1,Sucesso Moderado,85,397,Home&Kitchen
+999.0,1499.0,0.33,4.1,Sucesso Moderado,187,964,Home&Kitchen
+8999.0,9995.0,0.1,4.4,Sucesso Moderado,64,578,Home&Kitchen
+453.0,999.0,0.55,4.3,Fracasso/Nicho,210,946,Home&Kitchen
+2464.0,6000.0,0.59,4.1,Sucesso Moderado,56,384,Home&Kitchen
+2719.0,3945.0,0.31,3.7,Sucesso Moderado,108,512,Home&Kitchen
+1439.0,1999.0,0.28,4.8,Sucesso Moderado,180,1529,Home&Kitchen
+2799.0,3499.0,0.2,4.5,Fracasso/Nicho,192,976,Home&Kitchen
+2088.0,5550.0,0.62,4.0,Sucesso Moderado,166,480,Home&Kitchen
+2399.0,4590.0,0.48,4.1,Fracasso/Nicho,167,98,Home&Kitchen
+308.0,499.0,0.38,3.9,Sucesso Moderado,42,82,Home&Kitchen
+2599.0,4400.0,0.41,4.1,Sucesso Moderado,82,529,Home&Kitchen
+479.0,1000.0,0.52,4.2,Sucesso Moderado,84,364,Home&Kitchen
+245.0,299.0,0.18,4.1,Sucesso Moderado,50,183,Home&Kitchen
+179.0,799.0,0.78,3.5,Fracasso/Nicho,195,617,Home&Kitchen
+3569.0,5190.0,0.31,4.3,Sucesso Moderado,92,825,Home&Kitchen
+699.0,1345.0,0.48,3.9,Sucesso Moderado,186,1270,Home&Kitchen
+2089.0,4000.0,0.48,4.2,Sucesso Moderado,60,329,Home&Kitchen
+2339.0,4000.0,0.42,3.8,Sucesso Moderado,177,1965,Car&Motorbike
+784.0,1599.0,0.51,4.5,Fracasso/Nicho,84,271,Home&Kitchen
+5499.0,9999.0,0.45,3.8,Sucesso Moderado,192,930,Home&Kitchen
+899.0,1990.0,0.55,4.1,Fracasso/Nicho,67,1256,Home&Kitchen
+1695.0,1695.0,0.0,4.2,Sucesso Moderado,46,919,Home&Kitchen
+499.0,940.0,0.47,4.1,Sucesso Moderado,98,264,Home&Kitchen
+2699.0,4700.0,0.43,4.2,Sucesso Moderado,92,1431,Home&Kitchen
+1448.0,2999.0,0.52,4.5,Fracasso/Nicho,175,354,Home&Kitchen
+79.0,79.0,0.0,4.0,Fracasso/Nicho,166,747,Home&Kitchen
+6990.0,14290.0,0.51,4.4,Sucesso Moderado,97,548,Home&Kitchen
+2698.0,3945.0,0.32,4.0,Sucesso Moderado,79,431,Home&Kitchen
+3199.0,5999.0,0.47,4.0,Sucesso Moderado,98,513,Home&Kitchen
+1199.0,1950.0,0.39,3.9,Sucesso Moderado,159,601,Home&Kitchen
+1414.0,2799.0,0.49,4.0,Sucesso Moderado,177,940,Home&Kitchen
+999.0,1950.0,0.49,3.8,Fracasso/Nicho,130,570,Home&Kitchen
+5999.0,9999.0,0.4,4.2,Sucesso Moderado,168,1227,Home&Kitchen
+9970.0,12999.0,0.23,4.3,Sucesso Moderado,194,575,Home&Kitchen
+698.0,699.0,0.0,4.2,Sucesso Moderado,75,437,Home&Kitchen
+2199.0,3190.0,0.31,4.3,Sucesso Moderado,51,303,Home&Kitchen
+320.0,799.0,0.6,4.2,Sucesso Moderado,99,659,Home&Kitchen
+298.0,499.0,0.4,4.4,Fracasso/Nicho,198,2064,Home&Kitchen
+1199.0,1499.0,0.2,3.8,Sucesso Moderado,113,916,Home&Kitchen
+1399.0,2660.0,0.47,4.1,Sucesso Moderado,39,454,Home&Kitchen
+599.0,2799.0,0.79,3.9,Fracasso/Nicho,194,622,Home&Kitchen
+1499.0,1499.0,0.0,4.3,Sucesso Moderado,43,443,Home&Kitchen
+14400.0,59900.0,0.76,4.4,Sucesso Moderado,176,5,Home&Kitchen
+1699.0,1900.0,0.11,3.6,Sucesso Moderado,136,779,Home&Kitchen
+649.0,999.0,0.35,3.8,Fracasso/Nicho,57,367,Home&Kitchen
+3249.0,6375.0,0.49,4.0,Sucesso Moderado,66,192,Home&Kitchen
+199.0,499.0,0.6,4.1,Sucesso Moderado,175,583,Home&Kitchen
+1099.0,1899.0,0.42,4.3,Sucesso Moderado,82,508,Home&Kitchen
+664.0,1490.0,0.55,4.0,Sucesso Moderado,107,90,Home&Kitchen
+260.0,350.0,0.26,3.9,Sucesso Moderado,49,170,Home&Kitchen
+6499.0,8500.0,0.24,4.4,Sucesso Moderado,103,1046,Home&Kitchen
+1484.0,2499.0,0.41,3.7,Sucesso Moderado,144,177,Home&Kitchen
+999.0,1560.0,0.36,3.6,Sucesso Moderado,115,727,Home&Kitchen
+3299.0,6500.0,0.49,3.7,Sucesso Moderado,225,1477,Home&Kitchen
+259.0,999.0,0.74,4.0,Fracasso/Nicho,154,787,Home&Kitchen
+3249.0,7795.0,0.58,4.2,Sucesso Moderado,72,745,Home&Kitchen
+4280.0,5995.0,0.29,3.8,Sucesso Moderado,100,542,Home&Kitchen
+189.0,299.0,0.37,4.2,Sucesso Moderado,128,1848,Home&Kitchen
+1449.0,2349.0,0.38,3.9,Sucesso Moderado,92,664,Home&Kitchen
+199.0,499.0,0.6,4.0,Sucesso Moderado,152,573,Home&Kitchen
+474.0,1299.0,0.64,4.1,Fracasso/Nicho,173,370,Home&Kitchen
+279.0,499.0,0.44,4.8,Fracasso/Nicho,268,1173,Home&Kitchen
+1999.0,4775.0,0.58,4.2,Sucesso Moderado,62,125,Home&Kitchen
+799.0,1230.0,0.35,4.1,Sucesso Moderado,163,1111,Home&Kitchen
+949.0,1999.0,0.53,4.0,Sucesso Moderado,200,1267,Home&Kitchen
+3657.66,5156.0,0.29,3.9,Sucesso Moderado,101,589,Home&Kitchen
+1699.0,1999.0,0.15,4.1,Sucesso Moderado,67,245,Home&Kitchen
+1849.0,2095.0,0.12,4.3,Sucesso Moderado,58,841,Home&Kitchen
+12499.0,19825.0,0.37,4.1,Fracasso/Nicho,62,310,Home&Kitchen
+1099.0,1920.0,0.43,4.2,Sucesso Moderado,114,265,Home&Kitchen
+8199.0,16000.0,0.49,3.9,Sucesso Moderado,137,1202,Home&Kitchen
+499.0,2199.0,0.77,3.7,Fracasso/Nicho,158,1038,Home&Kitchen
+6999.0,14999.0,0.53,4.1,Sucesso Moderado,192,543,Home&Kitchen
+1595.0,1799.0,0.11,4.0,Sucesso Moderado,230,1915,Home&Kitchen
+1049.0,1950.0,0.46,3.8,Fracasso/Nicho,155,472,Home&Kitchen
+1182.0,2995.0,0.61,4.2,Sucesso Moderado,151,555,Home&Kitchen
+499.0,999.0,0.5,4.6,Fracasso/Nicho,193,1531,Home&Kitchen
+8799.0,11995.0,0.27,4.1,Sucesso Moderado,116,1008,Home&Kitchen
+1529.0,2999.0,0.49,3.3,Fracasso/Nicho,163,1528,Home&Kitchen
+1199.0,1690.0,0.29,4.2,Sucesso Moderado,66,288,Home&Kitchen
+1052.0,1790.0,0.41,4.3,Sucesso Moderado,178,745,Home&Kitchen
+6499.0,8995.0,0.28,4.3,Sucesso Moderado,70,472,Home&Kitchen
+239.0,239.0,0.0,4.3,Fracasso/Nicho,107,243,Home&Kitchen
+699.0,1599.0,0.56,4.7,Sucesso Moderado,179,860,Home&Kitchen
+2599.0,4290.0,0.39,4.4,Sucesso Moderado,80,1300,Home&Kitchen
+1547.0,2890.0,0.46,3.9,Fracasso/Nicho,191,336,Home&Kitchen
+499.0,1299.0,0.62,4.7,Fracasso/Nicho,132,1483,Home&Kitchen
+510.0,640.0,0.2,4.1,Sucesso Moderado,47,593,Home&Kitchen
+1899.0,3790.0,0.5,3.8,Sucesso Moderado,119,539,Home&Kitchen
+2599.0,4560.0,0.43,4.4,Fracasso/Nicho,70,796,Home&Kitchen
+1199.0,3500.0,0.66,4.3,Sucesso Moderado,195,338,Home&Kitchen
+999.0,2600.0,0.62,3.4,Fracasso/Nicho,128,705,Home&Kitchen
+1999.0,3300.0,0.39,4.2,Fracasso/Nicho,48,953,Home&Kitchen
+210.0,699.0,0.7,3.7,Fracasso/Nicho,191,1368,Home&Kitchen
+14499.0,23559.0,0.38,4.3,Sucesso Moderado,199,796,Home&Kitchen
+950.0,1599.0,0.41,4.3,Sucesso Moderado,54,94,Home&Kitchen
+7199.0,9995.0,0.28,4.4,Sucesso Moderado,112,557,Home&Kitchen
+2439.0,2545.0,0.04,4.1,Fracasso/Nicho,77,165,Home&Kitchen
+7799.0,8995.0,0.13,4.0,Sucesso Moderado,126,1019,Home&Kitchen
+1599.0,1999.0,0.2,4.4,Sucesso Moderado,132,1195,Home&Kitchen
+2899.0,5500.0,0.47,3.8,Sucesso Moderado,196,1022,Home&Kitchen
+9799.0,12150.0,0.19,4.3,Sucesso Moderado,141,645,Home&Kitchen
+3299.0,4995.0,0.34,3.8,Sucesso Moderado,81,326,Home&Kitchen
+669.0,1499.0,0.55,2.3,Fracasso/Nicho,154,1394,Home&Kitchen
+5890.0,7506.0,0.22,4.5,Sucesso Moderado,53,399,Home&Kitchen
+9199.0,18000.0,0.49,4.0,Sucesso Moderado,172,815,Home&Kitchen
+351.0,1099.0,0.68,3.7,Sucesso Moderado,87,490,Home&Kitchen
+899.0,1900.0,0.53,4.0,Sucesso Moderado,65,1570,Health&PersonalCare
+1349.0,1850.0,0.27,4.4,Fracasso/Nicho,200,1218,Home&Kitchen
+6236.0,9999.0,0.38,4.1,Sucesso Moderado,139,478,Home&Kitchen
+2742.0,3995.0,0.31,4.4,Sucesso Moderado,186,1519,Home&Kitchen
+721.0,1499.0,0.52,3.1,Sucesso Moderado,181,958,Home&Kitchen
+2903.0,3295.0,0.12,4.3,Sucesso Moderado,174,456,Home&Kitchen
+1656.0,2695.0,0.39,4.4,Sucesso Moderado,197,1546,Home&Kitchen
+1399.0,2290.0,0.39,4.4,Fracasso/Nicho,154,1145,Home&Kitchen
+2079.0,3099.0,0.33,4.1,Fracasso/Nicho,191,573,Home&Kitchen
+999.0,1075.0,0.07,4.1,Sucesso Moderado,195,509,Home&Kitchen
+3179.0,6999.0,0.55,4.0,Fracasso/Nicho,184,1163,Home&Kitchen
+1049.0,2499.0,0.58,3.6,Fracasso/Nicho,128,1717,Home&Kitchen
+3599.0,7290.0,0.51,3.9,Fracasso/Nicho,115,733,Home&Kitchen
+4799.0,5795.0,0.17,3.9,Sucesso Moderado,86,520,Home&Kitchen
+1699.0,3398.0,0.5,3.8,Sucesso Moderado,159,655,Home&Kitchen
+664.0,1490.0,0.55,4.1,Fracasso/Nicho,104,90,Home&Kitchen
+948.0,1620.0,0.41,4.1,Sucesso Moderado,97,426,Home&Kitchen
+850.0,1000.0,0.15,4.1,Sucesso Moderado,86,571,Home&Kitchen
+600.0,640.0,0.06,3.8,Sucesso Moderado,44,237,Home&Kitchen
+3711.0,4495.0,0.17,4.3,Fracasso/Nicho,57,534,Home&Kitchen
+799.0,2999.0,0.73,4.5,Fracasso/Nicho,154,770,Home&Kitchen
+980.0,980.0,0.0,4.2,Sucesso Moderado,93,594,Home&Kitchen
+351.0,899.0,0.61,3.9,Fracasso/Nicho,97,789,Home&Kitchen
+229.0,499.0,0.54,3.5,Fracasso/Nicho,106,154,Home&Kitchen
+3349.0,3995.0,0.16,4.3,Sucesso Moderado,172,409,Home&Kitchen
+5499.0,11500.0,0.52,3.9,Fracasso/Nicho,112,284,Home&Kitchen
+299.0,499.0,0.4,3.9,Sucesso Moderado,192,525,Home&Kitchen
+2249.0,3550.0,0.37,4.0,Sucesso Moderado,163,1451,Home&Kitchen
+699.0,1599.0,0.56,4.7,Sucesso Moderado,178,14,Home&Kitchen
+1235.0,1499.0,0.18,4.1,Fracasso/Nicho,95,363,Home&Kitchen
+1349.0,2999.0,0.55,3.8,Fracasso/Nicho,200,670,Home&Kitchen
+6800.0,11500.0,0.41,4.1,Sucesso Moderado,93,493,Home&Kitchen
+2099.0,2499.0,0.16,,Fracasso/Nicho,155,179,Home&Kitchen
+1699.0,1975.0,0.14,4.1,Sucesso Moderado,164,649,Home&Kitchen
+1069.0,1699.0,0.37,3.9,Fracasso/Nicho,107,262,Home&Kitchen
+1349.0,2495.0,0.46,3.8,Fracasso/Nicho,151,876,Home&Kitchen
+1499.0,3500.0,0.57,4.1,Fracasso/Nicho,48,368,Home&Kitchen
+2092.0,4600.0,0.55,4.3,Fracasso/Nicho,103,394,Home&Kitchen
+3859.0,10295.0,0.63,3.9,Sucesso Moderado,148,1202,Home&Kitchen
+499.0,2199.0,0.77,2.8,Fracasso/Nicho,158,762,Home&Kitchen
+1804.0,2380.0,0.24,4.0,Sucesso Moderado,87,604,Home&Kitchen
+6525.0,8820.0,0.26,4.5,Sucesso Moderado,88,582,Home&Kitchen
+4999.0,24999.0,0.8,4.6,Fracasso/Nicho,174,1713,Home&Kitchen
+1189.0,2400.0,0.5,4.1,Fracasso/Nicho,65,576,Home&Kitchen
+2590.0,4200.0,0.38,4.1,Fracasso/Nicho,102,639,Home&Kitchen
+899.0,1599.0,0.44,3.4,Fracasso/Nicho,103,292,Home&Kitchen
+998.0,2999.0,0.67,4.6,Fracasso/Nicho,135,508,Home&Kitchen
+998.06,1282.0,0.22,4.2,Sucesso Moderado,61,298,Home&Kitchen
+1099.0,1990.0,0.45,3.9,Sucesso Moderado,100,385,Home&Kitchen
+5999.0,9999.0,0.4,4.2,Fracasso/Nicho,109,476,Home&Kitchen
+8886.0,11850.0,0.25,4.2,Sucesso Moderado,217,2126,Home&Kitchen
+475.0,999.0,0.52,4.1,Sucesso Moderado,140,1104,Home&Kitchen
+4995.0,20049.0,0.75,4.8,Sucesso Moderado,176,1026,Home&Kitchen
+13999.0,24850.0,0.44,4.4,Sucesso Moderado,96,1523,Home&Kitchen
+8499.0,16490.0,0.48,4.3,Fracasso/Nicho,95,1156,Home&Kitchen
+949.0,975.0,0.03,4.3,Sucesso Moderado,69,269,Home&Kitchen
+395.0,499.0,0.21,4.0,Fracasso/Nicho,161,583,Home&Kitchen
+635.0,635.0,0.0,4.3,Sucesso Moderado,80,298,Home&Kitchen
+717.0,1390.0,0.48,4.0,Sucesso Moderado,101,914,Home&Kitchen
+27900.0,59900.0,0.53,4.4,Sucesso Moderado,186,1210,Home&Kitchen
+649.0,670.0,0.03,4.1,Sucesso Moderado,34,140,Home&Kitchen
+193.0,399.0,0.52,3.6,Fracasso/Nicho,196,713,Home&Kitchen
+1299.0,2495.0,0.48,2.0,Fracasso/Nicho,53,198,Home&Kitchen
+2449.0,3390.0,0.28,4.0,Sucesso Moderado,99,300,Home&Kitchen
+1049.0,2499.0,0.58,3.7,Fracasso/Nicho,126,1717,Home&Kitchen
+2399.0,4200.0,0.43,3.8,Fracasso/Nicho,48,259,Home&Kitchen
+2286.0,4495.0,0.49,3.9,Fracasso/Nicho,184,1843,Home&Kitchen
+499.0,2199.0,0.77,3.1,Sucesso Moderado,155,1026,Home&Kitchen
+429.0,999.0,0.57,3.0,Fracasso/Nicho,189,1012,Home&Kitchen
+299.0,595.0,0.5,4.0,Fracasso/Nicho,53,542,Home&Kitchen
+5395.0,19990.0,0.73,4.4,Fracasso/Nicho,172,1881,Home&Kitchen
+559.0,1010.0,0.45,4.1,Sucesso Moderado,93,276,Home&Kitchen
+660.0,1100.0,0.4,3.6,Fracasso/Nicho,166,98,Home&Kitchen
+419.0,999.0,0.58,4.4,Fracasso/Nicho,107,244,Home&Kitchen
+7349.0,10900.0,0.33,4.2,Sucesso Moderado,83,608,Home&Kitchen
+2899.0,4005.0,0.28,4.3,Sucesso Moderado,61,224,Home&Kitchen
+1799.0,3295.0,0.45,3.8,Fracasso/Nicho,200,1509,Home&Kitchen
+1474.0,4650.0,0.68,4.1,Sucesso Moderado,93,591,Home&Kitchen
+15999.0,24500.0,0.35,4.0,Sucesso Moderado,184,2305,Home&Kitchen
+3645.0,6070.0,0.4,4.2,Fracasso/Nicho,72,412,Home&Kitchen
+375.0,999.0,0.62,3.6,Sucesso Moderado,198,1735,Home&Kitchen
+2976.0,3945.0,0.25,4.2,Sucesso Moderado,69,346,Home&Kitchen
+1099.0,1499.0,0.27,4.1,Sucesso Moderado,197,558,Home&Kitchen
+2575.0,6700.0,0.62,4.2,Fracasso/Nicho,163,1132,Home&Kitchen
+1649.0,2800.0,0.41,3.9,Sucesso Moderado,64,477,Home&Kitchen
+799.0,1699.0,0.53,4.0,Fracasso/Nicho,122,707,Home&Kitchen
+765.0,970.0,0.21,4.2,Sucesso Moderado,44,269,Home&Kitchen
+999.0,1500.0,0.33,4.2,Fracasso/Nicho,198,824,Home&Kitchen
+587.0,1295.0,0.55,4.1,Fracasso/Nicho,103,162,Home&Kitchen
+12609.0,23999.0,0.47,4.4,Sucesso Moderado,62,521,Home&Kitchen
+699.0,850.0,0.18,4.1,Sucesso Moderado,44,361,Home&Kitchen
+3799.0,6000.0,0.37,4.2,Sucesso Moderado,133,999,Home&Kitchen
+640.0,1020.0,0.37,4.1,Sucesso Moderado,98,98,Home&Kitchen
+979.0,1999.0,0.51,3.9,Fracasso/Nicho,165,1012,Home&Kitchen
+5365.0,7445.0,0.28,3.9,Sucesso Moderado,66,39,Home&Kitchen
+3199.0,3500.0,0.09,4.2,Sucesso Moderado,73,667,Home&Kitchen
+979.0,1395.0,0.3,4.2,Sucesso Moderado,133,1231,Home&Kitchen
+929.0,2199.0,0.58,3.7,Fracasso/Nicho,63,21,Home&Kitchen
+3710.0,4330.0,0.14,3.7,Sucesso Moderado,104,169,Home&Kitchen
+2033.0,4295.0,0.53,3.4,Fracasso/Nicho,182,1205,Home&Kitchen
+9495.0,18990.0,0.5,4.2,Fracasso/Nicho,69,1133,Home&Kitchen
+7799.0,12500.0,0.38,4.0,Sucesso Moderado,132,520,Home&Kitchen
+949.0,2385.0,0.6,4.1,Sucesso Moderado,167,616,Home&Kitchen
+2790.0,4890.0,0.43,3.9,Fracasso/Nicho,122,529,Home&Kitchen
+645.0,1100.0,0.41,4.0,Sucesso Moderado,78,676,Home&Kitchen
+2237.81,3899.0,0.43,3.9,Sucesso Moderado,49,794,Home&Kitchen
+8699.0,16899.0,0.49,4.2,Sucesso Moderado,127,1466,Home&Kitchen
+42990.0,75990.0,0.43,4.3,Sucesso Moderado,155,827,Home&Kitchen
+825.0,825.0,0.0,4.0,Sucesso Moderado,62,312,Home&Kitchen
+161.0,300.0,0.46,2.6,Fracasso/Nicho,89,575,Home&Kitchen
+697.0,1499.0,0.54,3.8,Fracasso/Nicho,120,501,Home&Kitchen
+688.0,747.0,0.08,4.5,Sucesso Moderado,58,141,Home&Kitchen
+2199.0,3999.0,0.45,3.5,Fracasso/Nicho,73,135,Home&Kitchen
+6850.0,11990.0,0.43,3.9,Fracasso/Nicho,78,332,Home&Kitchen
+2699.0,3799.0,0.29,4.0,Fracasso/Nicho,76,490,Home&Kitchen
+899.0,1999.0,0.55,4.0,Fracasso/Nicho,170,742,Home&Kitchen
+1090.0,2999.0,0.64,3.5,Fracasso/Nicho,91,536,Home&Kitchen
+295.0,599.0,0.51,4.0,Sucesso Moderado,185,311,Home&Kitchen
+479.0,1999.0,0.76,3.4,Sucesso Moderado,132,221,Home&Kitchen
+2949.0,4849.0,0.39,4.2,Sucesso Moderado,68,1088,Home&Kitchen
+335.0,510.0,0.34,3.8,Sucesso Moderado,64,241,Home&Kitchen
+293.0,499.0,0.41,4.1,Sucesso Moderado,485,761,Home&Kitchen
+599.0,1299.0,0.54,4.2,Fracasso/Nicho,119,1130,Home&Kitchen
+499.0,999.0,0.5,4.3,Sucesso Moderado,128,776,Home&Kitchen
+849.0,1190.0,0.29,4.2,Sucesso Moderado,160,364,Home&Kitchen
+249.0,400.0,0.38,4.1,Fracasso/Nicho,94,243,Home&Kitchen
+185.0,599.0,0.69,3.9,Sucesso Moderado,185,665,Home&Kitchen
+778.0,999.0,0.22,3.3,Fracasso/Nicho,143,489,Home&Kitchen
+279.0,699.0,0.6,4.3,Sucesso Moderado,179,960,Home&Kitchen
+215.0,1499.0,0.86,3.9,Sucesso Moderado,110,1169,Home&Kitchen
+889.0,1295.0,0.31,4.3,Sucesso Moderado,142,293,Home&Kitchen
+1449.0,4999.0,0.71,3.6,Fracasso/Nicho,93,334,Home&Kitchen
+1190.0,2550.0,0.53,3.8,Sucesso Moderado,166,100,Home&Kitchen
+1799.0,1950.0,0.08,3.9,Sucesso Moderado,176,721,Home&Kitchen
+6120.0,8478.0,0.28,4.6,Sucesso Moderado,53,553,Home&Kitchen
+1799.0,3299.0,0.45,3.8,Sucesso Moderado,67,16,Home&Kitchen
+2199.0,3895.0,0.44,3.9,Sucesso Moderado,88,120,Home&Kitchen
+3685.0,5495.0,0.33,4.1,Fracasso/Nicho,177,772,Home&Kitchen
+649.0,999.0,0.35,3.6,Fracasso/Nicho,197,2089,Home&Kitchen
+8599.0,8995.0,0.04,4.4,Sucesso Moderado,69,394,Home&Kitchen
+1110.0,1599.0,0.31,4.3,Sucesso Moderado,100,248,Home&Kitchen
+1499.0,3500.0,0.57,4.7,Sucesso Moderado,194,1646,Home&Kitchen
+759.0,1999.0,0.62,4.3,Fracasso/Nicho,69,1082,Home&Kitchen
+2669.0,3199.0,0.17,3.9,Fracasso/Nicho,184,2128,Home&Kitchen
+929.0,1300.0,0.29,3.9,Sucesso Moderado,157,325,Home&Kitchen
+199.0,399.0,0.5,3.7,Sucesso Moderado,150,398,Home&Kitchen
+279.0,599.0,0.53,3.5,Sucesso Moderado,184,630,Home&Kitchen
+549.0,999.0,0.45,4.0,Sucesso Moderado,190,385,Home&Kitchen
+85.0,199.0,0.57,4.1,Fracasso/Nicho,69,375,Home&Kitchen
+499.0,1299.0,0.62,3.9,Fracasso/Nicho,137,340,Home&Kitchen
+5865.0,7776.0,0.25,4.4,Sucesso Moderado,71,510,Home&Kitchen
+1260.0,2299.0,0.45,4.3,Fracasso/Nicho,104,284,Home&Kitchen
+1099.0,1500.0,0.27,4.5,Sucesso Moderado,129,1661,Home&Kitchen
+1928.0,2590.0,0.26,4.0,Sucesso Moderado,41,393,Home&Kitchen
+3249.0,6299.0,0.48,3.9,Sucesso Moderado,169,1923,Home&Kitchen
+1199.0,1795.0,0.33,4.2,Sucesso Moderado,65,124,Home&Kitchen
+1456.0,3190.0,0.54,4.1,Sucesso Moderado,99,84,Home&Kitchen
+3349.0,4799.0,0.3,3.7,Sucesso Moderado,87,383,Home&Kitchen
+4899.0,8999.0,0.46,4.1,Fracasso/Nicho,115,704,Home&Kitchen
+1199.0,1899.0,0.37,4.2,Sucesso Moderado,109,178,Home&Kitchen
+3290.0,5799.0,0.43,4.3,Fracasso/Nicho,192,870,Home&Kitchen
+179.0,799.0,0.78,3.6,Fracasso/Nicho,89,1057,Home&Kitchen
+149.0,300.0,0.5,4.1,Sucesso Moderado,144,498,Home&Kitchen
+5490.0,7200.0,0.24,4.5,Sucesso Moderado,57,602,Home&Kitchen
+379.0,389.0,0.03,4.2,Sucesso Moderado,162,285,Home&Kitchen
+8699.0,13049.0,0.33,4.3,Sucesso Moderado,239,1227,Home&Kitchen
+3041.67,5999.0,0.49,4.0,Fracasso/Nicho,56,267,Home&Kitchen
+1745.0,2400.0,0.27,4.2,Sucesso Moderado,106,565,Home&Kitchen
+3180.0,5295.0,0.4,4.2,Sucesso Moderado,54,273,Home&Kitchen
+4999.0,24999.0,0.8,4.5,Fracasso/Nicho,110,887,Home&Kitchen
+390.0,799.0,0.51,3.8,Fracasso/Nicho,136,991,Home&Kitchen
+1999.0,2999.0,0.33,4.4,Fracasso/Nicho,157,1822,Home&Kitchen
+1624.0,2495.0,0.35,4.1,Fracasso/Nicho,95,1047,Home&Kitchen
+184.0,450.0,0.59,4.2,Sucesso Moderado,67,570,Home&Kitchen
+445.0,999.0,0.55,4.3,Fracasso/Nicho,222,1233,Home&Kitchen
+699.0,1690.0,0.59,4.1,Sucesso Moderado,73,175,Home&Kitchen
+1601.0,3890.0,0.59,4.2,Fracasso/Nicho,95,572,Home&Kitchen
+231.0,260.0,0.11,4.1,Fracasso/Nicho,42,28,Home&Kitchen
+369.0,599.0,0.38,3.9,Fracasso/Nicho,45,452,Home&Kitchen
+809.0,1950.0,0.59,3.9,Fracasso/Nicho,117,747,Home&Kitchen
+1199.0,2990.0,0.6,3.8,Fracasso/Nicho,131,1443,Home&Kitchen
+6120.0,8073.0,0.24,4.6,Sucesso Moderado,56,515,Home&Kitchen
+1799.0,2599.0,0.31,3.6,Fracasso/Nicho,179,275,Home&Kitchen
+18999.0,29999.0,0.37,4.1,Sucesso Moderado,199,2245,Home&Kitchen
+1999.0,2360.0,0.15,4.2,Sucesso Moderado,47,727,Home&Kitchen
+5999.0,11495.0,0.48,4.3,Fracasso/Nicho,178,634,Home&Kitchen
+2599.0,4780.0,0.46,3.9,Fracasso/Nicho,114,821,Home&Kitchen
+1199.0,2400.0,0.5,3.9,Sucesso Moderado,163,827,Home&Kitchen
+219.0,249.0,0.12,4.0,Sucesso Moderado,178,581,Home&Kitchen
+799.0,1199.0,0.33,4.4,Fracasso/Nicho,186,552,Home&Kitchen
+6199.0,10999.0,0.44,4.2,Sucesso Moderado,168,877,Home&Kitchen
+6790.0,10995.0,0.38,4.5,Sucesso Moderado,200,1324,Home&Kitchen
+1982.84,3300.0,0.4,4.1,Sucesso Moderado,100,776,Home&Kitchen
+199.0,400.0,0.5,4.1,Sucesso Moderado,42,23,Home&Kitchen
+1180.0,1440.0,0.18,4.2,Sucesso Moderado,103,351,Home&Kitchen
+2199.0,3045.0,0.28,4.2,Sucesso Moderado,53,488,Home&Kitchen
+2999.0,3595.0,0.17,4.0,Fracasso/Nicho,77,515,Home&Kitchen
+253.0,500.0,0.49,4.3,Sucesso Moderado,98,207,Home&Kitchen
+499.0,799.0,0.38,3.6,Fracasso/Nicho,194,812,Home&Kitchen
+1149.0,1899.0,0.39,3.5,Fracasso/Nicho,111,257,Home&Kitchen
+457.0,799.0,0.43,4.3,Sucesso Moderado,83,100,Home&Kitchen
+229.0,399.0,0.43,3.6,Fracasso/Nicho,68,266,Home&Kitchen
+199.0,699.0,0.72,2.9,Fracasso/Nicho,183,691,Home&Kitchen
+899.0,1999.0,0.55,4.2,Fracasso/Nicho,172,1152,Home&Kitchen
+1499.0,2199.0,0.32,4.4,Sucesso Moderado,43,319,Home&Kitchen
+426.0,999.0,0.57,4.1,Fracasso/Nicho,162,1941,Home&Kitchen
+2320.0,3290.0,0.29,3.8,Fracasso/Nicho,36,36,Home&Kitchen
+1563.0,3098.0,0.5,3.5,Sucesso Moderado,195,1039,Home&Kitchen
+3487.77,4990.0,0.3,4.1,Sucesso Moderado,78,212,Home&Kitchen
+498.0,1200.0,0.59,3.2,Fracasso/Nicho,151,1238,Home&Kitchen
+2695.0,2695.0,0.0,4.4,Sucesso Moderado,56,352,Home&Kitchen
+949.0,2299.0,0.59,3.6,Fracasso/Nicho,159,1128,Home&Kitchen
+199.0,999.0,0.8,3.1,Fracasso/Nicho,171,1311,Home&Kitchen
+379.0,919.0,0.59,4.0,Sucesso Moderado,183,423,Home&Kitchen
+2280.0,3045.0,0.25,4.1,Sucesso Moderado,55,28,Home&Kitchen
+2219.0,3080.0,0.28,3.6,Fracasso/Nicho,78,297,Home&Kitchen
+1399.0,1890.0,0.26,4.0,Sucesso Moderado,54,528,Home&Kitchen
+2863.0,3690.0,0.22,4.3,Sucesso Moderado,52,391,Home&Kitchen
