@@ -6,7 +6,7 @@
 
 Olá! Sou engenheiro de Controle e Automação formado pela Universidade Federal de Lavras (UFLA) e atualmente curso pós-graduação em *Analytics e Business Intelligence* pela PUC Minas. Tenho como foco o desenvolvimento de soluções **data-driven**, unindo análise de dados, modelagem, automação de processos e visualizações interativas com ferramentas como **Power BI**, **Tableau** e **Excel Avançado**.
 
-Tenho familiaridade com linguagens como **Python**, **SQL** e **C++**, aplicando conceitos de **inteligência de negócios (BI)**, **indicadores de desempenho (KPIs)** e **eficiência operacional**. Busco constantemente oportunidades para atuar em projetos que gerem valor por meio dos dados e da tecnologia, sempre com uma visão estratégica voltada para a tomada de decisão.
+Tenho familiaridade com linguagens como **Python**, **SQL** e **C++**, aplicando conceitos de **inteligência de negócios (BI)**, **Machine Learning**, **indicadores de desempenho (KPIs)** e **eficiência operacional**. Busco constantemente oportunidades para atuar em projetos que gerem valor por meio dos dados e da tecnologia, sempre com uma visão estratégica voltada para a tomada de decisão.
 
 ### 📂 Sobre este repositório
 
@@ -14,6 +14,7 @@ Este repositório reúne projetos de análise de dados que percorrem todas as et
 
 ## 📚 Projetos
 
+- [📊 Projeto de Machine Learning – Previsão de Sucesso de Produtos](./Projeto_ML_Amazon_Sales/1.Docs/Projeto_ML_Amazon_Sales.md)
 - [📊 Análise de Vendas e Engajamento de uma Startup SaaS](./Projeto_SaaS_BI/1.Docs/Projeto_SaaS_BI.md)
 - [📊 Análise da Felicidade Global 2024](https://github.com/Joao-Nery1/Joao-Nery1/tree/main/Projeto_World_Happiness_2024/1.Docs/Projeto_World_Happiness_2024.md)
 - [📊 Projeto de ETL Business Intelligence - Loja Esportiva](https://github.com/Joao-Nery1/Joao-Nery1/tree/main/Projeto_ETL_DW_Loja/1.Docs/Projeto_ETL_DW_LojaEsporte.md)
@@ -24,7 +25,8 @@ As tecnologias utilizadas incluem:
 - 🗄️ **SQL Server** (Consultas, Joins, Views, Procedures)  
 - 📊 **Power BI** (Modelagem de dados, DAX, Dashboards interativos)  
 - 🎨 Tableau (Desenvolvimento de dashboards, Visualizações interativas, Storytelling)
-- 🐍 **Python** (Pandas, Matplotlib, Seaborn, Jupyter Notebooks)
+- 🐍 **Python** (Pandas, Matplotlib, Seaborn, Jupyter Notebooks, Scikit-learn)
+- 🍊 Orange Data Mining (Programação visual, Amostragem de dados, Avaliação de modelos, Random Forest, Seleção de atributos)
 - 🔄 **Pentaho Data Integration (PDI)** (Jobs, Transformações, Table Inputs, Tratamento de Dados, Automatização de ETL)
 
 O objetivo principal é transformar dados brutos em **insights acionáveis**, apoiando decisões mais inteligentes e eficientes.
@@ -46,7 +48,7 @@ Estou aberto a **conversas, feedbacks, colaborações** e novas conexões na ár
 
 Hi! I'm a Control and Automation Engineer, graduated from the Federal University of Lavras (UFLA), and currently pursuing a post-graduate degree in *Analytics and Business Intelligence* at PUC Minas. My focus is on developing **data-driven solutions** by combining data analysis, modeling, process automation, and interactive visualizations using tools like **Power BI**, **Tableau** and advanced **Excel**.
 
-I'm familiar with programming languages such as **Python**, **SQL**, and **C++**, applying concepts of **business intelligence (BI)**, **key performance indicators (KPIs)**, and **operational efficiency**. I'm always looking for opportunities to work on data analysis and visualization projects, contributing strategically to data-informed decision-making and value generation through technology.
+I'm familiar with programming languages such as **Python**, **SQL**, and **C++**, applying concepts of **business intelligence (BI)**, **Machine Learning*, **key performance indicators (KPIs)**, and **operational efficiency**. I'm always looking for opportunities to work on data analysis and visualization projects, contributing strategically to data-informed decision-making and value generation through technology.
 
 ### 📂 About this repository
 
@@ -54,6 +56,7 @@ This repository includes data analysis projects covering all steps of the analyt
 
 ## 📚 Projects
 
+- [📊 Machine Learning Project – Product Success Prediction](./Projeto_ML_Amazon_Sales/1.Docs/Projeto_ML_Amazon_Sales.md)
 - [📊 Sales and Engagement Analysis for a SaaS Startup](./Projeto_SaaS_BI/1.Docs/Projeto_SaaS_BI.md)
 - [📊 Global Happiness Analysis 2024](https://github.com/Joao-Nery1/Joao-Nery1/tree/main/Projeto_World_Happiness_2024/1.Docs/Projeto_World_Happiness_2024.md)
 - [📊 Business Intelligence ETL Project - Sports Store](https://github.com/Joao-Nery1/Joao-Nery1/tree/main/Projeto_ETL_DW_Loja/1.Docs/Projeto_ETL_DW_LojaEsporte.md)
@@ -64,7 +67,8 @@ Technologies used:
 - 🗄️ **SQL Server** (Queries, Joins, Views, Procedures)  
 - 📊 **Power BI** (Data modeling, DAX, Interactive dashboards)
 - 🎨 Tableau (Dashboard development, Interactive visualizations, Storytelling)
-- 🐍 **Python** (Pandas, Matplotlib, Seaborn, Jupyter Notebooks)
+- 🐍 **Python** (Pandas, Matplotlib, Seaborn, Jupyter Notebooks, Scikit-learn)
+- 🍊 Orange Data Mining (Visual programming, Data sampling, Model evaluation, Random Forest, Feature selection)
 - 🔄 **Pentaho Data Integration (PDI)** (Jobs, Transformations, Table Inputs, Data Cleansing, ETL Automation)
 
 The main goal is to turn raw data into **actionable insights** to support smarter and more efficient decisions.
