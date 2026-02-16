@@ -1,51 +1,45 @@
-# Projeto de Machine Learning – Previsão de Sucesso de Produtos
+# 🛒 Projeto de Machine Learning – Previsão de Sucesso de Produtos
+🇧🇷 Português
 
-## 1. Escopo do Projeto
+📝 Descrição do Projeto  
+Este projeto tem como objetivo a construção de um pipeline completo de Machine Learning aplicado ao contexto de e-commerce, com foco na **classificação do desempenho de produtos** a partir de suas características comerciais.
 
-Este projeto tem como objetivo desenvolver e avaliar um modelo de Machine Learning capaz de classificar produtos de e-commerce em três categorias de desempenho:
-
+Os produtos são classificados em três categorias:
 - **Fracasso / Nicho**
 - **Sucesso Moderado**
 - **Viral / Sucesso de Vendas**
 
-A motivação central é apoiar decisões estratégicas — como precificação, marketing e gestão de portfólio — a partir de características dos produtos, como preço, desconto, categoria e avaliações de usuários.
+O principal objetivo é apoiar decisões estratégicas de negócio, como precificação, marketing e gestão de portfólio, utilizando dados históricos de produtos.
 
 ---
 
-## 1.1 Base de Dados
+✅ Escopo do Projeto
 
+📄 1. Base de Dados  
 O projeto utiliza três conjuntos principais de dados:
 
-- **Base original**: arquivo contendo dados brutos de produtos (ex.: preços, categorias, ratings, descontos).
-- **Base tratada (ETL)**: gerada a partir de um processo de ETL em Python, onde os dados são limpos, transformados e preparados para modelagem.
-- **Base de teste**: utilizada exclusivamente para validação final e geração de previsões.
+- **Base Original**: dados brutos de produtos (preço, desconto, categoria, avaliações, etc.).
+- **Base Tratada (ETL)**: gerada a partir de um processo de ETL em Python.
+- **Base de Teste**: utilizada exclusivamente para validação final e geração de previsões.
 
 ---
 
-## 1.2 ETL e Pré-processamento
+🧹 2. ETL e Pré-processamento  
+O processo de ETL foi desenvolvido em Python e contempla:
 
-O processo de ETL foi implementado em Python e contempla:
-
-- Limpeza de dados inconsistentes e ausentes;
-- Conversão de tipos de dados;
-- Criação e padronização de variáveis relevantes;
-- Geração de um novo arquivo estruturado para consumo no :contentReference[oaicite:0]{index=0}.
-
-O notebook de ETL é responsável por garantir que os dados estejam prontos para análise e modelagem, reduzindo ruídos e vieses.
+- Limpeza de dados inconsistentes e valores ausentes;
+- Conversão e padronização de tipos de dados;
+- Criação de variáveis relevantes para a modelagem;
+- Geração de um dataset estruturado para consumo em ferramentas de Machine Learning.
 
 ---
 
-## 1.3 Modelagem
+ 📊 3. Modelagem e Experimentação  
+Após o ETL, os dados foram importados para o Orange Data Mining, onde foi construído um fluxo de experimentação contendo:
 
-Após o ETL, os dados foram utilizados em dois ambientes distintos:
-
-### Modelagem Visual
-
-No Orange Data Mining, foi construído um fluxo de experimentação com os seguintes passos:
-
-- Seleção de colunas relevantes;
-- Análise exploratória via Data Table;
-- Amostragem e separação de dados;
+- Seleção de atributos relevantes;
+- Análise exploratória dos dados;
+- Amostragem e separação do conjunto de dados;
 - Teste de múltiplos algoritmos de classificação:
   - kNN  
   - Regressão Logística  
@@ -53,13 +47,12 @@ No Orange Data Mining, foi construído um fluxo de experimentação com os segui
   - Random Forest  
   - Rede Neural  
 
-O widget **Rank** foi utilizado para avaliar a relevância das variáveis. A partir dessa análise, constatou-se que variáveis relacionadas a tamanho e dimensões não apresentavam impacto significativo no desempenho do modelo e foram desconsideradas.
+O widget Rank foi utilizado para avaliar a relevância das variáveis. Variáveis relacionadas a tamanho e dimensões não apresentaram impacto significativo e foram removidas.
 
 ---
 
-## 1.4 Seleção do Modelo
-
-Os algoritmos foram comparados utilizando as seguintes métricas:
+🏆 4. Seleção do Modelo  
+Os modelos foram comparados utilizando as seguintes métricas:
 
 - AUC  
 - Acurácia (CA)  
@@ -68,17 +61,116 @@ Os algoritmos foram comparados utilizando as seguintes métricas:
 - F1-score  
 - MCC  
 
-Com base nesses critérios, o **Random Forest** apresentou o melhor desempenho geral e foi selecionado como modelo final.
+Com base nesses critérios, o **Random Forest** foi selecionado como modelo final.
 
 ---
 
-## 1.5 Implementação em Python
+⚙️ 5. Implementação em Python  
+Após a validação no ambiente visual, o modelo Random Forest foi implementado diretamente em Python, garantindo:
 
-Após a validação no ambiente visual, o modelo de Random Forest foi implementado diretamente em Python, reproduzindo:
+- Reprodutibilidade do treinamento;
+- Avaliação consistente das métricas;
+- Geração de previsões para novos produtos.
 
-- O processo de treinamento;
-- A avaliação com métricas de classificação;
-- A geração de previsões para novos produtos.
+---
 
-Essa etapa garante reprodutibilidade, maior controle do pipeline e possibilidade de integração futura com aplicações reais.
+## 📚 Acesse o Projeto
+
+- [🛒 Projeto de Machine Learning – Previsão de Sucesso de Produtos](https://github.com/Joao-Nery1/Joao-Nery1/tree/main/Projeto_ML_Amazon_Sales)
+
+## 👨‍💻 Autor
+
+João Batista Nery  
+[LinkedIn](https://www.linkedin.com/in/joaobatistanery)
+
+---
+
+## 🇺🇸 English Version
+
+# 🛒 Machine Learning Project – Product Success Prediction
+
+📝 Project Description  
+This project aims to build a complete Machine Learning pipeline applied to an e-commerce context, focusing on **product performance classification** based on commercial attributes.
+
+Products are classified into three categories:
+- **Failure / Niche**
+- **Moderate Success**
+- **Viral / High Sales Success**
+
+The main goal is to support strategic business decisions such as pricing, marketing, and product portfolio management.
+
+---
+
+✅ Project Scope
+
+📄 1. Dataset  
+The project uses three main datasets:
+
+- **Raw Dataset**: original product data (price, discount, category, ratings, etc.).
+- **Processed Dataset (ETL)**: generated through a Python ETL process.
+- **Test Dataset**: used exclusively for final validation and predictions.
+
+---
+
+🧹 2. ETL and Preprocessing  
+The ETL process includes:
+
+- Data cleaning and missing value handling;
+- Data type conversion and standardization;
+- Feature engineering;
+- Generation of a structured dataset for Machine Learning.
+
+---
+
+📊 3. Modeling and Experimentation  
+After ETL, the data was imported into Orange Data Mining for experimentation, including:
+
+- Feature selection;
+- Exploratory data analysis;
+- Data sampling and splitting;
+- Testing multiple classification algorithms:
+  - kNN  
+  - Logistic Regression  
+  - SVM  
+  - Random Forest  
+  - Neural Network  
+
+Low-impact features were removed based on feature ranking analysis.
+
+---
+
+🏆 4. Model Selection  
+Models were evaluated using:
+
+- AUC  
+- Accuracy  
+- Precision  
+- Recall  
+- F1-score  
+- MCC  
+
+The **Random Forest** model achieved the best overall performance and was selected as the final model.
+
+---
+
+⚙️ 5. Python Implementation  
+The final model was implemented in Python to ensure:
+
+- Reproducibility;
+- Controlled training and evaluation;
+- Prediction generation for new products.
+
+## 📚 Go to Project
+
+- [🛒 Machine Learning Project – Product Success Prediction](https://github.com/Joao-Nery1/Joao-Nery1/tree/main/Projeto_ML_Amazon_Sales)
+
+
+---
+
+## 👨‍💻 Author
+
+João Batista Nery  
+[LinkedIn](https://www.linkedin.com/in/joaobatistanery)
+
+---
 
